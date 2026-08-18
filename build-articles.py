@@ -11,7 +11,20 @@ head_part = html[:body_start + len("<body>")]
 footer_start = html.index("    <footer>")
 footer_part = html[footer_start:]
 
+# Merge new articles from auto-generator if present
+import json as _json
+_new_articles_file = os.path.join(BASE, "new-articles.json")
+_new_articles = {}
+if os.path.exists(_new_articles_file):
+    with open(_new_articles_file, encoding="utf-8") as _f:
+        _new_list = _json.load(_f)
+    for _a in _new_list:
+        _slug = _a.pop("slug")
+        _new_articles[_slug] = _a
+    print(f"Loaded {len(_new_articles)} new auto-generated articles")
+
 articles = {
+    **_new_articles,
     "berita/teknologi-ai-2026": {
         "category": "Teknologi",
         "breadcrumb": "Teknologi AI 2026",
