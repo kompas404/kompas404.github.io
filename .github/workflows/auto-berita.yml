@@ -19,11 +19,11 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: pip install feedparser requests
-
       - name: Generate new articles
-        run: python3 .github/scripts/news-generator.py
+        run: |
+          pip install feedparser
+          python3 .github/scripts/news-generator.py
+          python3 build-articles.py
 
       - name: Commit and push
         run: |
