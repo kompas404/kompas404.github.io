@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>KOMPAS404 - Portal Berita &amp; Informasi Terkini</title>
+    <link>https://kompas404.github.io</link>
+    <description>KOMPAS404 menyajikan berita terbaru, analisis tajam, dan informasi faktual setiap hari. Teknologi, bisnis, olahraga, lifestyle.</description>
+    <language>id-ID</language>
+    <lastBuildDate>Tue, 18 Aug 2026 22:00:00 +0700</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 22:00:00 +0700</pubDate>
+    <generator>KOMPAS404 RSS Generator</generator>
+    <image>
+        <url>https://kompas404.github.io/logo-kompas404.png</url>
+        <title>KOMPAS404</title>
+        <link>https://kompas404.github.io</link>
+        <width>160</width>
+        <height>160</height>
+    </image>
+    <atom:link href="https://kompas404.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+        <title>Perkembangan AI Terbaru 2026 — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/teknologi-ai-2026</link>
+        <description>Tahun 2026 menjadi tonggak penting dalam perkembangan kecerdasan buatan (AI) global. AI Multimodal, AI Agent Otonom, Regulasi AI Global, dan AI di Sektor Kesehatan.</description>
+        <pubDate>Mon, 18 Aug 2026 08:00:00 +0700</pubDate>
+        <category>Teknologi</category>
+    </item>
+    <item>
+        <title>Ekonomi Digital Indonesia 2026 — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/ekonomi-digital</link>
+        <description>Ekonomi digital Indonesia menunjukkan pertumbuhan impresif. Nilai transaksi e-commerce diproyeksikan menembus Rp800 triliun.</description>
+        <pubDate>Sun, 17 Aug 2026 08:00:00 +0700</pubDate>
+        <category>Bisnis</category>
+    </item>
+    <item>
+        <title>Ancaman Cybersecurity 2026 — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/cybersecurity-2026</link>
+        <description>Lanskap ancaman keamanan siber semakin kompleks. AI-powered attacks, ransomware-as-a-service, deepfake fraud, supply chain attack, cloud misconfiguration.</description>
+        <pubDate>Sat, 16 Aug 2026 08:00:00 +0700</pubDate>
+        <category>Teknologi</category>
+    </item>
+    <item>
+        <title>Update Sepakbola Terkini 2026 — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/sepakbola-terkini</link>
+        <description>Dunia sepakbola memasuki musim 2026/2027. Premier League, La Liga, Liga Champions, dan Timnas Indonesia bersiap kualifikasi Piala Dunia 2030.</description>
+        <pubDate>Fri, 15 Aug 2026 08:00:00 +0700</pubDate>
+        <category>Olahraga</category>
+    </item>
+    <item>
+        <title>Startup Indonesia Naik Daun 2026 — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/startup-indonesia</link>
+        <description>Ekosistem startup Indonesia terus bergeliat. GoTo, Shopee, Traveloka, OVO, Xendit — daftar unicorn terbaru 2026.</description>
+        <pubDate>Thu, 14 Aug 2026 08:00:00 +0700</pubDate>
+        <category>Bisnis</category>
+    </item>
+    <item>
+        <title>Tips Produktivitas Harian 2026 — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/tips-produktivitas</link>
+        <description>Teknik Pomodoro, Eisenhower Matrix, Digital Declutter, Time Blocking, dan Mindfulness Break untuk produktivitas maksimal.</description>
+        <pubDate>Wed, 13 Aug 2026 08:00:00 +0700</pubDate>
+        <category>Lifestyle</category>
+    </item>
+</channel>
+</rss>
