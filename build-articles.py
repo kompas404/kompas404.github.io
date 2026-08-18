@@ -1,4 +1,4 @@
-import os, sys
+import os
 
 BASE = os.path.expanduser(r"C:\Users\ideapad gaming 3\kompas404-seo")
 
@@ -11,52 +11,60 @@ head_part = html[:body_start + len("<body>")]
 footer_start = html.index("    <footer>")
 footer_part = html[footer_start:]
 
-CSS_START = html.index("<style>")
-CSS_END = html.index("</style>") + len("</style>")
-css_block = html[CSS_START:CSS_END]
-
 articles = {
     "berita/teknologi-ai-2026": {
         "category": "Teknologi",
         "breadcrumb": "Teknologi AI 2026",
         "title": "Perkembangan AI Terbaru 2026",
         "date": "18 Agustus 2026",
-        "content": '<p>KOMPAS404 - Tahun 2026 menjadi tonggak penting dalam perkembangan kecerdasan buatan (AI) global. Berbagai terobosan hadir mewarnai lanskap teknologi dunia, mulai dari model bahasa besar (LLM) generasi baru hingga sistem autonomous yang semakin canggih.</p>\n<h2>Tren Utama AI 2026</h2>\n<p>Beberapa tren utama yang mencuat di 2026 antara lain:</p>\n<ul><li><strong>AI Multimodal</strong> - Model yang mampu memproses teks, gambar, video, dan audio secara simultan kini menjadi standar industri.</li>\n<li><strong>AI Agent Otonom</strong> - Sistem AI yang dapat menjalankan tugas kompleks tanpa intervensi manusia semakin banyak diadopsi di sektor enterprise.</li>\n<li><strong>Regulasi AI Global</strong> - Uni Eropa, Amerika Serikat, dan Indonesia mulai menerapkan framework regulasi AI yang lebih ketat.</li>\n<li><strong>AI di Sektor Kesehatan</strong> - Diagnosa berbasis AI mencapai akurasi tinggi dalam deteksi dini kanker dan penyakit kardiovaskular.</li></ul>\n<p>Indonesia sendiri tidak ketinggalan. Beberapa startup lokal mulai mengembangkan model AI berbahasa Indonesia yang kompetitif. KOMPAS404 akan terus memantau perkembangan ini.</p>'
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+        "image_alt": "Artificial Intelligence Technology",
+        "content": '<p>KOMPAS404 - Tahun 2026 menjadi tonggak penting dalam perkembangan kecerdasan buatan (AI) global. Berbagai terobosan hadir mewarnai lanskap teknologi dunia.</p>\n<h2>Tren Utama AI 2026</h2>\n<ul><li><strong>AI Multimodal</strong> - Model yang mampu memproses teks, gambar, video, dan audio secara simultan kini menjadi standar industri.</li>\n<li><strong>AI Agent Otonom</strong> - Sistem AI yang dapat menjalankan tugas kompleks tanpa intervensi manusia.</li>\n<li><strong>Regulasi AI Global</strong> - Uni Eropa, AS, dan Indonesia mulai menerapkan framework regulasi AI.</li>\n<li><strong>AI di Sektor Kesehatan</strong> - Diagnosa berbasis AI mencapai akurasi tinggi untuk deteksi dini.</li></ul>\n<p>Indonesia tidak ketinggalan. Startup lokal mulai mengembangkan model AI berbahasa Indonesia yang kompetitif.</p>'
     },
     "berita/ekonomi-digital": {
         "category": "Bisnis",
         "breadcrumb": "Ekonomi Digital",
         "title": "Ekonomi Digital Indonesia 2026",
         "date": "17 Agustus 2026",
-        "content": '<p>KOMPAS404 - Ekonomi digital Indonesia terus menunjukkan pertumbuhan impresif di tahun 2026. Nilai transaksi e-commerce diproyeksikan menembus Rp800 triliun, naik signifikan dari tahun sebelumnya.</p>\n<h2>Pendorong Pertumbuhan</h2>\n<p>Beberapa faktor kunci:</p>\n<ul><li><strong>Penetrasi Internet</strong> - Lebih dari 215 juta pengguna internet, pasar digital terbesar di Asia Tenggara.</li>\n<li><strong>Adopsi QRIS</strong> - 50 juta merchant, memudahkan transaksi non-tunai.</li>\n<li><strong>Investasi Asing</strong> - VC global terus mengalir ke startup Indonesia.</li>\n<li><strong>UMKM Go Digital</strong> - 30 juta UMKM onboarding ke platform digital.</li></ul>\n<p>KOMPAS404 mencatat fintech dan logistik sebagai subsektor paling agresif. Simak terus analisis ekonomi digital hanya di KOMPAS404.</p>'
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
+        "image_alt": "Digital Economy Growth",
+        "content": '<p>KOMPAS404 - Ekonomi digital Indonesia terus menunjukkan pertumbuhan impresif di 2026. Nilai transaksi e-commerce diproyeksikan menembus Rp800 triliun.</p>\n<h2>Pendorong Pertumbuhan</h2>\n<ul><li><strong>Penetrasi Internet</strong> - 215 juta pengguna, pasar digital terbesar di Asia Tenggara.</li>\n<li><strong>Adopsi QRIS</strong> - 50 juta merchant aktif, transaksi non-tunai melonjak.</li>\n<li><strong>Investasi Asing</strong> - VC global terus mengalir ke startup Indonesia.</li>\n<li><strong>UMKM Go Digital</strong> - 30 juta UMKM onboarding ke platform digital.</li></ul>\n<p>Fintech dan logistik menjadi subsektor paling agresif tahun ini.</p>'
     },
     "berita/sepakbola-terkini": {
         "category": "Olahraga",
         "breadcrumb": "Sepakbola",
         "title": "Update Sepakbola Terkini 2026",
         "date": "15 Agustus 2026",
-        "content": '<p>KOMPAS404 - Dunia sepakbola memasuki musim kompetisi 2026/2027 dengan berbagai kejutan. Liga-liga top Eropa kembali bergulir dengan persaingan ketat.</p>\n<h2>Sorotan Utama</h2>\n<ul><li><strong>Premier League</strong> - Manchester City dan Arsenal bersaing ketat, Newcastle United tampil sebagai kuda hitam.</li>\n<li><strong>La Liga</strong> - Barcelona dan Real Madrid melakukan perombakan skuad besar-besaran.</li>\n<li><strong>Liga Champions</strong> - Format Swiss league memasuki musim kedua, semakin menarik.</li>\n<li><strong>Timnas Indonesia</strong> - Skuad Garuda bersiap kualifikasi Piala Dunia 2030.</li></ul>\n<p>KOMPAS404 akan terus memberikan update dan analisis mendalam seputar sepakbola.</p>'
+        "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=800&q=80",
+        "image_alt": "Football Stadium",
+        "content": '<p>KOMPAS404 - Dunia sepakbola memasuki musim 2026/2027 dengan berbagai kejutan. Liga-liga top Eropa kembali bergulir.</p>\n<h2>Sorotan Utama</h2>\n<ul><li><strong>Premier League</strong> - Man City dan Arsenal bersaing ketat, Newcastle kuda hitam.</li>\n<li><strong>La Liga</strong> - Barcelona dan Real Madrid rombak skuad besar-besaran.</li>\n<li><strong>Liga Champions</strong> - Format Swiss league musim kedua, makin seru.</li>\n<li><strong>Timnas Indonesia</strong> - Garuda bersiap kualifikasi Piala Dunia 2030.</li></ul>\n<p>KOMPAS404 terus memberikan update dan analisis mendalam seputar sepakbola.</p>'
     },
     "berita/cybersecurity-2026": {
         "category": "Teknologi",
         "breadcrumb": "Cybersecurity",
         "title": "Ancaman Cybersecurity 2026",
         "date": "16 Agustus 2026",
-        "content": '<p>KOMPAS404 - Lanskap ancaman keamanan siber di 2026 semakin kompleks. Serangan ransomware, phishing, dan supply chain attack terus berevolusi.</p>\n<h2>5 Ancaman Siber yang Harus Diwaspadai</h2>\n<ol><li><strong>AI-Powered Attacks</strong> - Serangan siber memanfaatkan AI generatif untuk phishing email yang sangat meyakinkan.</li>\n<li><strong>Ransomware-as-a-Service</strong> - Model bisnis ransomware semakin matang dengan ekosistem afiliasi yang luas.</li>\n<li><strong>Deepfake Fraud</strong> - Teknologi deepfake untuk social engineering tingkat tinggi.</li>\n<li><strong>Supply Chain Attack</strong> - Serangan melalui vendor pihak ketiga terus meningkat.</li>\n<li><strong>Cloud Misconfiguration</strong> - Kesalahan konfigurasi cloud menjadi pintu masuk utama attacker.</li></ol>\n<p>KOMPAS404 merekomendasikan zero-trust architecture dan AI-driven security solutions.</p>'
+        "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+        "image_alt": "Cyber Security",
+        "content": '<p>KOMPAS404 - Lanskap ancaman keamanan siber di 2026 semakin kompleks. Serangan ransomware, phishing, dan supply chain attack terus berevolusi.</p>\n<h2>5 Ancaman Siber 2026</h2>\n<ol><li><strong>AI-Powered Attacks</strong> - AI generatif untuk phishing email yang sangat meyakinkan.</li>\n<li><strong>Ransomware-as-a-Service</strong> - Ekosistem afiliasi ransomware makin matang.</li>\n<li><strong>Deepfake Fraud</strong> - Social engineering tingkat tinggi dengan impersonasi.</li>\n<li><strong>Supply Chain Attack</strong> - Serangan via vendor pihak ketiga meningkat.</li>\n<li><strong>Cloud Misconfiguration</strong> - Kesalahan konfigurasi cloud jadi pintu masuk utama.</li></ol>\n<p>KOMPAS404 merekomendasikan zero-trust architecture dan AI-driven security.</p>'
     },
     "berita/startup-indonesia": {
         "category": "Bisnis",
         "breadcrumb": "Startup Indonesia",
         "title": "Startup Indonesia Naik Daun 2026",
         "date": "14 Agustus 2026",
-        "content": '<p>KOMPAS404 - Ekosistem startup Indonesia terus bergeliat di 2026. Unicorn dan decacorn lokal mencatatkan pencapaian signifikan.</p>\n<h2>Daftar Startup Unicorn Indonesia 2026</h2>\n<ul><li><strong>GoTo Group</strong> - Valuasi lebih dari $25 miliar.</li>\n<li><strong>Sea Group (Shopee)</strong> - E-commerce raksasa Asia Tenggara.</li>\n<li><strong>Traveloka</strong> - Ekspansi ke Australia dan Timur Tengah.</li>\n<li><strong>OVO</strong> - 100 juta pengguna aktif.</li>\n<li><strong>Xendit</strong> - Pendanaan Seri D $500 juta.</li></ul>\n<p>KOMPAS404 mencatat agritech dan climate tech sebagai emerging sectors 2026.</p>'
+        "image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=800&q=80",
+        "image_alt": "Startup Office",
+        "content": '<p>KOMPAS404 - Ekosistem startup Indonesia terus bergeliat di 2026. Unicorn dan decacorn lokal mencatatkan pencapaian signifikan.</p>\n<h2>Daftar Unicorn Indonesia 2026</h2>\n<ul><li><strong>GoTo Group</strong> - Valuasi lebih dari $25 miliar, ekosistem digital terbesar.</li>\n<li><strong>Sea Group (Shopee)</strong> - Dominasi e-commerce Asia Tenggara.</li>\n<li><strong>Traveloka</strong> - Ekspansi sukses ke Australia dan Timur Tengah.</li>\n<li><strong>OVO</strong> - 100 juta pengguna aktif, fintech terdepan.</li>\n<li><strong>Xendit</strong> - Pendanaan Seri D $500 juta, infrastructure payment.</li></ul>\n<p>Agritech dan climate tech muncul sebagai emerging sectors 2026.</p>'
     },
     "berita/tips-produktivitas": {
         "category": "Lifestyle",
         "breadcrumb": "Tips Produktivitas",
         "title": "Tips Produktivitas Harian 2026",
         "date": "13 Agustus 2026",
-        "content": '<p>KOMPAS404 - Di era digital yang serba cepat, produktivitas menjadi kunci. Berikut tips yang bisa Anda terapkan sehari-hari.</p>\n<h2>5 Tips Produktivitas Efektif</h2>\n<ol><li><strong>Teknik Pomodoro</strong> - Fokus 25 menit, istirahat 5 menit. Setelah 4 siklus, istirahat 15-30 menit.</li>\n<li><strong>Eisenhower Matrix</strong> - Kategorikan tugas urgent vs important.</li>\n<li><strong>Digital Declutter</strong> - Bersihkan notifikasi, unsubscribe email tidak penting.</li>\n<li><strong>Time Blocking</strong> - Blokir waktu di kalender untuk deep work.</li>\n<li><strong>Mindfulness Break</strong> - 5-10 menit meditasi di tengah kesibukan.</li></ol>\n<p>KOMPAS404 akan terus berbagi tips produktivitas harian. Stay productive!</p>'
+        "image": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=800&q=80",
+        "image_alt": "Productive Workspace",
+        "content": '<p>KOMPAS404 - Di era digital yang serba cepat, produktivitas menjadi kunci kesuksesan. Berikut tips yang bisa Anda terapkan.</p>\n<h2>5 Tips Produktivitas Efektif</h2>\n<ol><li><strong>Teknik Pomodoro</strong> - Fokus 25 menit, istirahat 5 menit. Ulangi 4 siklus.</li>\n<li><strong>Eisenhower Matrix</strong> - Kategorikan tugas urgent vs important, kerjakan yang penting dulu.</li>\n<li><strong>Digital Declutter</strong> - Bersihkan notifikasi, unsubscribe email, rapikan desktop.</li>\n<li><strong>Time Blocking</strong> - Blokir waktu di kalender untuk deep work tanpa gangguan.</li>\n<li><strong>Mindfulness Break</strong> - 5-10 menit meditasi di tengah kesibukan.</li></ol>\n<p>KOMPAS404 akan terus berbagi tips produktivitas harian. Stay productive!</p>'
     }
 }
 
@@ -89,6 +97,13 @@ ARTICLE_DETAIL_CSS = """
             padding-bottom: 15px;
             border-bottom: 1px solid #2a2a2a;
         }
+        .article-featured-img {
+            width: 100%;
+            height: auto;
+            border-radius: 4px;
+            margin-bottom: 20px;
+            border: 1px solid #2a2a2a;
+        }
         .article-body { color: #e0e0e0; line-height: 1.8; }
         .article-body h2 { color: #d4a843; font-size: 1.3em; margin: 24px 0 12px; }
         .article-body ul, .article-body ol { margin: 10px 0 20px 20px; }
@@ -103,11 +118,13 @@ def merge_css(orig_css, extra_css):
 
 head_with_extra_css = merge_css(head_part, ARTICLE_DETAIL_CSS)
 
+# Generate article pages
 for slug, data in articles.items():
     path = os.path.join(BASE, slug, "index.html")
     os.makedirs(os.path.dirname(path), exist_ok=True)
 
-    depth = slug.count("/")
+    # berita/x = 2 dirs deep from root -> ../../
+    depth = slug.count("/") + 1
     prefix = "../" * depth
 
     page = head_with_extra_css.replace(
@@ -117,6 +134,7 @@ for slug, data in articles.items():
         '<link rel="apple-touch-icon" href="icon-kompas404.png">',
         f'<link rel="apple-touch-icon" href="{prefix}icon-kompas404.png">'
     )
+
     page += f"""
     <title>{data['title']} — KOMPAS404</title>
 </head>
@@ -149,6 +167,7 @@ for slug, data in articles.items():
             <div class="article-meta">
                 {data['date']} — <span>KOMPAS404</span>
             </div>
+            <img src="{data['image']}" alt="{data['image_alt']}" class="article-featured-img" width="800" height="400" loading="lazy">
             <div class="article-body">
                 {data['content']}
             </div>
@@ -166,6 +185,7 @@ for slug, data in articles.items():
         f.write(page)
     print(f"Created: {slug}/index.html")
 
+# Generate category pages
 for cat_path, cat_name, cat_desc, article_slugs in categories:
     path = os.path.join(BASE, cat_path)
     os.makedirs(os.path.dirname(path), exist_ok=True)
