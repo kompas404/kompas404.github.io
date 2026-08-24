@@ -82,11 +82,11 @@ articles = {
 }
 
 categories = [
-    ("berita/index.html", "Berita", "Semua Berita KOMPAS404", ["teknologi-ai-2026", "ekonomi-digital", "sepakbola-terkini", "cybersecurity-2026", "startup-indonesia", "tips-produktivitas"]),
-    ("teknologi/index.html", "Teknologi", "Berita Teknologi KOMPAS404", ["teknologi-ai-2026", "cybersecurity-2026"]),
-    ("bisnis/index.html", "Bisnis", "Berita Bisnis KOMPAS404", ["ekonomi-digital", "startup-indonesia"]),
-    ("olahraga/index.html", "Olahraga", "Berita Olahraga KOMPAS404", ["sepakbola-terkini"]),
-    ("tentang/index.html", "Tentang", "Tentang KOMPAS404", None),
+    ("berita/index.html", "Berita", "Semua Berita Kompas404", ["teknologi-ai-2026", "ekonomi-digital", "sepakbola-terkini", "cybersecurity-2026", "startup-indonesia", "tips-produktivitas"]),
+    ("teknologi/index.html", "Teknologi", "Berita Teknologi Kompas404", ["teknologi-ai-2026", "cybersecurity-2026"]),
+    ("bisnis/index.html", "Bisnis", "Berita Bisnis Kompas404", ["ekonomi-digital", "startup-indonesia"]),
+    ("olahraga/index.html", "Olahraga", "Berita Olahraga Kompas404", ["sepakbola-terkini"]),
+    ("tentang/index.html", "Tentang", "Tentang Kompas404", None),
 ]
 
 ARTICLE_DETAIL_CSS = """
@@ -136,27 +136,26 @@ for slug, data in articles.items():
     path = os.path.join(BASE, slug, "index.html")
     os.makedirs(os.path.dirname(path), exist_ok=True)
 
-    # berita/x = 2 dirs deep from root -> ../../
     depth = slug.count("/") + 1
     prefix = "../" * depth
 
     page = head_with_extra_css.replace(
-        '<link rel="icon" type="image/png" sizes="32x32" href="icon-kompas404.png">',
-        f'<link rel="icon" type="image/png" sizes="32x32" href="{prefix}icon-kompas404.png">'
+        '<link rel="icon" type="image/webp" sizes="32x32" href="iconkompas404.webp">',
+        f'<link rel="icon" type="image/webp" sizes="32x32" href="{prefix}iconkompas404.webp">'
     ).replace(
-        '<link rel="apple-touch-icon" href="icon-kompas404.png">',
-        f'<link rel="apple-touch-icon" href="{prefix}icon-kompas404.png">'
+        '<link rel="apple-touch-icon" href="iconkompas404.webp">',
+        f'<link rel="apple-touch-icon" href="{prefix}iconkompas404.webp">'
     )
 
     page += f"""
-    <title>{data['title']} — KOMPAS404</title>
+    <title>{data['title']} — Kompas404</title>
 </head>
 <body>
 
     <header>
-        <a href="/"><img src="{prefix}logo-kompas404.png" alt="KOMPAS404 Logo" class="logo" width="160" height="160"></a>
+        <a href="/"><img src="{prefix}logokompas.webp" alt="Kompas404 Logo" class="logo" width="160" height="160"></a>
         <a href="/" style="text-decoration:none;"><h1>KOMPAS<span>404</span></h1></a>
-        <p>Portal Berita & Informasi Terkini — KOMPAS404</p>
+        <p>Portal Berita & Informasi Terkini — Kompas404</p>
     </header>
 
     <nav>
@@ -171,14 +170,14 @@ for slug, data in articles.items():
     <div class="container">
 
         <div class="breadcrumb">
-            <a href="/">KOMPAS404</a> &rsaquo; <a href="{prefix}berita">Berita</a> &rsaquo; {data['breadcrumb']}
+            <a href="/">Kompas404</a> &rsaquo; <a href="{prefix}berita">Berita</a> &rsaquo; {data['breadcrumb']}
         </div>
 
         <article class="article-detail">
             <span class="tag">{data['category']}</span>
             <h1 class="article-title">{data['title']}</h1>
             <div class="article-meta">
-                {data['date']} — <span>KOMPAS404</span>
+                {data['date']} — <span>Kompas404</span>
             </div>
             <img src="{data['image']}" alt="{data['image_alt']}" class="article-featured-img" width="800" height="400" loading="lazy">
             <div class="article-body">
@@ -211,12 +210,12 @@ for cat_path, cat_name, cat_desc, article_slugs in categories:
     if is_tentang:
         content_html = """
         <div class="article-detail">
-            <h1 class="article-title">Tentang KOMPAS404</h1>
+            <h1 class="article-title">Tentang Kompas404</h1>
             <div class="article-body">
-                <p><strong>KOMPAS404</strong> adalah portal berita dan media informasi digital yang hadir untuk memberikan akses informasi terkini kepada masyarakat Indonesia.</p>
-                <p>Misi <strong>KOMPAS404</strong> adalah menyajikan berita faktual, analisis tajam, dan konten edukatif yang relevan dengan kebutuhan pembaca modern.</p>
-                <p>Kami berkomitmen pada akurasi, kecepatan, dan kedalaman analisis. Setiap konten di <strong>KOMPAS404</strong> melewati proses editorial yang ketat untuk memastikan kualitas.</p>
-                <p><strong>KOMPAS404</strong> selalu update 24/7 sehingga Anda tidak ketinggalan informasi penting.</p>
+                <p><strong>Kompas404</strong> adalah portal berita dan media informasi digital yang hadir untuk memberikan akses informasi terkini kepada masyarakat Indonesia.</p>
+                <p>Misi <strong>Kompas404</strong> adalah menyajikan berita faktual, analisis tajam, dan konten edukatif yang relevan dengan kebutuhan pembaca modern.</p>
+                <p>Kami berkomitmen pada akurasi, kecepatan, dan kedalaman analisis. Setiap konten di <strong>Kompas404</strong> melewati proses editorial yang ketat untuk memastikan kualitas.</p>
+                <p><strong>Kompas404</strong> selalu update 24/7 sehingga Anda tidak ketinggalan informasi penting.</p>
                 <p>Kontak: <a href="mailto:admin@kompas404.my.id" style="color:#d4a843;">admin@kompas404.my.id</a></p>
             </div>
         </div>
@@ -237,21 +236,21 @@ for cat_path, cat_name, cat_desc, article_slugs in categories:
         </div>"""
 
     cat_page = head_with_extra_css.replace(
-        '<link rel="icon" type="image/png" sizes="32x32" href="icon-kompas404.png">',
-        f'<link rel="icon" type="image/png" sizes="32x32" href="{prefix}icon-kompas404.png">'
+        '<link rel="icon" type="image/webp" sizes="32x32" href="iconkompas404.webp">',
+        f'<link rel="icon" type="image/webp" sizes="32x32" href="{prefix}iconkompas404.webp">'
     ).replace(
-        '<link rel="apple-touch-icon" href="icon-kompas404.png">',
-        f'<link rel="apple-touch-icon" href="{prefix}icon-kompas404.png">'
+        '<link rel="apple-touch-icon" href="iconkompas404.webp">',
+        f'<link rel="apple-touch-icon" href="{prefix}iconkompas404.webp">'
     )
     cat_page += f"""
-    <title>{cat_name} — KOMPAS404 | Portal Berita & Informasi Terkini</title>
+    <title>{cat_name} — Kompas404 | Portal Berita & Informasi Terkini</title>
 </head>
 <body>
 
     <header>
-        <a href="/"><img src="{prefix}logo-kompas404.png" alt="KOMPAS404 Logo" class="logo" width="160" height="160"></a>
+        <a href="/"><img src="{prefix}logokompas.webp" alt="Kompas404 Logo" class="logo" width="160" height="160"></a>
         <a href="/" style="text-decoration:none;"><h1>KOMPAS<span>404</span></h1></a>
-        <p>Portal Berita & Informasi Terkini — KOMPAS404</p>
+        <p>Portal Berita & Informasi Terkini — Kompas404</p>
     </header>
 
     <nav>
@@ -266,7 +265,7 @@ for cat_path, cat_name, cat_desc, article_slugs in categories:
     <div class="container">
 
         <div class="breadcrumb">
-            <a href="/">KOMPAS404</a> &rsaquo; {cat_name}
+            <a href="/">Kompas404</a> &rsaquo; {cat_name}
         </div>
 
         {content_html}

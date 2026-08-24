@@ -1,7 +1,6 @@
 __pycache__/
 *.pyc
 new-articles.json
-test-*.py
 *.bak
 *.bak2
 .DS_Store
