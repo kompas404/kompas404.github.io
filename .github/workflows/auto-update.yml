@@ -1,0 +1,43 @@
+name: Auto Update Berita
+
+on:
+  schedule:
+    # every 6 hours: 0,6,12,18
+    - cron: '0 */6 * * *'
+  workflow_dispatch:    # manual trigger from Actions tab
+
+jobs:
+  update-berita:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Scrape latest news from detik.com
+        run: python3 scraper-detik.py
+
+      - name: Prepare articles
+        run: python3 refresh-news.py
+
+      - name: Build all pages
+        run: python3 build-articles.py
+
+      - name: Build sitemap
+        run: python3 build-sitemap.py
+
+      - name: Commit & push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff --staged --quiet || git commit -m "Auto update: $(date +'%d %b %Y %H:%M')"
+          git push
