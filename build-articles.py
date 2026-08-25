@@ -1,6 +1,14 @@
 import os
+import json as _json
 
 BASE = os.path.expanduser(r"C:\Users\ideapad gaming 3\kompas404-seo")
+
+# Load local image map
+_image_map = {}
+_map_path = os.path.join(BASE, "image-map.json")
+if os.path.exists(_map_path):
+    with open(_map_path, "r", encoding="utf-8") as f:
+        _image_map = _json.load(f)
 
 with open(os.path.join(BASE, "index.html"), "r", encoding="utf-8") as f:
     html = f.read()
@@ -11,8 +19,7 @@ head_part = html[:body_start + len("<body>")]
 footer_start = html.index("    <footer>")
 footer_part = html[footer_start:]
 
-# Merge new articles from auto-generator if present
-import json as _json
+# Merge new articles
 _new_articles_file = os.path.join(BASE, "new-articles.json")
 _new_articles = {}
 if os.path.exists(_new_articles_file):
@@ -21,7 +28,7 @@ if os.path.exists(_new_articles_file):
     for _a in _new_list:
         _slug = _a.pop("slug")
         _new_articles[_slug] = _a
-    print(f"Loaded {len(_new_articles)} new auto-generated articles")
+    print(f"Loaded {len(_new_articles)} new articles")
 
 articles = {
     **_new_articles,
@@ -50,7 +57,7 @@ articles = {
         "date": "15 Agustus 2026",
         "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=800&q=80",
         "image_alt": "Football Stadium",
-        "content": '<p>KOMPAS404 - Dunia sepakbola memasuki musim 2026/2027 dengan berbagai kejutan. Liga-liga top Eropa kembali bergulir.</p>\n<h2>Sorotan Utama</h2>\n<ul><li><strong>Premier League</strong> - Man City dan Arsenal bersaing ketat, Newcastle kuda hitam.</li>\n<li><strong>La Liga</strong> - Barcelona dan Real Madrid rombak skuad besar-besaran.</li>\n<li><strong>Liga Champions</strong> - Format Swiss league musim kedua, makin seru.</li>\n<li><strong>Timnas Indonesia</strong> - Garuda bersiap kualifikasi Piala Dunia 2030.</li></ul>\n<p>KOMPAS404 terus memberikan update dan analisis mendalam seputar sepakbola.</p>'
+        "content": '<p>KOMPAS404 - Dunia futebol memasuki musim 2026/2027 dengan berbagai kejutan. Liga-liga top Eropa kembali bergulir.</p>\n<h2>Sorotan Utama</h2>\n<ul><li><strong>Premier League</strong> - Man City dan Arsenal bersaing ketat, Newcastle kuda hitam.</li>\n<li><strong>La Liga</strong> - Barcelona dan Real Madrid rombak skuad besar-besaran.</li>\n<li><strong>Liga Champions</strong> - Format Swiss league musim kedua, makin seru.</li>\n<li><strong>Timnas Indonesia</strong> - Garuda bersiap kualifikasi Piala Dunia 2030.</li></ul>\n<p>KOMPAS404 terus memberikan update dan analisis mendalam seputar futebol.</p>'
     },
     "berita/cybersecurity-2026": {
         "category": "Teknologi",
@@ -82,7 +89,7 @@ articles = {
 }
 
 categories = [
-    ("berita/index.html", "Berita", "Semua Berita Kompas404", ["teknologi-ai-2026", "ekonomi-digital", "sepakbola-terkini", "cybersecurity-2026", "startup-indonesia", "tips-produktivitas"]),
+    ("berita/index.html", "Berita", "Semua Berita Kompas404", ["2-pelajar-babel-ditangkap-usai-ketahuan-bakar-lahan-kosong-n", "habiburokhman-ruu-perampasan-aset-dipastikan-rampung-desembe", "ekonomi-digital", "cybersecurity-2026", "sepakbola-terkini", "startup-indonesia", "tips-produktivitas", "mobil-tertemper-krl-di-karet-jakpus-kai-pastikan-tak-ada-kor", "terungkap-kejinya-rahmat-dimas-bunuh-ojol-tidur-dari-reka-ul"]),
     ("teknologi/index.html", "Teknologi", "Berita Teknologi Kompas404", ["teknologi-ai-2026", "cybersecurity-2026"]),
     ("bisnis/index.html", "Bisnis", "Berita Bisnis Kompas404", ["ekonomi-digital", "startup-indonesia"]),
     ("olahraga/index.html", "Olahraga", "Berita Olahraga Kompas404", ["sepakbola-terkini"]),
@@ -129,6 +136,16 @@ def merge_css(orig_css, extra_css):
     end = orig_css.rfind("</style>")
     return orig_css[:end] + extra_css + orig_css[end:]
 
+def get_article_image(slug, default_url):
+    """Return local image if available, otherwise use default"""
+    clean_slug = slug.replace("berita/", "").replace("/", "-")
+    if clean_slug in _image_map:
+        return _image_map[clean_slug]
+    for key, path in _image_map.items():
+        if key.startswith(clean_slug[:30]) or clean_slug[:30].startswith(key[:30]):
+            return path
+    return default_url
+
 head_with_extra_css = merge_css(head_part, ARTICLE_DETAIL_CSS)
 
 # Generate article pages
@@ -139,12 +156,50 @@ for slug, data in articles.items():
     depth = slug.count("/") + 1
     prefix = "../" * depth
 
+    # Get local image if available
+    img_src = get_article_image(slug, data["image"])
+
+    # Article's own URL for canonical
+    article_url = f"https://kompas404.github.io/{slug}/"
+
     page = head_with_extra_css.replace(
         '<link rel="icon" type="image/webp" sizes="32x32" href="iconkompas404.webp">',
         f'<link rel="icon" type="image/webp" sizes="32x32" href="{prefix}iconkompas404.webp">'
     ).replace(
         '<link rel="apple-touch-icon" href="iconkompas404.webp">',
         f'<link rel="apple-touch-icon" href="{prefix}iconkompas404.webp">'
+    )
+    # Fix canonical to article URL
+    page = page.replace(
+        '<link rel="canonical" href="https://kompas404.github.io/">',
+        f'<link rel="canonical" href="{article_url}">'
+    )
+    # Fix OG/Twitter to article-specific
+    page = page.replace(
+        '<meta property="og:title" content="KOMPAS404 — Portal Berita & Informasi Terkini">',
+        f'<meta property="og:title" content="{data["title"]} — Kompas404">'
+    ).replace(
+        '<meta property="og:description" content="KOMPAS404 menyajikan berita terbaru, analisis tajam, dan informasi faktual setiap hari.">',
+        f'<meta property="og:description" content="{data["title"]} - Baca berita terbaru di Kompas404">'
+    )
+    img_url_og = f"https://kompas404.github.io/{img_src}" if not img_src.startswith("http") else img_src
+    page = page.replace(
+        '<meta property="og:image" content="https://kompas404.github.io/logokompas.webp">',
+        f'<meta property="og:image" content="{img_url_og}">'
+    )
+    page = page.replace(
+        '<meta property="og:url" content="https://kompas404.github.io/">',
+        f'<meta property="og:url" content="{article_url}">'
+    )
+    page = page.replace(
+        '<meta name="twitter:title" content="KOMPAS404 — Portal Berita & Informasi Terkini">',
+        f'<meta name="twitter:title" content="{data["title"]} — Kompas404">'
+    ).replace(
+        '<meta name="twitter:description" content="Berita terbaru dan analisis dari Kompas404. Update harian, faktual, terpercaya.">',
+        f'<meta name="twitter:description" content="{data["title"]} - Kompas404">'
+    ).replace(
+        '<meta name="twitter:image" content="https://kompas404.github.io/logokompas.webp">',
+        f'<meta name="twitter:image" content="{img_url_og}">'
     )
 
     page += f"""
@@ -179,7 +234,7 @@ for slug, data in articles.items():
             <div class="article-meta">
                 {data['date']} — <span>Kompas404</span>
             </div>
-            <img src="{data['image']}" alt="{data['image_alt']}" class="article-featured-img" width="800" height="400" loading="lazy">
+            <img src="{img_src}" alt="{data['image_alt']}" class="article-featured-img" width="800" height="400" loading="lazy">
             <div class="article-body">
                 {data['content']}
             </div>
@@ -223,9 +278,10 @@ for cat_path, cat_name, cat_desc, article_slugs in categories:
     else:
         items_html = ""
         for slug in article_slugs:
-            a = articles[f"berita/{slug}"]
-            excerpt = a['content'].split('</p>')[0].replace('<p>KOMPAS404 - ', '').replace('<p>', '')[:120]
-            items_html += f"""
+            if f"berita/{slug}" in articles:
+                a = articles[f"berita/{slug}"]
+                excerpt = a['content'].split('</p>')[0].replace('<p>KOMPAS404 - ', '').replace('<p>', '').replace('<p>', '')[:100]
+                items_html += f"""
             <article class="card">
                 <span class="tag">{a['category']}</span>
                 <h3><a href="/berita/{slug}/">{a['title']}</a></h3>
