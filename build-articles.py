@@ -159,6 +159,31 @@ for slug, data in articles.items():
     # Get local image if available
     img_src = get_article_image(slug, data["image"])
 
+    # compute attribution HTML robustly (prefer original source info when available)
+    attribution_html = ""
+    orig_img = None
+    # try exact key in _new_articles (both with and without 'berita/' prefix)
+    key_no_prefix = slug.replace('berita/','') if slug.startswith('berita/') else slug
+    if slug in _new_articles:
+        orig_img = _new_articles[slug].get("image")
+    elif key_no_prefix in _new_articles:
+        orig_img = _new_articles[key_no_prefix].get("image")
+
+    # if no original external image, but we have a local image mapping, attribute to Kompas404 (local)
+    if not orig_img:
+        if slug in _image_map or key_no_prefix in _image_map:
+            attribution_html = '<p class="attribution">Sumber gambar: Kompas404 (gambar lokal, bebas watermark)</p>'
+    else:
+        o = orig_img
+        if any(x in o for x in ["upload.wikimedia.org", "wikimedia", "wikipedia.org"]):
+            attribution_html = f'<p class="attribution">Sumber gambar: <a href="{o}" target="_blank" rel="noopener">Wikimedia Commons</a></p>'
+        else:
+            try:
+                dom = o.split('/')[2]
+            except Exception:
+                dom = o
+            attribution_html = f'<p class="attribution">Sumber asli: <a href="{o}" target="_blank" rel="noopener">{dom}</a>  versi lokal digunakan</p>'
+
     # Article's own URL for canonical
     article_url = f"https://kompas404.github.io/{slug}/"
 
@@ -238,6 +263,7 @@ for slug, data in articles.items():
             <div class="article-body">
                 {data['content']}
             </div>
+            {attribution_html}
         </article>
 
         <div style="text-align:center;margin:30px 0;">
