@@ -1,0 +1,78 @@
+name: Auto Update News
+
+on:
+  schedule:
+    # Run every 6 hours (4x sehari) - UTC time
+    - cron: '0 */6 * * *'  # Jam 00:00, 06:00, 12:00, 18:00 UTC
+  workflow_dispatch:  # Manual trigger di GitHub UI
+  push:
+    branches:
+      - main
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install Python dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        
+    - name: Run news scraper
+      run: |
+        python3 scraper-detik.py
+        echo "Scraping complete"
+        
+    - name: Update news articles
+      run: |
+        python3 update-news.py
+        echo "News update complete"
+        
+    - name: Build all pages
+      run: |
+        python3 build-articles.py
+        echo "Pages built"
+        
+    - name: Update homepage
+      run: |
+        python3 update-homepage.py
+        echo "Homepage updated"
+        
+    - name: Configure Git
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+    - name: Commit changes
+      run: |
+        # Cek ada perubahan apa nggak
+        git status
+        git add .
+        if git diff-index --quiet HEAD; then
+          echo "No changes to commit"
+        else
+          git commit -m "🤖 Auto-update: $(date '+%d %b %Y %H:%M WIB')"
+          git push
+          echo "Changes committed and pushed"
+        fi
+        
+    - name: Notify success
+      if: success()
+      run: echo "✅ News update workflow completed successfully!"
+      
+    - name: Notify failure
+      if: failure()
+      run: echo "❌ News update workflow failed!"
