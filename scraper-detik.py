@@ -84,12 +84,30 @@ def extract_article(url):
 
 def guess_category(title, content):
     t = (title + " ".join(content)).lower()
-    if any(w in t for w in ['teknologi','ai','siber','digital','startup','aplikasi']): return "Teknologi"
-    if any(w in t for w in ['bisnis','ekonomi','uang','investas','uang']): return "Bisnis"
-    if any(w in t for w in ['sepakbola','liga','bola','pertandingan','atlet']): return "Olahraga"
-    if any(w in t for w in ['hukum','polisi','kriminal','pencurian','pembunuhan']): return "Hukum"
-    if any(w in t for w in ['lingkungan','hutan','karhutla','kebakaran']): return "Lingkungan"
-    if any(w in t for w in ['krl','kereta','commuter','transportasi']): return "Transportasi"
+    
+    # Check for specific keywords in title and content
+    keywords = t.split()
+    
+    # Priority detection
+    if any(w in t for w in ['narkoba', 'polisi', 'ditangkap', 'tersangka', 'kejahatan', 'hukum', 'kriminal', 'pidana', 'praperadilan']):
+        return "Hukum"
+    if any(w in t for w in ['krl', 'kereta', 'commuter', 'transportasi', 'tol', 'jalan', 'macet', 'kendaraan']):
+        return "Transportasi"
+    if any(w in t for w in ['teknologi', 'ai', 'siber', 'digital', 'startup', 'aplikasi', 'software', 'hardware']):
+        return "Teknologi"
+    if any(w in t for w in ['bisnis', 'ekonomi', 'uang', 'investasi', 'keuangan', 'perusahaan', 'ekonomi']):
+        return "Bisnis"
+    if any(w in t for w in ['sepakbola', 'liga', 'bola', 'pertandingan', 'atlet', 'olahraga', 'timnas']):
+        return "Olahraga"
+    if any(w in t for w in ['lingkungan', 'hutan', 'karhutla', 'kebakaran', 'alam', 'satwa', 'konservasi']):
+        return "Lingkungan"
+    if any(w in t for w in ['rokok', 'cukai', 'ilegal', 'pemusnahan', 'produk']):
+        return "Hukum"  # Rokok ilegal termasuk hukum
+    if any(w in t for w in ['transjakarta', 'bus', 'angkutan', 'rute', 'layanan']):
+        return "Transportasi"
+    if any(w in t for w in ['ruu', 'dpr', 'paripurna', 'undang-undang', 'legislasi']):
+        return "Politik"
+    
     return "Berita"
 
 print("Fetching latest article URLs from detik.com...")
@@ -119,17 +137,7 @@ for url in urls:
             "breadcrumb": data["title"][:30],
         })
 
-print(f"\nTotal: {len(articles)} articles scraped")
+print(f"Total: {len(articles)} articles scraped")
 with open("scraped-detik.json","w",encoding="utf-8") as f:
     json.dump(articles, f, ensure_ascii=False, indent=2)
 print("Saved to scraped-detik.json")
-
-def guess_category(title, content):
-    t = (title + " ".join(content)).lower()
-    if any(w in t for w in ['teknologi','ai','siber','digital','startup','aplikasi']): return "Teknologi"
-    if any(w in t for w in ['bisnis','ekonomi','uang','investas','uang']): return "Bisnis"
-    if any(w in t for w in ['sepakbola','liga','bola','pertandingan','atlet']): return "Olahraga"
-    if any(w in t for w in ['hukum','polisi','kriminal','pencurian','pembunuhan']): return "Hukum"
-    if any(w in t for w in ['lingkungan','hutan','karhutla','kebakaran']): return "Lingkungan"
-    if any(w in t for w in ['krl','kereta','commuter','transportasi']): return "Transportasi"
-    return "Berita"

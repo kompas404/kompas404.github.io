@@ -33,12 +33,16 @@ def clean_html(html_content):
 def format_date(date_str):
     """Format date to Indonesian format"""
     try:
+        # Clean up date format (fix double comma issue)
+        date_str = date_str.replace(',,', ',')
+        
         # Convert "Kamis, 27 Agu 2026 20:35 WIB" to "Kamis, 27 Agu 2026 20:35 WIB"
         parts = date_str.split()
-        day_name = parts[0]  # Kamis
+        day_name = parts[0].rstrip(',')  # Kamis (remove trailing comma)
         day = parts[1]  # 27
         month_year = parts[2]  # Agu
-        time_wib = ' '.join(parts[3:])  # 20:35 WIB
+        year = parts[3]  # 2026
+        time_wib = ' '.join(parts[4:])  # 20:35 WIB
         
         month_map = {
             'Jan': 'Jan', 'Feb': 'Feb', 'Mar': 'Mar', 'Apr': 'Apr',
@@ -47,9 +51,10 @@ def format_date(date_str):
         }
         
         month = month_map.get(month_year[:3], month_year[:3])
-        return f"{day_name}, {day} {month} {day[3:] if len(day) > 1 else day} {time_wib}"
+        return f"{day_name}, {day} {month} {year} {time_wib}"
     except:
-        return date_str
+        # Return cleaned version if parsing fails
+        return date_str.replace(',,', ',')
 
 def create_news_folder(slug, title, content_data, image_url):
     """Create news folder and index.html for each article"""
@@ -283,7 +288,9 @@ def main():
             "category": content_data.get("category", "Teknologi"),
             "date": format_date(content_data.get("date", "")),
             "image": f"images/art_{slug}.jpg" if final_img else None,
-            "image_alt": title
+            "image_alt": title,
+            "breadcrumb": title[:30],
+            "content": content_data.get("content", "")
         })
     
     # Save new-articles.json
