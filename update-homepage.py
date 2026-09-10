@@ -39,6 +39,9 @@ for a in top:
             </li>
 """
 
+from datetime import datetime
+date_today = datetime.now().strftime("%d %B %Y").replace(" ", " ").replace("January","Januari").replace("February","Februari").replace("March","Maret").replace("April","April").replace("May","Mei").replace("June","Juni").replace("July","Juli").replace("August","Agustus").replace("September","September").replace("October","Oktober").replace("November","November").replace("December","Desember")
+
 with open("index.html", "r", encoding="utf-8") as f:
     html = f.read()
 
@@ -67,4 +70,4 @@ with open("index.html", "w", encoding="utf-8") as f:
     f.write(html)
 
 print(f"Updated homepage with 6 latest articles")
-print(f"Date shown: 25 Agustus 2026")
+print(f"Date shown: {date_today}")
