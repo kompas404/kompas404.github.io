@@ -1,74 +1,11 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="KOMPAS404 — Portal berita dan informasi terkini. Dapatkan berita terbaru, analisis mendalam, dan update harian dari KOMPAS404.">
-    <meta name="keywords" content="KOMPAS404, KOMPAS 404, berita KOMPAS404, KOMPAS404 berita, KOMPAS404 news, KOMPAS404 terbaru">
-    <meta name="author" content="KOMPAS404">
-    
-    <!-- Google Site Verification -->
-    <meta name="google-site-verification" content="S7LzXYPST3GjWTL_eVCjp5j78-zTbUPpA35JUrG-fvA" />
-    
-    <!-- Favicon -->
-        <link rel="icon" type="image/webp" sizes="32x32" href="../../iconkompas404.webp">
-        <link rel="apple-touch-icon" href="../../iconkompas404.webp">
-    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
-    <meta name="googlebot" content="index, follow">
-    <link rel="canonical" href="https://kompas404.github.io/berita/startup-indonesia/">
-    <link rel="alternate" type="application/rss+xml" title="KOMPAS404 RSS Feed" href="https://kompas404.github.io/rss.xml">
+#!/usr/bin/env python3
+import os, re
 
-    <!-- Open Graph -->
-    <meta property="og:title" content="Startup Indonesia Naik Daun 2026 — Kompas404">
-    <meta property="og:description" content="Startup Indonesia Naik Daun 2026 - Baca berita terbaru di Kompas404">
-    <meta property="og:image" content="https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=800&q=80">
-    <meta property="og:image:width" content="512">
-    <meta property="og:image:height" content="512">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://kompas404.github.io/berita/startup-indonesia/">
-    <meta property="og:site_name" content="KOMPAS404">
-    <meta property="og:locale" content="id_ID">
+BASE = r'C:\Users\ideapad gaming 3\kompas404-seo'
+berita_dir = os.path.join(BASE, 'berita')
 
-    <!-- Twitter Card -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=800&q=80">
-    <meta name="twitter:title" content="Startup Indonesia Naik Daun 2026 — Kompas404">
-    <meta name="twitter:description" content="Berita terbaru dan analisis dari KOMPAS404. Update harian, faktual, terpercaya.">
-
-    <!-- Schema.org structured data -->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "KOMPAS404",
-        "alternateName": ["KOMPAS404 berita", "KOMPAS 404"],
-        "url": "https://kompas404.github.io/",
-        "description": "Portal berita dan informasi terkini — KOMPAS404",
-        "inLanguage": "id-ID",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://kompas404.github.io/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Organization",
-        "name": "KOMPAS404",
-        "url": "https://kompas404.github.io/",
-        "description": "Portal berita dan media informasi — KOMPAS404",
-        "foundingDate": "2026",
-        "sameAs": []
-    }
-    </script>
-
-    <title>KOMPAS404 — Portal Berita & Informasi Terkini | KOMPAS404</title>
-
-    <style>
-:root {
+NEW_STYLE = """
+        :root {
             --bg-dark: #0d0d0d;
             --bg-card: #1a1a1a;
             --bg-card-alt: #121212;
@@ -432,72 +369,50 @@
             .game-cta-section { padding: 16px 20px; }
             .seo-section { padding: 20px; }
         }
-    </style>
-</head>
-<body>
-    <title>Startup Indonesia Naik Daun 2026 — Kompas404</title>
-</head>
-<body>
+"""
 
-    <header>
-        <a href="/"><img src="../../logokompas.webp" alt="Kompas404 Logo" class="logo" width="160" height="160"></a>
-        <a href="/" style="text-decoration:none;"><h1>KOMPAS<span>404</span></h1></a>
-        <p>Portal Berita & Informasi Terkini — Kompas404</p>
-    </header>
+old_articles = [
+    '3-tersangka-yang-kuras-duit-vilmei-miliaran-terancam-5-tahun',
+    '6-bandara-ditutup-sementara-imbas-abu-anak-krakatau-terbaru',
+    'abu-anak-krakatau-sampai-jakarta-warga-berburu-masker-di-kol',
+    'abu-vulkanik-anak-krakatau-masih-menyelimuti-rumah-warga-cip',
+    'antrean-penumpang-reschedule-mengular-di-soetta-imbas-erupsi',
+    'begini-modus-eks-karyawan-kuras-saldo-tiktok-vilmei-rp-1-28',
+    'cybersecurity-2026',
+    'daftar-4-bandara-ditutup-sementara-dan-wilayah-terdampak-eru',
+    'ekonomi-digital',
+    'gubernur-ntt-sebut-pemerkosa-anak-korban-gempa-ntt-sudah-dip',
+    'kepala-bmkg-ungkap-erupsi-anak-krakatau-jenis-strombolian-in',
+    'menkes-ungkap-3-bahaya-abu-anak-krakatau-kalau-bisa-jangan-k',
+    'penutupan-sementara-bandara-soetta-diperpanjang-dampak-erups',
+    'penutupan-sementara-bandara-soetta-diperpanjang-sampai-pukul',
+    'sambut-musim-hujan-pemulihan-sawah-di-kota-subulussalam-dipe',
+    'sejumlah-warga-pandeglang-sesak-napas-akibat-abu-erupsi-anak',
+    'sepakbola-terkini',
+    'startup-indonesia',
+    'teknologi-ai-2026',
+    'tips-produktivitas',
+    'walkot-sebut-56-santri-sesak-napas-imbas-kebakaran-ponpes-di',
+]
 
-    <nav>
-        <a href="/">Beranda</a>
-        <a href="../../berita">Berita</a>
-        <a href="../../teknologi">Teknologi</a>
-        <a href="../../bisnis">Bisnis</a>
-        <a href="../../olahraga">Olahraga</a>
-        <a href="../../tentang">Tentang</a>
-    </nav>
+count = 0
+for name in old_articles:
+    idx = os.path.join(berita_dir, name, 'index.html')
+    if not os.path.exists(idx):
+        print(f'MISSING: {name}')
+        continue
+    with open(idx, 'r', encoding='utf-8') as f:
+        html = f.read()
 
-    <div class="container">
+    # Replace the old style block with new one
+    old_style_match = re.search(r'<style>\s*.*?\s*</style>', html, re.DOTALL)
+    if old_style_match:
+        html = html[:old_style_match.start()] + '<style>\n' + NEW_STYLE.strip() + '\n    </style>' + html[old_style_match.end():]
+        with open(idx, 'w', encoding='utf-8') as f:
+            f.write(html)
+        count += 1
+        print(f'UPDATED: {name}')
+    else:
+        print(f'NO-STYLE: {name}')
 
-        <div class="breadcrumb">
-            <a href="/">Kompas404</a> &rsaquo; <a href="../../berita">Berita</a> &rsaquo; Startup Indonesia
-        </div>
-
-        <article class="article-detail">
-            <span class="tag">Bisnis</span>
-            <h1 class="article-title">Startup Indonesia Naik Daun 2026</h1>
-            <div class="article-meta">
-                14 Agustus 2026 — <span>Kompas404</span>
-            </div>
-            <img src="https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=800&q=80" alt="Startup Office" class="article-featured-img" width="800" height="400" loading="lazy">
-            <div class="article-body">
-                <p>KOMPAS404 - Ekosistem startup Indonesia terus bergeliat di 2026. Unicorn dan decacorn lokal mencatatkan pencapaian signifikan.</p>
-<h2>Daftar Unicorn Indonesia 2026</h2>
-<ul><li><strong>GoTo Group</strong> - Valuasi lebih dari $25 miliar, ekosistem digital terbesar.</li>
-<li><strong>Sea Group (Shopee)</strong> - Dominasi e-commerce Asia Tenggara.</li>
-<li><strong>Traveloka</strong> - Ekspansi sukses ke Australia dan Timur Tengah.</li>
-<li><strong>OVO</strong> - 100 juta pengguna aktif, fintech terdepan.</li>
-<li><strong>Xendit</strong> - Pendanaan Seri D $500 juta, infrastructure payment.</li></ul>
-<p>Agritech dan climate tech muncul sebagai emerging sectors 2026.</p>
-            </div>
-            
-        </article>
-
-        <div style="text-align:center;margin:30px 0;">
-            <a href="../../berita" class="cta">Kembali ke Berita</a>
-        </div>
-
-    </div>
-
-    <footer>
-        <p>&copy; 2026 <strong>KOMPAS404</strong>. All rights reserved.</p>
-        <p style="margin-top:8px;">
-            <a href="/">Beranda KOMPAS404</a> |
-            <a href="/berita">Berita KOMPAS404</a> |
-            <a href="/tentang">Tentang KOMPAS404</a> |
-            <a href="/sitemap.xml">Sitemap</a>
-        </p>
-        <p style="margin-top:8px;font-size:0.85em;">
-            KOMPAS404 — Portal Berita & Informasi Terkini Indonesia
-        </p>
-    </footer>
-
-</body>
-</html>
+print(f'\nDone: {count}/{len(old_articles)} articles updated')

@@ -68,7 +68,7 @@
     <title>KOMPAS404 — Portal Berita & Informasi Terkini | KOMPAS404</title>
 
     <style>
-        :root {
+:root {
             --bg-dark: #0d0d0d;
             --bg-card: #1a1a1a;
             --bg-card-alt: #121212;
@@ -392,7 +392,6 @@
             margin-bottom: 20px;
         }
         .breadcrumb a { color: var(--gold); text-decoration: none; }
-    
         .article-detail {
             background: #1a1a1a;
             border: 1px solid #2a2a2a;
@@ -426,7 +425,14 @@
         .article-body li { margin-bottom: 8px; color: #bbb; }
         .article-body strong { color: #f0c75e; }
         .article-body p { margin-bottom: 14px; }
-</style>
+        @media (max-width: 768px) {
+            header h1 { font-size: 1.8em; }
+            .article-title { font-size: 1.4em; }
+            .article-detail { padding: 20px; }
+            .game-cta-section { padding: 16px 20px; }
+            .seo-section { padding: 20px; }
+        }
+    </style>
 </head>
 <body>
     <title>Antrean Penumpang Reschedule Mengular di Soetta Imbas Erupsi Anak Krakatau — Kompas404</title>
