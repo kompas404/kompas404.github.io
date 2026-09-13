@@ -1,5 +1,6 @@
 import os
 import json as _json
+import re
 
 BASE = os.path.expanduser(r"C:\Users\ideapad gaming 3\kompas404-seo")
 
@@ -88,13 +89,29 @@ articles = {
     }
 }
 
+# categories list — populated dynamically from new-articles.json below
 categories = [
-    ("berita/index.html", "Berita", "Semua Berita Kompas404", ["2-pelajar-babel-ditangkap-usai-ketahuan-bakar-lahan-kosong-n", "habiburokhman-ruu-perampasan-aset-dipastikan-rampung-desembe", "ekonomi-digital", "cybersecurity-2026", "sepakbola-terkini", "startup-indonesia", "tips-produktivitas", "mobil-tertemper-krl-di-karet-jakpus-kai-pastikan-tak-ada-kor", "terungkap-kejinya-rahmat-dimas-bunuh-ojol-tidur-dari-reka-ul"]),
     ("teknologi/index.html", "Teknologi", "Berita Teknologi Kompas404", ["teknologi-ai-2026", "cybersecurity-2026"]),
     ("bisnis/index.html", "Bisnis", "Berita Bisnis Kompas404", ["ekonomi-digital", "startup-indonesia"]),
     ("olahraga/index.html", "Olahraga", "Berita Olahraga Kompas404", ["sepakbola-terkini"]),
     ("tentang/index.html", "Tentang", "Tentang Kompas404", None),
 ]
+
+# Build dynamic Berita list (all articles from new-articles.json + static legacy slugs)
+# Sort by date desc so newest appear first
+def _date_key(slug):
+    a = articles.get(f"berita/{slug}", {})
+    d = a.get("date", "")
+    m = re.search(r'(\d+)\s+(\w+)\s+(\d+)\s+(\d+):(\d+)', d)
+    if not m:
+        return (0, 0, 0, 0, 0)
+    dd, mon, y, hh, mm = m.groups()
+    months = {"Jan":1,"Feb":2,"Mar":3,"Apr":4,"Mei":5,"May":5,"Jun":6,"Jul":7,"Agu":8,"Aug":8,"Sep":9,"Okt":10,"Oct":10,"Nov":11,"Des":12,"Dec":12}
+    return (int(y), months.get(mon[:3], 1), int(dd), int(hh), int(mm))
+
+_berita_slugs = [s.replace("berita/","") for s in articles.keys() if s.startswith("berita/")]
+_berita_slugs.sort(key=_date_key, reverse=True)
+categories.insert(0, ("berita/index.html", "Berita", "Semua Berita Kompas404", _berita_slugs))
 
 ARTICLE_DETAIL_CSS = """
         .article-detail {
@@ -303,16 +320,24 @@ for cat_path, cat_name, cat_desc, article_slugs in categories:
         """
     else:
         items_html = ""
+        matched = 0
         for slug in article_slugs:
-            if f"berita/{slug}" in articles:
-                a = articles[f"berita/{slug}"]
-                excerpt = a['content'].split('</p>')[0].replace('<p>KOMPAS404 - ', '').replace('<p>', '').replace('<p>', '')[:100]
+            key = f"berita/{slug}"
+            if key in articles:
+                a = articles[key]
+                paras = [re.sub(r'<[^>]+>', '', p).strip() for p in a['content'].split('</p>') if p]
+                paras = [p for p in paras if len(p) > 20]
+                excerpt = paras[0][:140] if paras else a['title']
                 items_html += f"""
             <article class="card">
                 <span class="tag">{a['category']}</span>
                 <h3><a href="/berita/{slug}/">{a['title']}</a></h3>
                 <p>{excerpt}...</p>
             </article>"""
+                matched += 1
+        if matched == 0:
+            # fallback: render "no articles" notice
+            items_html = '<p style="color:#999;padding:20px;">Belum ada artikel di kategori ini.</p>'
         content_html = f"""<h2 class="section-title">{cat_desc}</h2>
         <div class="grid">{items_html}
         </div>"""
