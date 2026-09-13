@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>kompas404 search — kompas 404 portal berita</title>
+    <meta name="description" content="Pencarian kompas404 / kompas 404 — portal berita dan informasi terkini Indonesia">
+    <meta name="robots" content="noindex, follow">
+    <link rel="canonical" href="https://kompas404.github.io/search.html">
+    <style>
+        body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#0d0d0d;color:#e0e0e0;margin:0;padding:20px;}
+        .box{max-width:720px;margin:60px auto;background:#1a1a1a;border:1px solid #2a2a2a;border-radius:10px;padding:30px;}
+        h1{color:#d4a843;text-align:center;}
+        input[type=text]{width:100%;padding:12px;font-size:16px;background:#121212;color:#e0e0e0;border:1px solid #2a2a2a;border-radius:6px;box-sizing:border-box;}
+        button{margin-top:10px;padding:10px 20px;background:#d4a843;color:#0d0d0d;border:0;border-radius:6px;font-weight:700;cursor:pointer;}
+        button:hover{background:#f0c75e;}
+        #results{margin-top:20px;}
+        .hit{padding:10px;border-bottom:1px solid #2a2a2a;}
+        .hit a{color:#d4a843;text-decoration:none;}
+        .hit a:hover{color:#f0c75e;text-decoration:underline;}
+    </style>
+</head>
+<body>
+    <div class="box">
+        <h1>kompas404 Search</h1>
+        <p style="text-align:center;color:#999;">Cari berita kompas404 / kompas 404</p>
+        <form id="f">
+            <input type="text" id="q" placeholder="ketik keyword..." autofocus>
+            <button type="submit">Cari</button>
+        </form>
+        <div id="results"></div>
+        <p style="text-align:center;margin-top:20px;"><a href="/" style="color:#d4a843;">← Kembali ke kompas404</a></p>
+    </div>
+    <script>
+        const corpus = [
+            {t:"Sitaan Duit Rp 1 Triliun Lebih Ditata Bak Kasur saat Dipamerkan Jaksa",u:"/berita/sitaan-duit-rp-1-triliun-lebih-ditata-bak-kasur-saat-dipamer/",tags:["hukum","korupsi","kejagung"]},
+            {t:"Anggota MPR Junaidi Auly Sebut Pancasila Senapas Ajaran Islam",u:"/berita/anggota-mpr-junaidi-auly-sebut-pancasila-senapas-ajaran-isla/",tags:["politik","mpr","pancasila"]},
+            {t:"Di KTT BRICS, Prabowo Bicara Beri Makan Rakyat Cara Bangun Bangsa",u:"/berita/di-ktt-brics-prabowo-bicara-beri-makan-rakyat-cara-bangun-ba/",tags:["politik","prabowo","brics"]},
+            {t:"Basarnas Kerahkan Tim Cari Kapal Virgo Angkut 243 Orang",u:"/berita/basarnas-kerahkan-tim-cari-kapal-virgo-angkut-243-orang-yang/",tags:["nasional","basarnas","kapal"]},
+            {t:"KAI Commuter Ungkap Penyebab Penumpang Lansia BAB di KRL",u:"/berita/kai-commuter-ungkap-penyebab-penumpang-lansia-bab-di-krl-hin/",tags:["transportasi","kai","krl"]},
+            {t:"Perkembangan AI Terbaru 2026",u:"/berita/teknologi-ai-2026/",tags:["teknologi","ai","2026"]},
+            {t:"Ekonomi Digital Indonesia 2026",u:"/berita/ekonomi-digital/",tags:["bisnis","ekonomi"]},
+            {t:"Update Sepakbola Terkini 2026",u:"/berita/sepakbola-terkini/",tags:["olahraga","sepakbola"]},
+            {t:"Ancaman Cybersecurity 2026",u:"/berita/cybersecurity-2026/",tags:["teknologi","siber"]},
+            {t:"Startup Indonesia Naik Daun 2026",u:"/berita/startup-indonesia/",tags:["bisnis","startup"]}
+        ];
+        document.getElementById('f').addEventListener('submit',e=>{
+            e.preventDefault();
+            const q=document.getElementById('q').value.toLowerCase().trim();
+            if(!q)return;
+            const hits=corpus.filter(c=>c.t.toLowerCase().includes(q)||c.tags.some(x=>x.includes(q)));
+            const out=document.getElementById('results');
+            if(hits.length===0){out.innerHTML='<p style="color:#999;">Tidak ada hasil untuk "'+q+'". Coba keyword lain.</p>';return;}
+            out.innerHTML=hits.map(h=>'<div class="hit"><a href="'+h.u+'">'+h.t+'</a><div style="color:#999;font-size:0.85em;">'+h.tags.join(' · ')+'</div></div>').join('');
+        });
+    </script>
+</body>
+</html>

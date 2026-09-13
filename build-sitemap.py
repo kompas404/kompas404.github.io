@@ -13,6 +13,7 @@ pages = [
     ("/bisnis/", 0.8, "daily"),
     ("/olahraga/", 0.7, "daily"),
     ("/tentang/", 0.5, "monthly"),
+    ("/search.html", 0.4, "weekly"),
 ]
 
 # Add article pages from berita/

@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /search.html?q=
+
 Sitemap: https://kompas404.github.io/sitemap.xml
 
 User-agent: Googlebot
@@ -9,3 +11,5 @@ Crawl-delay: 0
 User-agent: Bingbot
 Allow: /
 Crawl-delay: 0
+
+# kompas404 - kompas 404 - kompas-404 portal berita Indonesia
