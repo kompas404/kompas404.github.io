@@ -3,90 +3,69 @@ import os, json, re
 BASE = r"C:\Users\ideapad gaming 3\kompas404-seo"
 berita_dir = os.path.join(BASE, "berita")
 
-# Load static articles from build-articles.py (hardcoded legacy)
-legacy = {
-    "berita/teknologi-ai-2026": {
-        "category": "Teknologi", "breadcrumb": "Teknologi AI 2026",
-        "title": "Perkembangan AI Terbaru 2026",
-        "date": "18 Agustus 2026",
-        "content": '<p>Tahun 2026 menjadi tonggak penting dalam perkembangan kecerdasan buatan (AI) global. Tren utama: AI Multimodal, AI Agent Otonom, Regulasi AI Global, dan AI di Sektor Kesehatan.</p>'
-    },
-    "berita/ekonomi-digital": {
-        "category": "Bisnis", "breadcrumb": "Ekonomi Digital",
-        "title": "Ekonomi Digital Indonesia 2026",
-        "date": "17 Agustus 2026",
-        "content": '<p>Ekonomi digital Indonesia terus menunjukkan pertumbuhan impresif di 2026. Nilai transaksi e-commerce diproyeksikan menembus Rp800 triliun.</p>'
-    },
-    "berita/sepakbola-terkini": {
-        "category": "Olahraga", "breadcrumb": "Sepakbola",
-        "title": "Update Sepakbola Terkini 2026",
-        "date": "15 Agustus 2026",
-        "content": '<p>Dunia sepak bola memasuki musim 2026/2027 dengan berbagai kejutan. Premier League, La Liga, Liga Champions, dan Timnas Indonesia menjadi sorotan.</p>'
-    },
-    "berita/cybersecurity-2026": {
-        "category": "Teknologi", "breadcrumb": "Cybersecurity",
-        "title": "Ancaman Cybersecurity 2026",
-        "date": "16 Agustus 2026",
-        "content": '<p>Lanskap ancaman keamanan siber di 2026 semakin kompleks. AI-Powered Attacks, Ransomware-as-a-Service, Deepfake Fraud, dan Supply Chain Attack.</p>'
-    },
-    "berita/startup-indonesia": {
-        "category": "Bisnis", "breadcrumb": "Startup Indonesia",
-        "title": "Startup Indonesia Naik Daun 2026",
-        "date": "14 Agustus 2026",
-        "content": '<p>Ekosistem startup Indonesia terus bergeliat di 2026. GoTo, Sea Group, Traveloka, OVO, dan Xendit menjadi unicorn terdepan.</p>'
-    },
-    "berita/tips-produktivitas": {
-        "category": "Lifestyle", "breadcrumb": "Tips Produktivitas",
-        "title": "Tips Produktivitas Harian 2026",
-        "date": "13 Agustus 2026",
-        "content": '<p>Di era digital yang serba cepat, produktivitas menjadi kunci. Teknik Pomodoro, Eisenhower Matrix, Digital Declutter, dan Time Blocking.</p>'
-    },
-}
+# Load freshly scraped articles (detik) -- these have full data incl. image
+scraped = []
+scraped_path = os.path.join(BASE, "scraped-detik.json")
+if os.path.exists(scraped_path):
+    with open(scraped_path, "r", encoding="utf-8") as f:
+        scraped = json.load(f)
 
-# 2 new articles
-new_articles = [
-    {
-        "slug": "berita/umkm-digital-2026-qris-meroket",
-        "title": "UMKM Digital 2026: QRIS Meledak, Marketplace Lokal Jadi Magnet Investor",
-        "category": "Bisnis",
-        "date": "Senin, 14 September 2026 10:00 WIB",
-        "content": "Sektor UMKM Indonesia memasuki fase baru di 2026. QRIS sudah jadi standar pembayaran de facto. Lebih dari 52 juta merchant aktif menerima QRIS."
-    },
-    {
-        "slug": "berita/ruu-pdp-turunan-2026-pelaku-usaha-digital",
-        "title": "RUU PDP Turunan 2026: Pelaku Usaha Digital Wajib Patuh Mulai 2027",
-        "category": "Politik",
-        "date": "Senin, 14 September 2026 11:30 WIB",
-        "content": "Pembahasan regulasi turunan UU PDP memasuki babak kritis. DPO wajib, pelaporan insiden 72 jam, data localization terbatas."
-    }
-]
+def entry_with_image(e):
+    """Ensure an article entry always has an 'image' key."""
+    if "image" not in e or not e.get("image"):
+        e["image"] = "https://kompas404.github.io/images/icon-kompas404.png"
+    return e
 
-# Scan all berita folders - extract title from h1 and meta span
+# Start with scraped (newest) first
 all_articles = []
-
-# Add new articles first
-for a in new_articles:
-    all_articles.append({
-        "slug": a["slug"],
-        "title": a["title"],
-        "category": a["category"],
-        "date": a["date"],
-        "breadcrumb": a["title"][:30],
-        "content": a["content"]
-    })
-
-# Add legacy static
-for slug, data in legacy.items():
-    all_articles.append({
+seen_slugs = set()
+for a in scraped:
+    slug = a.get("slug", "")
+    if not slug.startswith("berita/"):
+        slug = "berita/" + slug
+    if slug in seen_slugs:
+        continue
+    seen_slugs.add(slug)
+    e = {
         "slug": slug,
-        "title": data["title"],
-        "category": data["category"],
-        "date": data["date"],
-        "breadcrumb": data["breadcrumb"],
-        "content": data["content"]
-    })
+        "title": a.get("title", ""),
+        "category": a.get("category", "Berita"),
+        "breadcrumb": a.get("breadcrumb") or a.get("title", "")[:30],
+        "date": a.get("date", ""),
+        "image": a.get("image", ""),
+        "image_alt": a.get("image_alt") or a.get("title", "")[:50],
+        "content": a.get("content", ""),
+    }
+    all_articles.append(entry_with_image(e))
 
-# Scan folder for old articles - try to extract metadata
+# Load previous new-articles.json (so existing/local/legacy articles survive)
+prev_path = os.path.join(BASE, "new-articles.json")
+if os.path.exists(prev_path):
+    try:
+        with open(prev_path, "r", encoding="utf-8") as f:
+            prev = json.load(f)
+        for a in prev:
+            slug = a.get("slug", "")
+            if not slug.startswith("berita/"):
+                slug = "berita/" + slug
+            if slug in seen_slugs:
+                continue
+            seen_slugs.add(slug)
+            e = {
+                "slug": slug,
+                "title": a.get("title", ""),
+                "category": a.get("category", "Berita"),
+                "breadcrumb": a.get("breadcrumb") or a.get("title", "")[:30],
+                "date": a.get("date", ""),
+                "image": a.get("image", ""),
+                "image_alt": a.get("image_alt") or a.get("title", "")[:50],
+                "content": a.get("content", ""),
+            }
+            all_articles.append(entry_with_image(e))
+    except Exception as ex:
+        print(f"Warn: previous new-articles.json unreadable: {ex}")
+
+# Scan folders for any article never registered (safety net)
 for folder in sorted(os.listdir(berita_dir)):
     folder_path = os.path.join(berita_dir, folder)
     if not os.path.isdir(folder_path):
@@ -95,12 +74,11 @@ for folder in sorted(os.listdir(berita_dir)):
     if not os.path.exists(idx):
         continue
     slug = f"berita/{folder}"
-    if any(a["slug"] == slug for a in all_articles):
+    if slug in seen_slugs:
         continue
     try:
         with open(idx, "r", encoding="utf-8") as f:
             html = f.read()
-        # Try meta og:title first
         m = re.search(r'<meta property="og:title" content="([^"]+?)(?:\s*[—\-]\s*Kompas404)?"', html)
         title = m.group(1).strip() if m else folder.replace("-", " ").title()
         m = re.search(r'<span>([^<]+)</span>\s*([^<]+)', html)
@@ -110,24 +88,43 @@ for folder in sorted(os.listdir(berita_dir)):
         else:
             category = "Umum"
             date = "Agustus 2026"
-        # Excerpt
         m = re.search(r'<p>([^<]{50,200})', html)
         excerpt = m.group(1)[:150] if m else title
+        seen_slugs.add(slug)
         all_articles.append({
             "slug": slug,
             "title": title,
             "category": category,
             "date": date,
             "breadcrumb": title[:30],
-            "content": excerpt
+            "image": "https://kompas404.github.io/images/icon-kompas404.png",
+            "image_alt": title,
+            "content": excerpt,
         })
     except Exception as e:
         print(f"Skip {folder}: {e}")
 
+# Sort by date desc (newest first) -- best-effort parse of Indonesian dates
+def _date_key(a):
+    d = a.get("date", "")
+    m = re.search(r'(\d{1,2})\s+(\w+)\s+(\d{4})\s+(\d{1,2}):(\d{2})', d)
+    if m:
+        dd, mon, y, hh, mm = m.groups()
+        months = {"Jan":1,"Feb":2,"Mar":3,"Apr":4,"Mei":5,"May":5,"Jun":6,"Jul":7,"Agu":8,"Aug":8,"Sep":9,"Okt":10,"Oct":10,"Nov":11,"Des":12,"Dec":12}
+        return (int(y), months.get(mon[:3], 1), int(dd), int(hh), int(mm))
+    # fallback: date without time
+    m = re.search(r'(\d{1,2})\s+(\w+)\s+(\d{4})', d)
+    if m:
+        dd, mon, y = m.groups()
+        months = {"Jan":1,"Feb":2,"Mar":3,"Apr":4,"Mei":5,"May":5,"Jun":6,"Jul":7,"Agu":8,"Aug":8,"Sep":9,"Okt":10,"Oct":10,"Nov":11,"Des":12,"Dec":12}
+        return (int(y), months.get(mon[:3], 1), int(dd), 0, 0)
+    return (0, 0, 0, 0, 0)
+
+all_articles.sort(key=_date_key, reverse=True)
+
 print(f"Total articles collected: {len(all_articles)}")
 
-# Save full list
 with open(os.path.join(BASE, "new-articles.json"), "w", encoding="utf-8") as f:
     json.dump(all_articles, f, ensure_ascii=False, indent=2)
 
-print("Saved new-articles.json with all articles")
+print("Saved new-articles.json with all articles (newest first, all with image)")

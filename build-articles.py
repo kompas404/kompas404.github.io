@@ -244,7 +244,14 @@ for slug, data in articles.items():
         f'<meta name="twitter:image" content="{img_url_og}">'
     )
 
-    page += f"""
+    # Replace the head <title> with article-specific title (fix: keep single title in head)
+    page = page.replace(
+        '<title>KOMPAS404 — Portal Berita & Informasi Terkini | KOMPAS404</title>',
+        f'<title>{data["title"]} — Kompas404</title>'
+    )
+    # If head title was missing, append one (legacy fallback)
+    if f'<title>{data["title"]} — Kompas404</title>' not in page:
+        page += f"""
     <title>{data['title']} — Kompas404</title>
 </head>
 <body>
