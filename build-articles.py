@@ -249,13 +249,10 @@ for slug, data in articles.items():
         '<title>KOMPAS404 — Portal Berita & Informasi Terkini | KOMPAS404</title>',
         f'<title>{data["title"]} — Kompas404</title>'
     )
-    # If head title was missing, append one (legacy fallback)
-    if f'<title>{data["title"]} — Kompas404</title>' not in page:
-        page += f"""
-    <title>{data['title']} — Kompas404</title>
-</head>
-<body>
 
+    # Append the article body + close head/body. The head's </head><body> is
+    # already inside head_part, so we just append the body content + footer.
+    page += f"""
     <header>
         <a href="/"><img src="{prefix}logokompas.webp" alt="Kompas404 Logo" class="logo" width="160" height="160"></a>
         <a href="/" style="text-decoration:none;"><h1>KOMPAS<span>404</span></h1></a>
@@ -355,12 +352,11 @@ for cat_path, cat_name, cat_desc, article_slugs in categories:
     ).replace(
         '<link rel="apple-touch-icon" href="iconkompas404.webp">',
         f'<link rel="apple-touch-icon" href="{prefix}iconkompas404.webp">'
+    ).replace(
+        '<title>KOMPAS404 — Portal Berita & Informasi Terkini | KOMPAS404</title>',
+        f'<title>{cat_name} — Kompas404 | Portal Berita & Informasi Terkini</title>'
     )
     cat_page += f"""
-    <title>{cat_name} — Kompas404 | Portal Berita & Informasi Terkini</title>
-</head>
-<body>
-
     <header>
         <a href="/"><img src="{prefix}logokompas.webp" alt="Kompas404 Logo" class="logo" width="160" height="160"></a>
         <a href="/" style="text-decoration:none;"><h1>KOMPAS<span>404</span></h1></a>
