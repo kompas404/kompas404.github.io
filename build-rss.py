@@ -5,7 +5,7 @@ import os
 import re
 from datetime import datetime, timedelta, timezone
 
-BASE = r"C:\Users\ideapad gaming 3\kompas404-seo"
+BASE = os.environ.get("GITHUB_WORKSPACE", r"C:\Users\ideapad gaming 3\kompas404-seo")
 
 MONTHS_ID = {
     "Jan": "Jan", "Feb": "Feb", "Mar": "Mar", "Apr": "Apr", "Mei": "May",

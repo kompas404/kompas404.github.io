@@ -10,7 +10,7 @@ import json, os, re, time, random
 import requests
 from urllib.parse import quote, urlparse
 
-BASE = os.path.expanduser(r"C:\Users\ideapad gaming 3\kompas404-seo")
+BASE = os.environ.get("GITHUB_WORKSPACE", os.path.expanduser(r"C:\Users\ideapad gaming 3\kompas404-seo"))
 IMG_DIR = os.path.join(BASE, "images")
 os.makedirs(IMG_DIR, exist_ok=True)
 

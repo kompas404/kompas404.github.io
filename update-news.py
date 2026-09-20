@@ -8,7 +8,7 @@ import json
 import shutil
 from datetime import datetime
 
-BASE = os.path.expanduser(r"C:\Users\ideapad gaming 3\kompas404-seo")
+BASE = os.environ.get("GITHUB_WORKSPACE", os.path.expanduser(r"C:\Users\ideapad gaming 3\kompas404-seo"))
 
 def load_scraped():
     """Load scraped articles from detik.com"""

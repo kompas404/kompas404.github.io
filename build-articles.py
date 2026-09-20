@@ -2,7 +2,7 @@ import os
 import json as _json
 import re
 
-BASE = os.path.expanduser(r"C:\Users\ideapad gaming 3\kompas404-seo")
+BASE = os.environ.get("GITHUB_WORKSPACE", os.path.expanduser(r"C:\Users\ideapad gaming 3\kompas404-seo"))
 
 # Load local image map
 _image_map = {}

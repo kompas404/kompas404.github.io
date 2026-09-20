@@ -36,10 +36,15 @@ jobs:
         python3 scraper-detik.py
         echo "Scraping complete"
         
-    - name: Update news articles
+    - name: Rewrite articles (anti-duplicate) + prep images
       run: |
-        python3 update-news.py
-        echo "News update complete"
+        python3 auto-rewrite.py
+        echo "Rewrite complete"
+        
+    - name: Download free-license images
+      run: |
+        python3 download-images.py || echo "image download warning"
+        echo "Images ready"
         
     - name: Build all pages
       run: |
@@ -50,6 +55,12 @@ jobs:
       run: |
         python3 update-homepage.py
         echo "Homepage updated"
+        
+    - name: Build RSS & Sitemap
+      run: |
+        python3 build-rss.py
+        python3 build-sitemap.py
+        echo "RSS & sitemap built"
         
     - name: Configure Git
       run: |
@@ -72,6 +83,12 @@ jobs:
     - name: Notify success
       if: success()
       run: echo "✅ News update workflow completed successfully!"
+      
+    - name: Ping IndexNow (sitemap + URL baru)
+      if: success()
+      run: |
+        chmod +x ping-indexnow.sh
+        bash ping-indexnow.sh
       
     - name: Notify failure
       if: failure()

@@ -2,7 +2,8 @@ import os
 import xml.etree.ElementTree as ET
 from datetime import datetime
 
-BASE = r"C:\Users\ideapad gaming 3\kompas404-seo"
+import os
+BASE = os.environ.get("GITHUB_WORKSPACE", r"C:\Users\ideapad gaming 3\kompas404-seo")
 today = datetime.now().strftime("%Y-%m-%d")
 
 # All pages - WITH trailing slash for consistency
