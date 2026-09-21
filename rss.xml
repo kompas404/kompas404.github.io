@@ -5,8 +5,8 @@
     <link>https://kompas404.github.io</link>
     <description>KOMPAS404 menyajikan berita terbaru, analisis tajam, dan informasi faktual setiap hari. Teknologi, bisnis, olahraga, lifestyle.</description>
     <language>id-ID</language>
-    <lastBuildDate>Mon, 21 Sep 2026 03:38:19 +0700</lastBuildDate>
-    <pubDate>Mon, 21 Sep 2026 03:38:19 +0700</pubDate>
+    <lastBuildDate>Mon, 21 Sep 2026 11:28:59 +0700</lastBuildDate>
+    <pubDate>Mon, 21 Sep 2026 11:28:59 +0700</pubDate>
     <generator>KOMPAS404 RSS Generator</generator>
     <image>
         <url>https://kompas404.github.io/logo-kompas404.png</url>
@@ -18,53 +18,95 @@
     <atom:link href="https://kompas404.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-        <title>Waka Komisi III DPR Minta Pria Tendang Wanita di Sency Dihukum Maksimal — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/waka-komisi-iii-dpr-minta-pria-tendang-wanita-di-sency-dihuk</link>
-        <description>Jakarta, Kompas404 Network – Pria berinisial RS (43) ditetapkan sebagai tersangka usai menendang wanita berinisial TL yang sedang antre di food court Mal Senayan City (Sency). Sahroni saat dihubungi mengungkapkan, "Sesuai aturan perundang-undangan, a</description>
-        <pubDate>Mon, 21 Sep 2026 02:31:00 +0700</pubDate>
+        <title>Polisi Bakal Panggil Febrio Adiono Terkait Kasus Kematian Sutrimo — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/polisi-bakal-panggil-febrio-adiono-terkait-kasus-kematian-su</link>
+        <description>Kompas404 – Polisi masih terus mendalami teka-teki kematian Sutrimo di depan klinik kecantikan Mordent, Kebayoran Lama, Jakarta Selatan (Jaksel). Kabid Humas Polda Metro Jaya Kombes Budi Hermanto kepada wart mengungkapkan, "Nanti akan, dalam pembahas</description>
+        <pubDate>Mon, 21 Sep 2026 11:23:00 +0700</pubDate>
         <category>Hukum</category>
     </item>
     <item>
-        <title>Kebakaran Apartemen di Penjaringan Jakut, 16 Mobil Damkar Dikerahkan — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/kebakaran-apartemen-di-penjaringan-jakut-16-mobil-damkar-dik</link>
-        <description>Kompas404 – Kebakaran terjadi di salah satu apartemen di kawasan Penjaringan, Jakarta Utara, malam ini. Menurut keterangan petugas damkar Daniel saat dihubungi, iya betul kebakaran apartemen, Daniel menegaskan bahwa ketika ini sudah padam, tadi ada 1</description>
-        <pubDate>Sun, 20 Sep 2026 22:17:00 +0700</pubDate>
+        <title>KPK Duga Dana Operasional Fiktif Zaman Lukas Enembe Capai Triliunan — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/kpk-duga-dana-operasional-fiktif-zaman-lukas-enembe-capai-tr</link>
+        <description>Jakarta, Kompas404 Network – KPK masih melanjutkan penyidikan perkara dugaan korupsi pengelolaan dana penunjang operasional di lingkungan Pemerintah Provinsi Papua tahun 2022. Budi kepada wartawan mengungkapkan, "Penyidik mendalami pengetahuan saksi </description>
+        <pubDate>Mon, 21 Sep 2026 11:13:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Di SKB, Anak-Anak Putus Sekolah Mendapat Ruang Menggapai Harapan — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/di-skb-anak-anak-putus-sekolah-mendapat-ruang-menggapai-hara</link>
+        <description>Kompas404 – Harapan guna kembali mengenyam pendidikan tumbuh di Sanggar Kegiatan Belajar (SKB) Sentra Dharma Guna Bengkulu. Agus menegaskan bahwa melalui SKB, anak-anak kita yang tadinya tidak sekolah, putus sekolah, atau belum sekolah, akhirnya bisa</description>
+        <pubDate>Mon, 21 Sep 2026 11:06:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Rano Karno Bangga Pramono Bawa Gagasan Masa Depan di Forum Kota Dunia — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/rano-karno-bangga-pramono-bawa-gagasan-masa-depan-di-forum-k</link>
+        <description>Jakarta, Kompas404 Network – Gubernur DKI Jakarta Pramono Anung sedang berada di New York, Amerika Serikat, guna menghadiri Urban 20 Mayors Summit atau pertemuan para wali kota dari berbagai negara di dunia. Rano saat menyampaikan sambutan dalam upac</description>
+        <pubDate>Mon, 21 Sep 2026 11:06:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Pegawai SPPG yang Viral Ejek Korban MBG Akhirnya Dipecat — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pegawai-sppg-yang-viral-ejek-korban-mbg-akhirnya-dipecat</link>
+        <description>Jakarta, Kompas404 – Karyawan Satuan Pelayanan Pemenuhan Gizi (SPPG) di Bantul viral usai mengejek korban keracunan Makan Bergizi Gratis (MBG) di Karo, Sumatera Utara. Karyawan tersebut kini dipecat. Karyawan tersebut kini dipecat. Koordinator Region</description>
+        <pubDate>Mon, 21 Sep 2026 11:04:00 +0700</pubDate>
         <category>Lingkungan</category>
     </item>
     <item>
-        <title>Saat Pramono dan Zohran Mamdani Ngobrol Hangat — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/saat-pramono-dan-zohran-mamdani-ngobrol-hangat</link>
-        <description>Kompas404 Newsroom – Gubernur DKI Jakarta Pramono Anung berkunjung ke New York, Amerika Serikat, untuk memenuhi undangan Wali Kota New York City Zohran Kwame Mamdani. Pramono bertemu dan mengobrol hangat melalui Zohran Mamdani. Pramono bertemu dan me</description>
-        <pubDate>Sun, 20 Sep 2026 22:10:00 +0700</pubDate>
-        <category>Berita</category>
+        <title>Polisi Bakal Cek Kejiwaan Pria yang Tendang Wanita di Sency — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/polisi-bakal-cek-kejiwaan-pria-yang-tendang-wanita-di-sency</link>
+        <description>Kompas404 Newsroom – Pria berinisial RS (43) berdalih kesal dihalangi hingga menendang penendang wanita inisial TL, yang antre di food court Mal Senayan City, Jakarta Pusat. Polisi akan memeriksa kejiwaan pelaku. Aparat kepolisian akan memeriksa keji</description>
+        <pubDate>Mon, 21 Sep 2026 11:04:00 +0700</pubDate>
+        <category>Hukum</category>
     </item>
     <item>
-        <title>PAN Targetkan Rebut Kursi Ketua DPRD hingga Usung Cawalkot Cilegon di 2029 — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/pan-targetkan-rebut-kursi-ketua-dprd-hingga-usung-cawalkot-c</link>
-        <description>Jakarta, Kompas404 Network – Wakil Ketua Umum Partai Amanat Nasional (PAN), Yandri Susanto, meminta DPD PAN Cilegon merebut kursi Ketua DPRD hingga mencalonkan kadernya maju Pilwalkot 2029. Menurut keterangan Yandri di Cilegon, target kita tentu haru</description>
-        <pubDate>Sun, 20 Sep 2026 20:35:00 +0700</pubDate>
+        <title>Penyelam Basarnas Temukan 2 Korban Meninggal Terjebak di KM Virgo — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/penyelam-basarnas-temukan-2-korban-meninggal-terjebak-di-km</link>
+        <description>Nasional, Kompas404 – Basarnas masih menjalankan pencarian orang yang terdampak KM Virgo Transport 8 yang tenggelam di perairan Laut Jawa, Kalimantan Selatan. Menurut keterangan Syafii dalam keterangannya, kedua korban berjenis kelamin laki-laki dite</description>
+        <pubDate>Mon, 21 Sep 2026 10:59:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Jasad Pakai Pelampung Terdampar Lagi di Pantai Seruyan, Diduga Korban KM Virgo — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/jasad-pakai-pelampung-terdampar-lagi-di-pantai-seruyan-didug</link>
+        <description>Kompas404 Newsroom – Jasad berpelampung kembali ditemukan di pantai Kabupaten Seruyan, Kalimantan Tengah, tepatnya di pantai Gantingan Desa Sungai Perlu, Kecamatan Seruyan Hilir. Kapolres Seruyan AKBP Beddy Suwendi mengungkapkan, "Ya ditemukan lagi d</description>
+        <pubDate>Mon, 21 Sep 2026 10:54:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Pria yang Tendang Wanita di Sency Ditahan Polisi, Terancam 2,5 Tahun Bui — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pria-yang-tendang-wanita-di-sency-ditahan-polisi-terancam-2</link>
+        <description>Jakarta, Kompas404 Network – Aparat kepolisian sudah menahan pria berinisial RS (43), tersangka kaus penganiayaan yang menendang wanita inisial TL saat antre di food court Mal Senayan City, Jakarta Pusat. Kabid Humas Polda Metro Jaya Kombes Budi Herm</description>
+        <pubDate>Mon, 21 Sep 2026 10:52:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Bamsoet Dukung Perburuan Babi Hutan untuk Lindungi Ladang Petani di Banten — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/bamsoet-dukung-perburuan-babi-hutan-untuk-lindungi-ladang-pe</link>
+        <description>Nasional, Kompas404 – Anggota DPR RI Bambang Soesatyo (Bamsoet) mendukung penuh kegiatan berburu hama babi hutan di kawasan Provinsi Banten. Bamsoet pada keterangan tertulisnya menegaskan bahwa kegiatan berburu babi hutan merupakan respons nyata terh</description>
+        <pubDate>Mon, 21 Sep 2026 10:50:00 +0700</pubDate>
         <category>Politik</category>
     </item>
     <item>
-        <title>Pelari Soekarno Run Nikmati Layanan Pijat dari Terapis Disabilitas Netra — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/pelari-soekarno-run-nikmati-layanan-pijat-dari-terapis-disab</link>
-        <description>Jakarta, Kompas404 – Pergelaran Soekarno Run Banyuwangi berlangsung meriah melalui diikuti ribuan pelari dari 26 provinsi di Indonesia, Minggu (20/9). Deni dalam keterangan tertulis menegaskan bahwa soekarno Run kami desain bukan hanya sebagai event </description>
-        <pubDate>Sun, 20 Sep 2026 20:23:00 +0700</pubDate>
-        <category>Olahraga</category>
-    </item>
-    <item>
-        <title>Brimob Polda Metro Sterilisasi Kedubes Rusia, Pastikan Pemungutan Suara Aman — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/brimob-polda-metro-sterilisasi-kedubes-rusia-pastikan-pemung</link>
-        <description>Jakarta, Kompas404 Network – Personel unit Jibom dan Brimob Polda Metro Jaya melakukan sterilisasi Kedutaan Besar Federasi Rusia di Jakarta Selatan. Kombes Henik dalam keterangannya mengungkapkan, "Sterilisasi dilakukan sebagai upaya pencegahan sekal</description>
-        <pubDate>Sun, 20 Sep 2026 20:08:00 +0700</pubDate>
-        <category>Lingkungan</category>
-    </item>
-    <item>
-        <title>Jakarta Mengkaji Aturan Baru CFD Juga di Hari Sabtu — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/jakarta-mengkaji-aturan-baru-cfd-juga-di-hari-sabtu</link>
-        <description>Nasional, Kompas404 – Pihak pemerintah Provinsi (Pemprov) DKI Jakarta masih mengkaji wacana pelaksanaan Hari Bebas Kendaraan Bermotor (HBKB) atau Car Free Day (CFD) pada Sabtu dan Minggu. Dalam penyampaiannya, Pramono di kawasan Cempaka Putih menjela</description>
-        <pubDate>Sun, 20 Sep 2026 20:05:00 +0700</pubDate>
+        <title>Pemprov Banten Harap KRL Green Line Bisa Diperpanjang hingga Merak — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pemprov-banten-harap-krl-green-line-bisa-diperpanjang-hingga</link>
+        <description>Kompas404 – Pemprov Banten menyusun studi kelayakan atau feasibility study (FS) elektrifikasi jalur kereta api (KA) lintas Rangkasbitung-Serang-Cilegon-Merak. Menurut keterangan Plt Kepala Dinas Perhubungan Provinsi Banten, tujuan utama studi ini ada</description>
+        <pubDate>Mon, 21 Sep 2026 10:43:00 +0700</pubDate>
         <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Penjaga Palang Microsleep, Kereta Berhenti Mendadak di Tulungagung — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/penjaga-palang-microsleep-kereta-berhenti-mendadak-di-tulung</link>
+        <description>Kompas404 Newsroom – Kereta ApiMatarmaja berhenti mendadak di Tulungagung akibat palang pintu pelintasan belum ditutup. Menurut keterangan Tohari, masinis yang mengetahui kondisi palang pintu yang terbuka langsung menjalankan langkah Berhenti Luar Bi</description>
+        <pubDate>Mon, 21 Sep 2026 10:31:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Polri Kerahkan 5.641 Personel Gabungan Amankan FIFA ASEAN Cup 2026 — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/polri-kerahkan-5-641-personel-gabungan-amankan-fifa-asean-cu</link>
+        <description>Nasional, Kompas404 – Polri siap mengamankan gelaran FIFA ASEAN Cup 2026 yang akan dilaksanakan di Indonesia sebagai tuan rumah. Menurut keterangan Wakil Asisten Utama Kapolri Bidang Operasi (Waastamaops), mengerahkan sebanyak 5.641 personel yang ter</description>
+        <pubDate>Mon, 21 Sep 2026 10:30:00 +0700</pubDate>
+        <category>Olahraga</category>
     </item>
 </channel>
 </rss>
