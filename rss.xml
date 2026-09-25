@@ -5,8 +5,8 @@
     <link>https://kompas404.github.io</link>
     <description>KOMPAS404 menyajikan berita terbaru, analisis tajam, dan informasi faktual setiap hari. Teknologi, bisnis, olahraga, lifestyle.</description>
     <language>id-ID</language>
-    <lastBuildDate>Fri, 25 Sep 2026 18:36:34 +0700</lastBuildDate>
-    <pubDate>Fri, 25 Sep 2026 18:36:34 +0700</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2026 23:59:20 +0700</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2026 23:59:20 +0700</pubDate>
     <generator>KOMPAS404 RSS Generator</generator>
     <image>
         <url>https://kompas404.github.io/logo-kompas404.png</url>
@@ -18,67 +18,95 @@
     <atom:link href="https://kompas404.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-        <title>Wali Asuh & Asrama Sekolah Rakyat Se-Sulsel Ikrar Akan Kerja Totalitas — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/wali-asuh-asrama-sekolah-rakyat-se-sulsel-ikrar-akan-kerja-t</link>
-        <description>Nasional, Kompas404 – Ratusan wali asuh dan wali asrama sekolah rakyat se-Sulawesi Selatan ikrar akan bekerja totalitas dan penuh empati. Dalam penyampaiannya, para peserta dalam keterangan tertulis menjelaskan saya, wali asrama dan wali asuh Sekolah</description>
-        <pubDate>Fri, 25 Sep 2026 18:24:00 +0700</pubDate>
+        <title>Tim DVI Kembali Identifikasi 5 Jenazah Korban KM Virgo, 4 Asal Jatim — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/tim-dvi-kembali-identifikasi-5-jenazah-korban-km-virgo-4-asa</link>
+        <description>Kompas404 Newsroom – Tim DVI Polda Kalimantan Selatan (Kalsel) berhasil mengidentifikasi lima jenazah orang yang terdampak Kapal Virgo Transport 8. Empat orang yang terdampak di antaranya merupakan masyarakat Jawa Timur (Jatim). Dilansir detikKaliman</description>
+        <pubDate>Fri, 25 Sep 2026 23:43:00 +0700</pubDate>
         <category>Transportasi</category>
     </item>
     <item>
-        <title>Gudang di Cikarang Bekasi Terbakar, Api Berhasil Dipadamkan — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/gudang-di-cikarang-bekasi-terbakar-api-berhasil-dipadamkan</link>
-        <description>Kompas404 – Kebakaran melanda salah satu gudang penyimpanan di kawasan industri MM2100, Cikarang, Kabupaten Bekasi. Dalam penyampaiannya, petugas Command Center Dinas Gulkarmat Kabupaten Bekasi saat menjelaskan kita terima laporan dari masyarakat. Ta</description>
-        <pubDate>Fri, 25 Sep 2026 18:15:00 +0700</pubDate>
+        <title>Doa untuk Timnas Indonesia dari 300 Anak Yatim Piatu dan Prasejahtera — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/doa-untuk-timnas-indonesia-dari-300-anak-yatim-piatu-dan-pra</link>
+        <description>Jakarta, Kompas404 Network – Gelaran FIFA ASEAN Cup 2026 resmi dimulai di Stadion Gelora Bung Karno (GBK), Jakarta, dan Stadion Jalak Harupat, Kabupaten Bandung, Jawa Barat. Hafiz kepada tim berbuatbaik menegaskan bahwa indonesia menang, Kompetisi in</description>
+        <pubDate>Fri, 25 Sep 2026 22:52:00 +0700</pubDate>
+        <category>Olahraga</category>
+    </item>
+    <item>
+        <title>Megawati Jenguk Guruh Soekarnoputra di Rumah Sakit, Tiap Menit Dipantau — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/megawati-jenguk-guruh-soekarnoputra-di-rumah-sakit-tiap-meni</link>
+        <description>Kompas404 Newsroom – Ketua Umum (Ketum) PDIP Megawati Soekarnoputri, telah menjenguk adiknya, Guruh Soekarnoputra, yang menjalani perawatan intensif di Rumah Sakit (RS) Siloam Semanggi, Jakarta. Dalam penyampaiannya, Guntur kepada wartawan menjelaska</description>
+        <pubDate>Fri, 25 Sep 2026 22:41:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Mantan Kepala SMPN di Malang Dipolisikan Ortu Usai Tempeleng Siswa — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/mantan-kepala-smpn-di-malang-dipolisikan-ortu-usai-tempeleng</link>
+        <description>Kompas404 – Mantan Kepala SMPN 18 Kota Malang berinisial AH dicopot dari jabatannya usai menampar siswa gegara tidak mengenakan seragam yang ditentukan. Menurut keterangan Lilik dilansir detikJatim, jadi ini kita melaporkan perkara kekerasan siswa di</description>
+        <pubDate>Fri, 25 Sep 2026 22:19:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>KemenPU Selamatkan 141.440 Ha Sawah-Salurkan 48,9 Juta Liter Air Bersih — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/kemenpu-selamatkan-141-440-ha-sawah-salurkan-48-9-juta-liter</link>
+        <description>Kompas404 Newsroom – Kementerian Pekerjaan Umum RI (PU) terus menjalankan penanganan darurat kekeringan untuk memastikan ketersediaan air. Dalam penyampaiannya, Dody menjelaskan di tengah dunia yang terus berubah dan penuh ketidakpastian, air menjadi</description>
+        <pubDate>Fri, 25 Sep 2026 22:10:00 +0700</pubDate>
         <category>Lingkungan</category>
     </item>
     <item>
-        <title>Strategi Tukang Sampah Kalahkan Kades Petahana 2 Periode di Bekasi — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/strategi-tukang-sampah-kalahkan-kades-petahana-2-periode-di</link>
-        <description>Kompas404 – Seorang tukang pilah sampah Surya (46), ramai dibahas pasca memenangi Pemilihan Kepala Desa (Pilkades) 2026 melawan petahana yang sudah dua periode menjabat. Surya mengungkap strategi mengalahkan kades petahana. Dalam penyampaiannya, Sury</description>
-        <pubDate>Fri, 25 Sep 2026 18:09:00 +0700</pubDate>
-        <category>Bisnis</category>
+        <title>Gempa M 4,7 Guncang Sumur Banten, Getaran Terasa hingga Rangkasbitung — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/gempa-m-4-7-guncang-sumur-banten-getaran-terasa-hingga-rangk</link>
+        <description>Jakarta, Kompas404 Network – Gempa magnitudo (M) 4 7 mengguncang wilayah Sumur, Kabupaten Pandeglang, Banten. Getaran gempa terasa hingga ke Rangkasbitung. Setiap insiden di jalur transportasi menjadi pengingat pentingnya pengawasan operasional serta</description>
+        <pubDate>Fri, 25 Sep 2026 22:09:00 +0700</pubDate>
+        <category>Transportasi</category>
     </item>
     <item>
-        <title>Kejagung Tetapkan PT CNI dan 4 Orang Jadi Tersangka Korupsi Nikel Rp 401 M — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/kejagung-tetapkan-pt-cni-dan-4-orang-jadi-tersangka-korupsi</link>
-        <description>Nasional, Kompas404 – Kejaksaan Agung (Kejagung) menetapkan PT CNI sebagai terduga pelaku korporasi kasus korupsi tata kelola nikel di Sulawesi Utara (Sultra). Kapuspenkum Kejagung Anang Supriatna dalam jumpa pers di Gedu mengungkapkan, "Tim penyidik</description>
-        <pubDate>Fri, 25 Sep 2026 18:09:00 +0700</pubDate>
+        <title>Viral Bu Satpol PP Tegal dan Selingkuhan Selfie Ciuman, Suami Lapor Pemkot — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/viral-bu-satpol-pp-tegal-dan-selingkuhan-selfie-ciuman-suami</link>
+        <description>Kompas404 – Foto seorang wanita anggota Satpol PP Kota Tegal, Jawa Tengah (Jateng), berciuman melalui lelaki diduga selingkuhannya viral di media sosial (medsos). Suami melapor ke atasan anggota Satpol PP tersebut. Kepala Satpol PP Kota Tegal, Budiyo</description>
+        <pubDate>Fri, 25 Sep 2026 22:04:00 +0700</pubDate>
+        <category>Lingkungan</category>
+    </item>
+    <item>
+        <title>Penampakan Bos 3 Situs Judol Dibawa ke Jakarta Usai Ditangkap di Thailand — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/penampakan-bos-3-situs-judol-dibawa-ke-jakarta-usai-ditangka</link>
+        <description>Jakarta, Kompas404 – Buron kasus judi online internasional berinisial FP berhasil diamankan aparat di Thailand. Wadirtipidsiber Bareskrim Polri Kombes Setyo Koes Heriyanto d mengungkapkan, "Pada malam hari ini kami dari Direktorat Tindak Pidana Siber</description>
+        <pubDate>Fri, 25 Sep 2026 21:29:00 +0700</pubDate>
         <category>Hukum</category>
     </item>
     <item>
-        <title>Diskusi Karhutla dengan Pakar, Prabowo: Ada Perda 1 Orang Boleh Bakar 2 Ha — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/diskusi-karhutla-dengan-pakar-prabowo-ada-perda-1-orang-bole</link>
-        <description>Kompas404 – Presiden Prabowo Subianto menegaskan pentingnya penertiban regulasi dan korporasi sebagai bagian dari upaya mencegah kebakaran hutan dan lahan (karhutla), khususnya di kawasan gambut. Menurutnya, masih banyak regulasi di tingkat daerah ya</description>
-        <pubDate>Fri, 25 Sep 2026 18:00:00 +0700</pubDate>
-        <category>Politik</category>
-    </item>
-    <item>
-        <title>BNPP Bahas Strategi Percepatan Implementasi Program MBG di Wilayah 3T — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/bnpp-bahas-strategi-percepatan-implementasi-program-mbg-di-w</link>
-        <description>Kompas404 – Badan Nasional Pengelola Perbatasan Republik Indonesia (BNPP RI) bersama Badan Strategi Kebijakan Dalam Negeri (BSKDN) membahas strategi percepatan implementasi Inisiatif Makan Bergizi Gratis (MBG) di wilayah tertinggal, terluar, dan terd</description>
-        <pubDate>Fri, 25 Sep 2026 17:46:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Parkir Liar di Senopati Kena Sidak, Motor-motor Diangkut Dishub — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/parkir-liar-di-senopati-kena-sidak-motor-motor-diangkut-dish</link>
-        <description>Nasional, Kompas404 – Suku Dinas Perhubungan (Sudinhub) Jakarta Selatan bersama petugas gabungan menertibkan 52 sepeda motor yang parkir di bahu jalan dan trotoar Jalan Senopati, Kebayoran Baru. Motor yang terparkir di trotoar menutup akses pedestria</description>
-        <pubDate>Fri, 25 Sep 2026 17:41:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Viral Jalanan di Kawasan Bisnis Kuningan Jaksel Rusak Parah dan Berdebu — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/viral-jalanan-di-kawasan-bisnis-kuningan-jaksel-rusak-parah</link>
-        <description>Kompas404 Newsroom – Kondisi jalanan di kawasan bisnis Setiabudi, Jakarta Selatan (Jaksel), yang rusak parah viral di media sosial (medsos). Jalan tersebut berlubang, aspal mengelupas, hingga menimbulkan debu atau genangan seusai hujan. Jalan tersebu</description>
-        <pubDate>Fri, 25 Sep 2026 17:38:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Pihak Bupati Gowa Angkat Bicara soal Penetapan Tersangka Dugaan Pungli — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/pihak-bupati-gowa-angkat-bicara-soal-penetapan-tersangka-dug</link>
-        <description>Kompas404 Newsroom – Bupati Gowa Sitti Husniah Talenrang atau HT menjadi tersangka perkara dugaan korupsi dan tindak pidana pencucian uang (TPPU) yang diusut Kortas Tipikor Bareskrim Polri. Pihak Bupati Gowa buka suara. Pihak Bupati Gowa buka suara. </description>
-        <pubDate>Fri, 25 Sep 2026 17:30:00 +0700</pubDate>
+        <title>4 Fakta ABG di Jaktim Disekap 5 Hari hingga Diperkosa — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/4-fakta-abg-di-jaktim-disekap-5-hari-hingga-diperkosa</link>
+        <description>Nasional, Kompas404 – Seorang remaja wanita berusia 14 tahun asal Tangerang Selatan (Tangsel) dilaporkan menjadi korban penyekapan dan pemerkosaan di salah satu rumah di kawasan Pasar Rebo, Jakarta Timur (Jaktim). Kasi Humas Polres Metro Jakarta Timu</description>
+        <pubDate>Fri, 25 Sep 2026 21:05:00 +0700</pubDate>
         <category>Hukum</category>
+    </item>
+    <item>
+        <title>Kolaborasi Bareng BPBD, Kenneth DPRD DKI Tebar 1 Ton Garam untuk Modifikasi Cuaca — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/kolaborasi-bareng-bpbd-kenneth-dprd-dki-tebar-1-ton-garam-un</link>
+        <description>Kompas404 Newsroom – Anggota Komisi C DPRD DKI Jakarta Hardiyanto Kenneth (Bang Kent) mengawal langsung pelaksanaan Operasi Modifikasi Cuaca (OMC) di Pangkalan Udara Pondok Cabe, Tangerang Selatan (Tangsel). Dalam penyampaiannya, Bang Kent dalam kete</description>
+        <pubDate>Fri, 25 Sep 2026 21:04:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Vonis Nadiem Makarim Jadi 9 Tahun Bui, Kejagung Pertimbangkan Ajukan Kasasi — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/vonis-nadiem-makarim-jadi-9-tahun-bui-kejagung-pertimbangkan</link>
+        <description>Nasional, Kompas404 – Pengadilan Tinggi (PT) Jakarta mengurangi vonis mantan Mendikbudristek Nadiem Makarim dari 10 tahun menjadi 9 tahun penjara. Dalam penyampaiannya, Kapuspenkum Kejagung Anang Supriatna kepada wartawan di Gedun menjelaskan saat in</description>
+        <pubDate>Fri, 25 Sep 2026 20:51:00 +0700</pubDate>
+        <category>Lingkungan</category>
+    </item>
+    <item>
+        <title>BNPP Evaluasi 29 Program Pemanfaatan Ruang di Wini, Baru 7 yang Terwujud — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/bnpp-evaluasi-29-program-pemanfaatan-ruang-di-wini-baru-7-ya</link>
+        <description>Nasional, Kompas404 – Badan Nasional Pengelola Perbatasan Republik Indonesia (BNPP RI) mengevaluasi perwujudan rencana struktur ruang pada 29 program pemanfaatan ruang prioritas di Wilayah Perencanaan (WP) Wini, Kabupaten Timor Tengah Utara, Nusa Ten</description>
+        <pubDate>Fri, 25 Sep 2026 20:40:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Kebakaran Rumah Warga di Rawamangun Jaktim, 12 Mobil Damkar Dikerahkan — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/kebakaran-rumah-warga-di-rawamangun-jaktim-12-mobil-damkar-d</link>
+        <description>Kompas404 Newsroom – Kebakaran melanda sebuah rumah tinggal di Jalan Rawamangun Muka Timur Nomor 39, Kelurahan Rawamangun, Pulogadung, Jakarta Timur (Jaktim), pada Jumat malam. Dalam penyampaiannya, Kepala Seksi Operasi Suku Dinas Penanggulangan Keba</description>
+        <pubDate>Fri, 25 Sep 2026 20:34:00 +0700</pubDate>
+        <category>Transportasi</category>
     </item>
 </channel>
 </rss>
