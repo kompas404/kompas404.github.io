@@ -5,8 +5,8 @@
     <link>https://kompas404.github.io</link>
     <description>KOMPAS404 menyajikan berita terbaru, analisis tajam, dan informasi faktual setiap hari. Teknologi, bisnis, olahraga, lifestyle.</description>
     <language>id-ID</language>
-    <lastBuildDate>Mon, 28 Sep 2026 04:12:17 +0700</lastBuildDate>
-    <pubDate>Mon, 28 Sep 2026 04:12:17 +0700</pubDate>
+    <lastBuildDate>Mon, 28 Sep 2026 11:54:57 +0700</lastBuildDate>
+    <pubDate>Mon, 28 Sep 2026 11:54:57 +0700</pubDate>
     <generator>KOMPAS404 RSS Generator</generator>
     <image>
         <url>https://kompas404.github.io/logo-kompas404.png</url>
@@ -18,66 +18,94 @@
     <atom:link href="https://kompas404.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-        <title>Kebakaran di Gunung Rinjani Capai 1.098 Hektare — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/kebakaran-di-gunung-rinjani-capai-1-098-hektare</link>
-        <description>Jakarta, Kompas404 – Kebakaran hutan dan lahan (karhutla) di kawasan Taman Nasional Gunung Rinjani (TNGR) meluas. Dalam penyampaiannya, Astekita menjelaskan bagi pendaki yang masih melakukan aktivitas pendakian dan sebelumnya memilih Jalur Senaru ata</description>
-        <pubDate>Mon, 28 Sep 2026 01:25:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Wakil Rektor Universitas di Karo Tewas di Rumah, Mobil Korban Hilang — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/wakil-rektor-universitas-di-karo-tewas-di-rumah-mobil-korban</link>
-        <description>Nasional, Kompas404 – Wakil Rektor Kampus IT&B Karo berinisial AS (38) terungkap tewas di kamar mandi rumahnya di Desa Raya, Kecamatan Berastagi, Kabupaten Karo, Sumatera Utara (Sumut). Menurut keterangan Pedoman saat dikonfirmasi detikSumut, abang k</description>
-        <pubDate>Sun, 27 Sep 2026 23:51:00 +0700</pubDate>
-        <category>Pendidikan</category>
-    </item>
-    <item>
-        <title>13 Desa di Aceh Tenggara Terendam Banjir, 55 KK Terdampak — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/13-desa-di-aceh-tenggara-terendam-banjir-55-kk-terdampak</link>
-        <description>Jakarta, Kompas404 Network – Badan Penanggulangan Bencana Aceh (BPBA) melaporkan sebanyak 13 desa dari tujuh kecamatan di Kabupaten Aceh Tenggara kembali terendam banjir. Dalam penyampaiannya, Kepala Pelaksana BPBA menjelaskan tingginya curah hujan d</description>
-        <pubDate>Sun, 27 Sep 2026 22:37:00 +0700</pubDate>
+        <title>Pramono Sebut Pestapora hingga The Weeknd Gerakkan Ekonomi Jakarta Rp 250 M — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pramono-sebut-pestapora-hingga-the-weeknd-gerakkan-ekonomi-j</link>
+        <description>Kompas404 Newsroom – Gubernur DKI Jakarta Pramono Anung menyebut sejumlah gelaran musik internasional turut menggerakkan perekonomian Jakarta. Dalam penyampaiannya, Pramono menjelaskan saya mendapatkan laporan, dalam pelaksanaan Pestapora dan juga Th</description>
+        <pubDate>Mon, 28 Sep 2026 11:53:00 +0700</pubDate>
         <category>Bisnis</category>
     </item>
     <item>
-        <title>Ketua Kelompok DPD di MPR Dukung Peluncuran Dua Buku MPR RI — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/ketua-kelompok-dpd-di-mpr-dukung-peluncuran-dua-buku-mpr-ri</link>
-        <description>Jakarta, Kompas404 – Ketua Kelompok DPD RI di MPR RI Dedi Iskandar Batubara menyambut positif peluncuran dua buku MPR RI yang merekam perjalanan ketatanegaraan Indonesia, mulai dari sejarah kelembagaan MPR hingga risalah transformasi Undang-Undang Da</description>
-        <pubDate>Sun, 27 Sep 2026 21:56:00 +0700</pubDate>
+        <title>Kebakaran Rumah di Cakung, Api Padam Usai 30 Menit Pemadaman — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/kebakaran-rumah-di-cakung-api-padam-usai-30-menit-pemadaman</link>
+        <description>Kompas404 Newsroom – Rumah warga di kawasan Pulo Gebang Cakung, Jakarta Timur (Jaktim) terbakar. Asap hitam membubung tinggi dari lokasi kebakaran. Kasiops Suku Dinas Penanggulangan Kebakaran dan Penyelamatan mengungkapkan, "Objek terbakar rumah ting</description>
+        <pubDate>Mon, 28 Sep 2026 11:51:00 +0700</pubDate>
         <category>Transportasi</category>
     </item>
     <item>
-        <title>Warga Kalteng Diserang Beruang saat Panen Sawit, Alami Luka-luka — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/warga-kalteng-diserang-beruang-saat-panen-sawit-alami-luka-l</link>
-        <description>Jakarta, Kompas404 Network – Seorang masyarakat bernama Yana (25) yang sedang memanen sawit di Desa Purbasari, Kecamatan Pangkalan Lada, Kabupaten Kotawaringin Barat (Kobar), Kalimantan Tengah (Kalteng), diserang beruang hitam. Orang yang terdampak m</description>
-        <pubDate>Sun, 27 Sep 2026 21:53:00 +0700</pubDate>
+        <title>Polda Metro Salurkan Makanan ke 173 Pengungsi Korban Kebakaran Jakut — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/polda-metro-salurkan-makanan-ke-173-pengungsi-korban-kebakar</link>
+        <description>Kompas404 – Sebanyak 173 warga terdampak kebakaran di Kampung Muka, Kelurahan Ancol, Pademangan, Jakarta Utara masih berada di tendang pengungsian. Polisi turun ke tenda pengungsian dan menyalurkan dukungan makanan.Pemberian bantuan makanan dilaksana</description>
+        <pubDate>Mon, 28 Sep 2026 11:47:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Dirjenpas Sebut Ferdy Sambo Sudah Diperiksa Terkait Lapas Cibinong — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/dirjenpas-sebut-ferdy-sambo-sudah-diperiksa-terkait-lapas-ci</link>
+        <description>Kompas404 – Plt. Mashudi dalam rapat dengar pendapat (RDP) dengan Komisi XIII menegaskan bahwa ditpamintel dan Ditpatnal menjalankan pemeriksaan 21 masyarakat binaan asimilasi di SAE (Sarana Asimilasi dan Edukasi), 33 warga binaan perkara tipikor, da</description>
+        <pubDate>Mon, 28 Sep 2026 11:46:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Pramono Cerita Walkot New York Mamdani Penasaran soal Subsidi Transjabodetabek — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pramono-cerita-walkot-new-york-mamdani-penasaran-soal-subsid</link>
+        <description>Kompas404 – Gubernur DKI Jakarta Pramono Anung mengungkap isi pertemuannya melalui Wali Kota New York Zohran Mamdani saat dirinya menjalankan kunjungan kerja ke Amerika Serikat (AS). Pramono menuturkan masalah di Jakarta dan New York mirip. Pramono a</description>
+        <pubDate>Mon, 28 Sep 2026 11:38:00 +0700</pubDate>
         <category>Transportasi</category>
     </item>
     <item>
-        <title>Wisma MPR RI Bandung Kembali Difungsikan, Ibas Soroti Nilai Sejarah — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/wisma-mpr-ri-bandung-kembali-difungsikan-ibas-soroti-nilai-s</link>
-        <description>Nasional, Kompas404 – Wisma MPR RI di Jalan Diponegoro Kota Bandung, kembali digunakan setelah menjalani rehabilitasi. Ibas dalam keterangan tertulis menegaskan bahwa ada sejarah, ada perjuangan, ada pemikiran dari tempat ini yang terus mengawal kons</description>
-        <pubDate>Sun, 27 Sep 2026 21:52:00 +0700</pubDate>
+        <title>KRL INKA Bogor-Kota Alami Kendala Pintu Pagi Tadi — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/krl-inka-bogor-kota-alami-kendala-pintu-pagi-tadi</link>
+        <description>Nasional, Kompas404 – Perjalanan KRL rute Bogor-Jakarta Kota pagi ini sempat menghadapi gangguan. Dalam penyampaiannya, KCI dalam akun Threads resminya menjelaskan mohon maaf atas ketidaknyamanan yang dialami. Karel informasikan guna KA 1203 (Bogor-J</description>
+        <pubDate>Mon, 28 Sep 2026 11:35:00 +0700</pubDate>
         <category>Transportasi</category>
     </item>
     <item>
-        <title>Gempa M 3,1 Terjadi di Sukabumi — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/gempa-m-3-1-terjadi-di-sukabumi</link>
-        <description>Kompas404 – Gempa bumi dengan magnitudo (M) 3 1 berlangsung di Sukabumi, Jawa Barat (Jabar). Gempa ada pada kedalaman 22 kilometer. Gempa ada pada kedalaman 22 kilometer. Menurut keterangan BMKG, informasi ini mengutamakan kecepatan, sehingga capaian</description>
-        <pubDate>Sun, 27 Sep 2026 21:38:00 +0700</pubDate>
-        <category>Lingkungan</category>
-    </item>
-    <item>
-        <title>Implementasi Konsesi, Waka MPR Dorong Kelengkapan-Verifikasi Data Disabilitas — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/implementasi-konsesi-waka-mpr-dorong-kelengkapan-verifikasi</link>
-        <description>Kompas404 Newsroom – Akurasi data dinilai menjadi penentu utama keberhasilan implementasi konsesi bagi penyandang disabilitas. Dalam penyampaiannya, Wakil Ketua MPR RI Lestari Moerdijat (Rerie) dalam keterangan menjelaskan kebijakan yang inklusif har</description>
-        <pubDate>Sun, 27 Sep 2026 21:17:00 +0700</pubDate>
+        <title>Waduh! Sapi 800 Kg Terperosok ke Septic Tank di Jaktim — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/waduh-sapi-800-kg-terperosok-ke-septic-tank-di-jaktim</link>
+        <description>Kompas404 Newsroom – Sapi berukuran besar terperosok ke lubang pembuangan kotoran (septic tank) di Cipayung, Jakarta Timur (Jaktim). Dalam penyampaiannya, Wahid menjelaskan evakuasi seekor sapi melalui berat kurang lebih 800 kg yang terjeblos ke dala</description>
+        <pubDate>Mon, 28 Sep 2026 11:28:00 +0700</pubDate>
         <category>Transportasi</category>
     </item>
     <item>
-        <title>Anggota DPR Rajiv Dukung Dog Does Disco yang Konsisten Kampanyekan Adopsi — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/anggota-dpr-rajiv-dukung-dog-does-disco-yang-konsisten-kampa</link>
-        <description>Nasional, Kompas404 – Dog Does Disco (DDD) 2026 kembali digelar di Central Park, Jakarta, pada 25-27 September 2026. Menurut keterangan Rajiv dalam keterangan tertulis, saya mengapresiasi Dog Does Disco tahun ini memasuki tahun ke-14 bersama Central </description>
-        <pubDate>Sun, 27 Sep 2026 21:16:00 +0700</pubDate>
+        <title>Pramono Panggil Kadishub DKI, Bahas Kajian Terkait Ganjil Genap dan CFD — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pramono-panggil-kadishub-dki-bahas-kajian-terkait-ganjil-gen</link>
+        <description>Kompas404 – Gubernur DKI Jakarta Pramono Anung memanggil Kepala Dinas Perhubungan (Kadishub) DKI Jakarta Budi Awaludin terkait sejumlah kebijakan transportasi. Menurut keterangan Pramono di Tanah Abang, kebetulan sore ini saya menerima Kadishub yang </description>
+        <pubDate>Mon, 28 Sep 2026 11:18:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>DPRD Sorot Desil Penerima Bansos, Pramono: DKI Tak Bisa Ubah Keputusan Pusat — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/dprd-sorot-desil-penerima-bansos-pramono-dki-tak-bisa-ubah-k</link>
+        <description>Jakarta, Kompas404 Network – Gubernur DKI Jakarta Pramono Anung buka suara soal aturan desil yang menjadi sorotan DPRD DKI Jakarta. Pramono di Kawasan Tanah Abang mengungkapkan, "Yang berkaitan melalui desil, tentunya Pihak pemerintah DKI Jakarta tid</description>
+        <pubDate>Mon, 28 Sep 2026 11:12:00 +0700</pubDate>
+        <category>Politik</category>
+    </item>
+    <item>
+        <title>Komisi XIII DPR Rapat dengan Dirjenpas-Kalapas Nonaktif Terkait Lapas Cibinong — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/komisi-xiii-dpr-rapat-dengan-dirjenpas-kalapas-nonaktif-terk</link>
+        <description>Jakarta, Kompas404 – Komisi XIII DPR RI menggelar rapat dengar pendapat (RDP) dengan jajaran Direktorat Jenderal Pemasyarakatan (Ditjenpas) Kementerian Imigrasi dan Pemasyarakatan. Dalam penyampaiannya, Ketua Komisi XIII Willy Aditya membuka rapat te</description>
+        <pubDate>Mon, 28 Sep 2026 11:10:00 +0700</pubDate>
+        <category>Politik</category>
+    </item>
+    <item>
+        <title>Daftar 10 Besar Kandidat Penggerak Desa Mandiri Pangan DPD RI Awards 2026 — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/daftar-10-besar-kandidat-penggerak-desa-mandiri-pangan-dpd-r</link>
+        <description>Kompas404 Newsroom – Tim panitia telah memilih 10 nama kandidat penerima DPD RI Awards 2026 kategori Penggerak Desa Mandiri Pangan. Mereka yang terpilih ini memiliki dedikasi dan inovasi yang berdampak pada kemandirian pangan di wilayahnya masing-mas</description>
+        <pubDate>Mon, 28 Sep 2026 11:02:00 +0700</pubDate>
+        <category>Berita</category>
+    </item>
+    <item>
+        <title>Forklift 15 Ton Tabrak Rumah Warga hingga Rusak di Tangerang — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/forklift-15-ton-tabrak-rumah-warga-hingga-rusak-di-tangerang</link>
+        <description>Jakarta, Kompas404 – Forklift 15 ton menabrak rumah masyarakat di Kampung Warung, Desa Pagedangan Ilir, Kecamatan Kronjo, Kabupaten Tangerang. Menurut keterangan Fery, tidak ada korban jiwa maupun luka-luka dalam kejadian tersebut. Namun, insiden itu</description>
+        <pubDate>Mon, 28 Sep 2026 11:00:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Kali Kebon Melati Bakal Ditata Tanpa Gusur Warga, Target Rampung 2028 — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/kali-kebon-melati-bakal-ditata-tanpa-gusur-warga-target-ramp</link>
+        <description>Jakarta, Kompas404 – Gubernur DKI Jakarta Pramono Anung ingin penataan Kali Kebon Melati, Tanah Abang, Jakarta Pusat, dilakukan secara menyeluruh. Dalam penyampaiannya, Pramono saat meninjau Kali Kebon Melati menjelaskan penanggulangan ini tidak bisa</description>
+        <pubDate>Mon, 28 Sep 2026 10:59:00 +0700</pubDate>
         <category>Politik</category>
     </item>
 </channel>
