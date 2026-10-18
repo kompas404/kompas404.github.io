@@ -5,8 +5,8 @@
     <link>https://kompas404.github.io</link>
     <description>KOMPAS404 menyajikan berita terbaru, analisis tajam, dan informasi faktual setiap hari. Teknologi, bisnis, olahraga, lifestyle.</description>
     <language>id-ID</language>
-    <lastBuildDate>Sun, 18 Oct 2026 11:04:28 +0700</lastBuildDate>
-    <pubDate>Sun, 18 Oct 2026 11:04:28 +0700</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2026 17:47:02 +0700</lastBuildDate>
+    <pubDate>Sun, 18 Oct 2026 17:47:02 +0700</pubDate>
     <generator>KOMPAS404 RSS Generator</generator>
     <image>
         <url>https://kompas404.github.io/logo-kompas404.png</url>
@@ -18,81 +18,74 @@
     <atom:link href="https://kompas404.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-        <title>Ragam Antispasi Warga Usai Asap Karhutla Sempat Terdeteksi di Jakarta — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/ragam-antispasi-warga-usai-asap-karhutla-sempat-terdeteksi-d</link>
-        <description>Nasional, Kompas404 – Pemprov DKI meminta publik tak panik menyikapi keberadaan asap karhutla yang terdeteksi di wilayah Jakarta. Menurut keterangan Rahmat di CFD jalan Rasuna Said, ya, itu memang benar sih. Itu kan harus pakai masker, terus banyak-b</description>
-        <pubDate>Sun, 18 Oct 2026 10:49:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Said Abdullah Pertanyakan Sikap MSCI terhadap Pasar Saham RI — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/said-abdullah-pertanyakan-sikap-msci-terhadap-pasar-saham-ri</link>
-        <description>Kompas404 Newsroom – Ketua Badan Alokasi dana DPR RI Said Abdullah turut buka suara sehubungan dengan pengumuman Morgan Stanley Capital International (MSCI) mengenai Bursa Efek Indonesia (BEI). Dalam penyampaiannya, Said Abdullah dalam keterangan res</description>
-        <pubDate>Sun, 18 Oct 2026 10:26:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Sopir Pikap Terjepit di Ruang Kemudi Usai Tabrak Truk di Bogor — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/sopir-pikap-terjepit-di-ruang-kemudi-usai-tabrak-truk-di-bog</link>
-        <description>Nasional, Kompas404 – Satu unit pikap ringsek di bagian depan setelah menabrak bagian belakang truk di Jalan Sholeh Iskandar, Kota Bogor. Dalam penyampaiannya, Kabid Pemadaman dan Penyelamatan Dinas Damkar Kota Bogor M Ad menjelaskan telah berlangsun</description>
-        <pubDate>Sun, 18 Oct 2026 10:23:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Jakarta Menuju Perayaan 5 Abad, Wagub Rano Undang Raja-Sultan Nusantara — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/jakarta-menuju-perayaan-5-abad-wagub-rano-undang-raja-sultan</link>
-        <description>Jakarta, Kompas404 – Wakil Gubernur DKI Jakarta Rano Karno mengundang para raja dan sultan dari seluruh Nusantara pada perayaan HUT ke-500 Jakarta tahun depan. Menurut keterangan Rano dalam sambutannya, dan insyaallah tahun depan Jakarta akan berusia</description>
-        <pubDate>Sun, 18 Oct 2026 10:18:00 +0700</pubDate>
-        <category>Politik</category>
-    </item>
-    <item>
-        <title>Asap Karhutla di Jakarta, Rano: Angin Sudah Tak Bertiup ke Jawa, Ada Penurunan — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/asap-karhutla-di-jakarta-rano-angin-sudah-tak-bertiup-ke-jaw</link>
-        <description>Jakarta, Kompas404 Network – Wakil Gubernur DKI Jakarta Rano Karno menuturkan angin sudah tidak bertiup ke arah Jawa di tengah potensi dampak asap kebakaran hutan dan lahan (karhutla) di Kalimantan. Rano di kawasan Bundaran Hotel Indonesia (HI) mengu</description>
-        <pubDate>Sun, 18 Oct 2026 10:01:00 +0700</pubDate>
-        <category>Politik</category>
-    </item>
-    <item>
-        <title>PDIP Soroti Tata Ruang soal Karhutla, Dorong Ada Moratorium Hutan — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/pdip-soroti-tata-ruang-soal-karhutla-dorong-ada-moratorium-h</link>
-        <description>Jakarta, Kompas404 – Sekjen PDIP Hasto Kristiyanto menyoroti kebakaran hutan dan lahan (karhutla) yang masih terjadi di Indonesia. Hasto dalam keterangannya menegaskan bahwa kembali pada kebakaran hutan, pertama kesalahan kebijakan akibat tata ruang.</description>
-        <pubDate>Sun, 18 Oct 2026 09:42:00 +0700</pubDate>
-        <category>Hukum</category>
-    </item>
-    <item>
-        <title>Rano Karno Ajak Warga Doakan Karhutla Segera Teratasi di Sumatera-Kalimantan — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/rano-karno-ajak-warga-doakan-karhutla-segera-teratasi-di-sum</link>
-        <description>Jakarta, Kompas404 Network – Wakil Gubernur DKI Jakarta Rano Karno mengajak warga mendoakan agar bencana kebakaran hutan dan lahan (karhutla) di kawasan Kalimantan, Sumatera, hingga Sulawesi segera teratasi. Dia berharap warga yang terdampak segera p</description>
-        <pubDate>Sun, 18 Oct 2026 09:31:00 +0700</pubDate>
+        <title>Lahan Pertanian Pulih, Petani Aceh Tamiang Kembali Panen Padi — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/lahan-pertanian-pulih-petani-aceh-tamiang-kembali-panen-padi</link>
+        <description>Nasional, Kompas404 – Petani di Gampong Bukit Panjang Kecamatan Karang Baru, Kabupaten Aceh Tamiang, Aceh, mulai memanen padi dari lahan yang terdampak banjir besar pada akhir November 2025. Mualem dalam keterangan tertulis menegaskan bahwa kami doak</description>
+        <pubDate>Sun, 18 Oct 2026 17:15:00 +0700</pubDate>
         <category>Lingkungan</category>
     </item>
     <item>
-        <title>PDIP Bakal Pecat Bupati Klaten Hamenang yang Kena OTT KPK — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/pdip-bakal-pecat-bupati-klaten-hamenang-yang-kena-ott-kpk</link>
-        <description>Kompas404 – KPK menetapkan Bupati Klaten Hamenang Wajar Ismoyo sebagai terduga pelaku perkara dugaan suap dan sulap capaian audit BPK. PDIP kini tengah memproses pemecatan yang bersangkutan. Dalam penyampaiannya, Komarudin dalam keterangannya menjela</description>
-        <pubDate>Sun, 18 Oct 2026 08:47:00 +0700</pubDate>
-        <category>Hukum</category>
+        <title>Pertamina Audiensi dengan Gubernur dan Kapolda Sulut soal BBM — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pertamina-audiensi-dengan-gubernur-dan-kapolda-sulut-soal-bb</link>
+        <description>Jakarta, Kompas404 Network – Pertamina Patra Niaga Regional Sulawesi menjalankan audiensi dengan Gubernur Sulawesi Utara Mayjen TNI (Purn) Yulius Selvanus dan Kapolda Sulawesi Utara Irjen Yudho Hermanto. Lilik menegaskan bahwa kami terus berkoordinas</description>
+        <pubDate>Sun, 18 Oct 2026 17:06:00 +0700</pubDate>
+        <category>Transportasi</category>
     </item>
     <item>
-        <title>Kemlu Diminta Bersikap Usai Trump Jadikan 'Mohammad' Bahan Candaan — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/kemlu-diminta-bersikap-usai-trump-jadikan-mohammad-bahan-can</link>
-        <description>Jakarta, Kompas404 – Presiden Amerika Serikat (AS) Donald Trump melontarkan lelucon soal popularitas nama 'Mohammad' ketika dirinya mengejek kepresidenan Iran. Dave saat dihubungi mengungkapkan, "Menurut saya, setiap pemimpin dunia perlu mempertimban</description>
-        <pubDate>Sun, 18 Oct 2026 08:18:00 +0700</pubDate>
+        <title>Kapal Perang Ini Ubah Standar Kekuatan Angkatan Laut Dunia — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/kapal-perang-ini-ubah-standar-kekuatan-angkatan-laut-dunia</link>
+        <description>Kompas404 Newsroom – HMS Dreadnought adalah salah satu kapal perang yang mempelopori perkembangan kapal perang di masa itu. Bahkan, kapal ini mengubah standar kekuatan angkatan laut dunia. Kompas404 menyoroti pentingnya evaluasi berkala terhadap sara</description>
+        <pubDate>Sun, 18 Oct 2026 16:53:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Budaya dan Adat Papua Jadi Bahan Ajar bagi Anak-anak di Manokwari — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/budaya-dan-adat-papua-jadi-bahan-ajar-bagi-anak-anak-di-mano</link>
+        <description>Jakarta, Kompas404 Network – Kearifan lokal budaya, dan adat Papua kini menjadi bagian dari bahan ajar bagi para siswa di Manokwari. Parjiyanti dalam keterangan tertulis mengungkapkan, "Saya percaya Tim Ekspedisi Patriot juga bersama-sama bekerja mel</description>
+        <pubDate>Sun, 18 Oct 2026 16:48:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Jokowi Ucapkan Selamat Ulang Tahun ke Prabowo, Doakan Kuat — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/jokowi-ucapkan-selamat-ulang-tahun-ke-prabowo-doakan-kuat</link>
+        <description>Jakarta, Kompas404 Network – Presiden ke-7 RI Joko Widodo (Jokowi) memberikan ucapan selamat ulang tahun kepada Presiden RI Prabowo Subianto. Jokowi mendoakan kesehatan bagi Presiden Prabowo. Menurut keterangan Jokowi, insyaallah, Bapak diberi kekuat</description>
+        <pubDate>Sun, 18 Oct 2026 16:35:00 +0700</pubDate>
         <category>Politik</category>
     </item>
     <item>
-        <title>Komisi III Minta MUI Segera Terbitkan Fatwa Haram Vape: Ini Hajat Hidup Umat — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/komisi-iii-minta-mui-segera-terbitkan-fatwa-haram-vape-ini-h</link>
-        <description>Jakarta, Kompas404 – Kapolri Jenderal Suyudi Ario Seto meminta dukungan kepada Majelis Ulama Indonesia (MUI) guna mengeluarkan fatwa haram rokok elektrik lantaran bahaya narkotika berbentuk cair. Sahroni saat dihubungi mengungkapkan, "Melihat berbaga</description>
-        <pubDate>Sun, 18 Oct 2026 08:01:00 +0700</pubDate>
+        <title>Polisi Amankan Pertandingan Persita Vs Persija di Serang Usai Suporter Ricuh — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/polisi-amankan-pertandingan-persita-vs-persija-di-serang-usa</link>
+        <description>Kompas404 – Kericuhan suporter berlangsung hingga sempat membuat pertandingan Persita Tangerang vs Persija Jakarta di Banten International Stadium (BIS), Kota Serang, tertunda. Menurut keterangan Yudha Satria dalam keterangannya, sepak bola merupakan</description>
+        <pubDate>Sun, 18 Oct 2026 16:29:00 +0700</pubDate>
         <category>Hukum</category>
     </item>
     <item>
-        <title>Mobil Jip Terbakar di Parkiran Mal Jaksel, Diduga karena Bocor Selang Bensin — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/mobil-jip-terbakar-di-parkiran-mal-jaksel-diduga-karena-boco</link>
-        <description>Jakarta, Kompas404 Network – Satu unit mobil jip Jimny terbakar di area parkir sebuah mal di Jalan Sultan Iskandar Muda, Kebayoran Lama, Jakarta Selatan (Jaksel). Penyebabnya diduga kebocoran selang bensin mobil tersebut. Penyebabnya diduga kebocoran</description>
-        <pubDate>Sun, 18 Oct 2026 07:45:00 +0700</pubDate>
+        <title>Bus Pariwisata Bawa Rombongan Pabrik Kecelakaan di Tol Ngawi, 3 Orang Tewas — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/bus-pariwisata-bawa-rombongan-pabrik-kecelakaan-di-tol-ngawi</link>
+        <description>Jakarta, Kompas404 Network – Kecelakaan bus pariwisata Chandra Jaya yang mengangkut rombongan karyawan pabrik sepatu di Mojokerto dengan truk Fuso berlangsung di Tol Ngawi-Solo. Dalam penyampaiannya, Imam dilansir detikJatim menjelaskan yang satu men</description>
+        <pubDate>Sun, 18 Oct 2026 15:55:00 +0700</pubDate>
         <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Polres Bekasi Gelar TFG Antisipasi Pelajar Demo ke Jakarta 20 Oktober — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/polres-bekasi-gelar-tfg-antisipasi-pelajar-demo-ke-jakarta-2</link>
+        <description>Jakarta, Kompas404 – Polres Metro Bekasi Kota menggelar Tactical Floor Game (TFG) dalam rangka kesiapan Sistem Pengamanan Kota (Sispamkota). Putu dalam keterangannya menegaskan bahwa kami menghormati hak setiap warga negara guna menyampaikan pendapat</description>
+        <pubDate>Sun, 18 Oct 2026 15:45:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Namu Balai Kota Jakarta Dibuka, 500 Orang Lihat Isi Kantor Gubernur — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/namu-balai-kota-jakarta-dibuka-500-orang-lihat-isi-kantor-gu</link>
+        <description>Nasional, Kompas404 – Ratusan orang mengunjungi Namu Balai Kota ketika pertama kali dibuka guna umum. Kepala Dinas Komunikasi mengungkapkan, "Ada 500 orang yang datang dalam pembukaan Namu Balai Kota kemarin," Pemerintah Provinsi (Pemprov) DKI Jakart</description>
+        <pubDate>Sun, 18 Oct 2026 15:20:00 +0700</pubDate>
+        <category>Politik</category>
+    </item>
+    <item>
+        <title>Pilu Bocah Difabel Tewas Diduga Di-bully Tetangganya di Surabaya — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pilu-bocah-difabel-tewas-diduga-di-bully-tetangganya-di-sura</link>
+        <description>Nasional, Kompas404 – Seorang bocah bernama Zulkarnain Abdil Aziz (10) diduga menjadi korban perundungan oleh tetangganya. Selaras dilansir detikJatim menegaskan bahwa remuk, Mbak, hati saya lihat anak yang delapan tahun (F) itu tadi. Mondar-mandir l</description>
+        <pubDate>Sun, 18 Oct 2026 15:17:00 +0700</pubDate>
+        <category>Hukum</category>
     </item>
 </channel>
 </rss>
