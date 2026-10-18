@@ -5,8 +5,8 @@
     <link>https://kompas404.github.io</link>
     <description>KOMPAS404 menyajikan berita terbaru, analisis tajam, dan informasi faktual setiap hari. Teknologi, bisnis, olahraga, lifestyle.</description>
     <language>id-ID</language>
-    <lastBuildDate>Sun, 18 Oct 2026 17:47:02 +0700</lastBuildDate>
-    <pubDate>Sun, 18 Oct 2026 17:47:02 +0700</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2026 22:42:39 +0700</lastBuildDate>
+    <pubDate>Sun, 18 Oct 2026 22:42:39 +0700</pubDate>
     <generator>KOMPAS404 RSS Generator</generator>
     <image>
         <url>https://kompas404.github.io/logo-kompas404.png</url>
@@ -18,74 +18,95 @@
     <atom:link href="https://kompas404.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-        <title>Lahan Pertanian Pulih, Petani Aceh Tamiang Kembali Panen Padi — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/lahan-pertanian-pulih-petani-aceh-tamiang-kembali-panen-padi</link>
-        <description>Nasional, Kompas404 – Petani di Gampong Bukit Panjang Kecamatan Karang Baru, Kabupaten Aceh Tamiang, Aceh, mulai memanen padi dari lahan yang terdampak banjir besar pada akhir November 2025. Mualem dalam keterangan tertulis menegaskan bahwa kami doak</description>
-        <pubDate>Sun, 18 Oct 2026 17:15:00 +0700</pubDate>
-        <category>Lingkungan</category>
-    </item>
-    <item>
-        <title>Pertamina Audiensi dengan Gubernur dan Kapolda Sulut soal BBM — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/pertamina-audiensi-dengan-gubernur-dan-kapolda-sulut-soal-bb</link>
-        <description>Jakarta, Kompas404 Network – Pertamina Patra Niaga Regional Sulawesi menjalankan audiensi dengan Gubernur Sulawesi Utara Mayjen TNI (Purn) Yulius Selvanus dan Kapolda Sulawesi Utara Irjen Yudho Hermanto. Lilik menegaskan bahwa kami terus berkoordinas</description>
-        <pubDate>Sun, 18 Oct 2026 17:06:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Kapal Perang Ini Ubah Standar Kekuatan Angkatan Laut Dunia — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/kapal-perang-ini-ubah-standar-kekuatan-angkatan-laut-dunia</link>
-        <description>Kompas404 Newsroom – HMS Dreadnought adalah salah satu kapal perang yang mempelopori perkembangan kapal perang di masa itu. Bahkan, kapal ini mengubah standar kekuatan angkatan laut dunia. Kompas404 menyoroti pentingnya evaluasi berkala terhadap sara</description>
-        <pubDate>Sun, 18 Oct 2026 16:53:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Budaya dan Adat Papua Jadi Bahan Ajar bagi Anak-anak di Manokwari — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/budaya-dan-adat-papua-jadi-bahan-ajar-bagi-anak-anak-di-mano</link>
-        <description>Jakarta, Kompas404 Network – Kearifan lokal budaya, dan adat Papua kini menjadi bagian dari bahan ajar bagi para siswa di Manokwari. Parjiyanti dalam keterangan tertulis mengungkapkan, "Saya percaya Tim Ekspedisi Patriot juga bersama-sama bekerja mel</description>
-        <pubDate>Sun, 18 Oct 2026 16:48:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Jokowi Ucapkan Selamat Ulang Tahun ke Prabowo, Doakan Kuat — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/jokowi-ucapkan-selamat-ulang-tahun-ke-prabowo-doakan-kuat</link>
-        <description>Jakarta, Kompas404 Network – Presiden ke-7 RI Joko Widodo (Jokowi) memberikan ucapan selamat ulang tahun kepada Presiden RI Prabowo Subianto. Jokowi mendoakan kesehatan bagi Presiden Prabowo. Menurut keterangan Jokowi, insyaallah, Bapak diberi kekuat</description>
-        <pubDate>Sun, 18 Oct 2026 16:35:00 +0700</pubDate>
+        <title>Usai Bertemu Prabowo, Sekjen PBB Bakal Bermalam di Hambalang — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/usai-bertemu-prabowo-sekjen-pbb-bakal-bermalam-di-hambalang</link>
+        <description>Jakarta, Kompas404 Network – Sekretaris Jenderal Perserikatan Bangsa-Bangsa (PBB) AntÃ³nio Guterres bertemu dengan Presiden Prabowo Subianto di Hambalang, Bogor, Jawa Barat (Jabar). Pertemuan ini mengungkapkan, "Pertemuan ini menegaskan eratnya komun</description>
+        <pubDate>Sun, 18 Oct 2026 22:18:00 +0700</pubDate>
         <category>Politik</category>
     </item>
     <item>
-        <title>Polisi Amankan Pertandingan Persita Vs Persija di Serang Usai Suporter Ricuh — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/polisi-amankan-pertandingan-persita-vs-persija-di-serang-usa</link>
-        <description>Kompas404 – Kericuhan suporter berlangsung hingga sempat membuat pertandingan Persita Tangerang vs Persija Jakarta di Banten International Stadium (BIS), Kota Serang, tertunda. Menurut keterangan Yudha Satria dalam keterangannya, sepak bola merupakan</description>
-        <pubDate>Sun, 18 Oct 2026 16:29:00 +0700</pubDate>
-        <category>Hukum</category>
-    </item>
-    <item>
-        <title>Bus Pariwisata Bawa Rombongan Pabrik Kecelakaan di Tol Ngawi, 3 Orang Tewas — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/bus-pariwisata-bawa-rombongan-pabrik-kecelakaan-di-tol-ngawi</link>
-        <description>Jakarta, Kompas404 Network – Kecelakaan bus pariwisata Chandra Jaya yang mengangkut rombongan karyawan pabrik sepatu di Mojokerto dengan truk Fuso berlangsung di Tol Ngawi-Solo. Dalam penyampaiannya, Imam dilansir detikJatim menjelaskan yang satu men</description>
-        <pubDate>Sun, 18 Oct 2026 15:55:00 +0700</pubDate>
+        <title>Pelajari Pertanian Berbasis AI di Chongqing, Mentrans Ajak Investasi di RI — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pelajari-pertanian-berbasis-ai-di-chongqing-mentrans-ajak-in</link>
+        <description>Kompas404 – Pemanfaatan kecerdasan buatan atau artificial intelligence (AI) guna meningkatkan produktivitas pertanian menjadi salah satu pembelajaran krusial Menteri Transmigrasi M. Dalam penyampaiannya, Iftitah dalam keterangan tertulis menjelaskan </description>
+        <pubDate>Sun, 18 Oct 2026 22:05:00 +0700</pubDate>
         <category>Transportasi</category>
     </item>
     <item>
-        <title>Polres Bekasi Gelar TFG Antisipasi Pelajar Demo ke Jakarta 20 Oktober — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/polres-bekasi-gelar-tfg-antisipasi-pelajar-demo-ke-jakarta-2</link>
-        <description>Jakarta, Kompas404 – Polres Metro Bekasi Kota menggelar Tactical Floor Game (TFG) dalam rangka kesiapan Sistem Pengamanan Kota (Sispamkota). Putu dalam keterangannya menegaskan bahwa kami menghormati hak setiap warga negara guna menyampaikan pendapat</description>
-        <pubDate>Sun, 18 Oct 2026 15:45:00 +0700</pubDate>
+        <title>Serba-serbi Persiapan Jakarta Menuju Perayaan 5 Abad — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/serba-serbi-persiapan-jakarta-menuju-perayaan-5-abad</link>
+        <description>Jakarta, Kompas404 Network – mulai menyiapkan berbagai kegiatan menjelang perayaan hari ulang tahun ke-500 tahun depan. Rano dalam sambutannya menegaskan bahwa dan insyaallah tahun depan Jakarta akan berusia 500 tahun, 5 abad. Kami mengundang kembali</description>
+        <pubDate>Sun, 18 Oct 2026 21:58:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Drum Band SMA KTB Meriahkan Sosialisasi SPMB di CFD Bundaran HI — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/drum-band-sma-ktb-meriahkan-sosialisasi-spmb-di-cfd-bundaran</link>
+        <description>Jakarta, Kompas404 – Drum band SMA Kemala Taruna Bhayangkara (KTB) untuk pertama kalinya tampil di ruang publik dan memeriahkan sosialisasi Sistem Penerimaan Murid Baru (SPMB) Tahun Ajaran 2027/2028 di Car Free Day (CFD) Bundaran Hotel Indonesia (HI)</description>
+        <pubDate>Sun, 18 Oct 2026 21:51:00 +0700</pubDate>
+        <category>Pendidikan</category>
+    </item>
+    <item>
+        <title>Syarikat Islam Ingin Perkuat Kerja Sama Muhammadiyah dalam Dakwah Ekonomi — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/syarikat-islam-ingin-perkuat-kerja-sama-muhammadiyah-dalam-d</link>
+        <description>Jakarta, Kompas404 – Menteri Koperasi (Menkop) sekaligus Sekretaris Jenderal Syarikat Islam (SI) Ferry Juliantono menyatakan keinginan SI memperkuat kerja sama melalui Muhammadiyah dalam dakwah ekonomi. Ferry dalam keterangan tertulis menegaskan bahw</description>
+        <pubDate>Sun, 18 Oct 2026 21:24:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Kapolresta Bogor Kota Cek SPBU, Pastikan Pasokan dan Distribusi BBM Aman — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/kapolresta-bogor-kota-cek-spbu-pastikan-pasokan-dan-distribu</link>
+        <description>Kompas404 Newsroom – Polresta Bogor Kota melakukan pengecekan di sejumlah stasiun pengisian bahan bakar umum (SPBU) di Kota Bogor. Menurut keterangan Kapolresta Bogor Kota Kombes Adhitya Panji Anom, pengecekan SPBU merupakan bentuk komitmen Polresta </description>
+        <pubDate>Sun, 18 Oct 2026 21:13:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>11 Orang Terluka Imbas Kericuhan Suporter Persita vs Persija di BIS — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/11-orang-terluka-imbas-kericuhan-suporter-persita-vs-persija</link>
+        <description>Nasional, Kompas404 – Kericuhan suporter saat laga Persita Tangerang vs Persija Jakarta di Banten International Stadium (BIS), Kota Serang, menyebabkan sejumlah orang terluka. Menurut keterangan Kabid Humas Polda Banten Kombes Maruli Hutapea dalam ke</description>
+        <pubDate>Sun, 18 Oct 2026 20:57:00 +0700</pubDate>
         <category>Hukum</category>
     </item>
     <item>
-        <title>Namu Balai Kota Jakarta Dibuka, 500 Orang Lihat Isi Kantor Gubernur — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/namu-balai-kota-jakarta-dibuka-500-orang-lihat-isi-kantor-gu</link>
-        <description>Nasional, Kompas404 – Ratusan orang mengunjungi Namu Balai Kota ketika pertama kali dibuka guna umum. Kepala Dinas Komunikasi mengungkapkan, "Ada 500 orang yang datang dalam pembukaan Namu Balai Kota kemarin," Pemerintah Provinsi (Pemprov) DKI Jakart</description>
-        <pubDate>Sun, 18 Oct 2026 15:20:00 +0700</pubDate>
+        <title>Penjelasan Polda Metro soal Polisi Tertembak Polisi di Pondok Cabe — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/penjelasan-polda-metro-soal-polisi-tertembak-polisi-di-pondo</link>
+        <description>Kompas404 – Polda Metro Jaya membenarkan kasus aparat kepolisian tembak polisi di Mako Polairud, Pondok Cabe, Pamulang, Kota Tangerang Selatan. Pelaku ketika ini sudah diamankan. Kabid Humas Polda Metro Jaya Kombes Pol Budi Hermanto menyampaikan peri</description>
+        <pubDate>Sun, 18 Oct 2026 20:45:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Polisi Ungkap Kronologi Kericuhan Suporter saat Persita vs Persija di BIS — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/polisi-ungkap-kronologi-kericuhan-suporter-saat-persita-vs-p</link>
+        <description>Kompas404 Newsroom – Aparat kepolisian mengungkap awal terjadinya kericuhan suporter pada laga Persita Tangerang vs Persija Jakarta di Banten International Stadium (BIS), Kota Serang, kemarin. Maruli dalam keterangannya mengungkapkan, "Pada menit ke-</description>
+        <pubDate>Sun, 18 Oct 2026 20:38:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Insiden Nahas Kapal Tabrak Jembatan Bikin Puluhan Orang Tewas — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/insiden-nahas-kapal-tabrak-jembatan-bikin-puluhan-orang-tewa</link>
+        <description>Kompas404 – Runtuhnya Sunshine Skyway Bridge Florida akibat ditabrak oleh kapal laut pada 1980 merupakan sejarah nahas kecelakaan kapal di Amerika Serikat (AS). Akibat insiden ini, puluhan orang tewas. Benturan tersebut menghancurkan tiang penyangga </description>
+        <pubDate>Sun, 18 Oct 2026 20:31:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Survei PPI: 62,2% Responden Setuju Prabowo Reshuffle Kabinet Beberapa Kali — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/survei-ppi-62-2-responden-setuju-prabowo-reshuffle-kabinet-b</link>
+        <description>Jakarta, Kompas404 Network – Survei terbaru Parameter Politik Indonesia (PPI) merekam tingkat persetujuan publik (approval rating) terhadap keputusan Presiden Prabowo Subianto merombak atau me-reshuffle kabinetnya beberapa kali. Sebanyak 62,2% respon</description>
+        <pubDate>Sun, 18 Oct 2026 20:26:00 +0700</pubDate>
         <category>Politik</category>
     </item>
     <item>
-        <title>Pilu Bocah Difabel Tewas Diduga Di-bully Tetangganya di Surabaya — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/pilu-bocah-difabel-tewas-diduga-di-bully-tetangganya-di-sura</link>
-        <description>Nasional, Kompas404 – Seorang bocah bernama Zulkarnain Abdil Aziz (10) diduga menjadi korban perundungan oleh tetangganya. Selaras dilansir detikJatim menegaskan bahwa remuk, Mbak, hati saya lihat anak yang delapan tahun (F) itu tadi. Mondar-mandir l</description>
-        <pubDate>Sun, 18 Oct 2026 15:17:00 +0700</pubDate>
-        <category>Hukum</category>
+        <title>Andre Rosiade Ajak Rakyat Indonesia Berdoa agar Karhutla Berakhir — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/andre-rosiade-ajak-rakyat-indonesia-berdoa-agar-karhutla-ber</link>
+        <description>Jakarta, Kompas404 – Wakil Ketua Komisi VI DPR RI dari Fraksi Gerindra Andre Rosiade mengajak publik Indonesia untuk berdoa agar kebakaran hutan dan lahan (karhutla) yang melanda sejumlah provinsi di Tanah Air segera berakhir. Di tengah upaya besar p</description>
+        <pubDate>Sun, 18 Oct 2026 20:18:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Potret Terkini Survei Kepusan Publik terhadap Pemerintahan — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/potret-terkini-survei-kepusan-publik-terhadap-pemerintahan</link>
+        <description>Kompas404 – Tingkat kepuasan publik terhadap pemerintahan Presiden Prabowo Subianto dan Wakil Presiden Gibran Rakabuming terpotret menjelang dua tahun pemerintahan. Kepuasan akan kinerja pemerintah terekam dalam sejumlah lembaga survei. Lebih jauh, l</description>
+        <pubDate>Sun, 18 Oct 2026 20:11:00 +0700</pubDate>
+        <category>Politik</category>
     </item>
 </channel>
 </rss>
