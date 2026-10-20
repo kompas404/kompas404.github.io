@@ -5,8 +5,8 @@
     <link>https://kompas404.github.io</link>
     <description>KOMPAS404 menyajikan berita terbaru, analisis tajam, dan informasi faktual setiap hari. Teknologi, bisnis, olahraga, lifestyle.</description>
     <language>id-ID</language>
-    <lastBuildDate>Tue, 20 Oct 2026 05:13:02 +0700</lastBuildDate>
-    <pubDate>Tue, 20 Oct 2026 05:13:02 +0700</pubDate>
+    <lastBuildDate>Tue, 20 Oct 2026 11:25:22 +0700</lastBuildDate>
+    <pubDate>Tue, 20 Oct 2026 11:25:22 +0700</pubDate>
     <generator>KOMPAS404 RSS Generator</generator>
     <image>
         <url>https://kompas404.github.io/logo-kompas404.png</url>
@@ -18,67 +18,95 @@
     <atom:link href="https://kompas404.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-        <title>Bobol Rumah Warga Pakai Linggis, Pemuda di Jakbar Ditangkap Polisi — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/bobol-rumah-warga-pakai-linggis-pemuda-di-jakbar-ditangkap-p</link>
-        <description>Jakarta, Kompas404 – Polisi mengamankan seorang pria berinisial R (29) sehubungan dengan perkara pencurian di sebuah rumah di Jalan Kamboja Ujung No. Kasat Reskrim Polres Metro Jakarta Barat menegaskan bahwa petugas kemudian bergerak menuju lokasi da</description>
-        <pubDate>Tue, 20 Oct 2026 04:41:00 +0700</pubDate>
-        <category>Hukum</category>
-    </item>
-    <item>
-        <title>Dentuman Misterius Gegerkan Warga di Bojonegoro-Madiun, BMKG Beri Penjelasan — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/dentuman-misterius-gegerkan-warga-di-bojonegoro-madiun-bmkg</link>
-        <description>Jakarta, Kompas404 – Suara dentuman keras terdengar di sekitar Gunung Pandan, wilayah perbatasan Bojonegoro dan Madiun, membuat warga penasaran. Dalam penyampaiannya, Kepala Desa Sumberbendo menjelaskan infonya begitu (ada suara dentuman) tapi saya s</description>
-        <pubDate>Tue, 20 Oct 2026 03:03:00 +0700</pubDate>
-        <category>Lingkungan</category>
-    </item>
-    <item>
-        <title>Hanura Kini Tak Mau Pusing soal Ambang Batas Parlemen, Mau Fokus Pemilu 2029 — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/hanura-kini-tak-mau-pusing-soal-ambang-batas-parlemen-mau-fo</link>
-        <description>Kompas404 Newsroom – Partai Hanura kini mengaku tak mau berlarut-larut soal bahasan ambang batas parlemen atau parliamentary threshold (PT). Waketum Hanura mengungkapkan, "Kami, Partai Hanura hari ini tidak ingin berlarut-larut dalam wacana soal PT 4</description>
-        <pubDate>Tue, 20 Oct 2026 02:07:00 +0700</pubDate>
-        <category>Politik</category>
-    </item>
-    <item>
-        <title>Gadis 17 Tahun Asal Bekasi Nekat Datangi Pacar di Bali, Ngakunya Nyari Kerja — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/gadis-17-tahun-asal-bekasi-nekat-datangi-pacar-di-bali-ngaku</link>
-        <description>Kompas404 Newsroom – Seorang gadis berinisial I (17) asal Bekasi, Jawa Barat (Jabar), nekat pergi ke Bali seorang diri guna bertemu pacarnya, IKWA (17). Kasi Humas Polres Karangasem menegaskan bahwa orang tua IKWA mengaku khawatir dan takut terjadi p</description>
-        <pubDate>Tue, 20 Oct 2026 01:07:00 +0700</pubDate>
-        <category>Hukum</category>
-    </item>
-    <item>
-        <title>Golkar Yakin Program Pemerintah Tercapai di 2 Tahun Kepemimpinan Prabowo — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/golkar-yakin-program-pemerintah-tercapai-di-2-tahun-kepemimp</link>
-        <description>Nasional, Kompas404 – Waketum DPP Partai Golkar Wihaji menyikapi dua tahun kepemimpinan Presiden Prabowo Subianto dan Gibran Rakabuming Raka. Wihaji usia konferensi pers jelang HUT Golkar ke-62 mengungkapkan, "Saya kok meyakini, kalau tercapai pasti </description>
-        <pubDate>Mon, 19 Oct 2026 23:54:00 +0700</pubDate>
-        <category>Politik</category>
-    </item>
-    <item>
-        <title>Kawasan Gunung Sumbing Wonosobo Kebakaran, 71 Pendaki Dievakuasi — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/kawasan-gunung-sumbing-wonosobo-kebakaran-71-pendaki-dievaku</link>
-        <description>Jakarta, Kompas404 Network – Petak 29 Gunung Sumbing via Gajahmungkur Kecamatan Kalikajar, Kabupaten Wonosobo, Jawa Tengah (Jateng), dilanda kebakaran. Dalam penyampaiannya, Koordinator Tim Reaksi Cepat (TRC) BPBD Wonosobo menjelaskan informasi tadi </description>
-        <pubDate>Mon, 19 Oct 2026 23:54:00 +0700</pubDate>
+        <title>Mengenal NbS, Program BOPPJ untuk Lindungi Pesisir Pantai Utara Jawa — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/mengenal-nbs-program-boppj-untuk-lindungi-pesisir-pantai-uta</link>
+        <description>Kompas404 Newsroom – Dalam beberapa dekade terakhir garis pantai di kawasan Pantai Utara Jawa berubah secara signifikan hingga mengakibatkan keseimbangan ekosistem pesisir, serta situasi sosial dan ekonomi masyarakat terdampak. Inisiatif Nature-Based</description>
+        <pubDate>Tue, 20 Oct 2026 11:18:00 +0700</pubDate>
         <category>Transportasi</category>
     </item>
     <item>
-        <title>Pusat Bisnis dan Mal di Surabaya Sempat Gelap Gulita gegara Gangguan Listrik — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/pusat-bisnis-dan-mal-di-surabaya-sempat-gelap-gulita-gegara</link>
-        <description>Kompas404 Newsroom – Sejumlah kawasan di pusat bisnis dan mal di Kota Surabaya, Jawa Timur (Jatim), sempat gelap gulita akibat pemadaman sekitar pukul 18.18-18.30 WIB. Menurut keterangan Manajer Komunikasi dan TJSL PLN UID Jatim, menanggapi informasi</description>
-        <pubDate>Mon, 19 Oct 2026 23:49:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Presiden PKS Sebut Putusan soal Gibran 'Ijazahgate': Ada Perlakuan Tak Sama — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/presiden-pks-sebut-putusan-soal-gibran-ijazahgate-ada-perlak</link>
-        <description>Nasional, Kompas404 – Presiden Partai Keadilan Sejahtera (PKS) Almuzzammil Yusuf mengungkit polemik ijazah Wapres Gibran Rakabuming Raka sebagai 'ijazahgate'. Dalam penyampaiannya, Almuzammil dalam pidato politiknya di acara Bimtek Nasional P menjela</description>
-        <pubDate>Mon, 19 Oct 2026 23:11:00 +0700</pubDate>
+        <title>Usai Bentangkan Spanduk, Greenpeace Mulai Turun dari Patung Bundaran HI — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/usai-bentangkan-spanduk-greenpeace-mulai-turun-dari-patung-b</link>
+        <description>Jakarta, Kompas404 – Sejumlah anggota Greenpeace Indonesia membentangkan spanduk di Patung Selamat Datang Bundaran HI, Jakarta Pusat, pagi ini. Para anggota Greenpeace tersebut kini mulai turun dari Patung Selamat Datang melalui tali rescue. Pantauan</description>
+        <pubDate>Tue, 20 Oct 2026 11:17:00 +0700</pubDate>
         <category>Hukum</category>
     </item>
     <item>
-        <title>Lereng Gunung Lawu Kebakaran, Api Meluas ke Arah Jalur Pendakian — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/lereng-gunung-lawu-kebakaran-api-meluas-ke-arah-jalur-pendak</link>
-        <description>Jakarta, Kompas404 – Kebakaran hutan dan lahan (karhutla) terjadi di lereng Gunung Lawu, Karanganyar, Jawa Tengah (Jateng). Kalakhar BPBD Karanganyar mengungkapkan, "Api cukup besar mengarah ke jalur Tambak (Ngargoyoso) dan kemungkinan nanti hampir s</description>
-        <pubDate>Mon, 19 Oct 2026 23:01:00 +0700</pubDate>
-        <category>Lingkungan</category>
+        <title>Pemkot Serang Uji Coba Bus Listrik, Target Beroperasi 2027 — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pemkot-serang-uji-coba-bus-listrik-target-beroperasi-2027</link>
+        <description>Nasional, Kompas404 – Pihak pemerintah Kota Serang menggelar uji coba penerapan bus listrik di wilayahnya. Layanan ini ditargetkan beroperasi pada 2027. Terdapat dua trayek yang diujicobakan. Layanan ini ditargetkan beroperasi pada 2027. Uji coba bus</description>
+        <pubDate>Tue, 20 Oct 2026 11:11:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Jasad Wanita Ditemukan Membusuk di Kebun Jati Sukabumi, Diduga Dibunuh — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/jasad-wanita-ditemukan-membusuk-di-kebun-jati-sukabumi-didug</link>
+        <description>Jakarta, Kompas404 Network – Heboh seorang ibu rumah tangga (IRT) bernama Rini Ali Soraya (32) ditemukan membusuk di perkebunan jati wilayah Kampung Margaluyu, Kabupaten Sukabumi. Kasat Reskrim Polres Sukabumi Iptu Dudi Suharyana di Mapolres mengungk</description>
+        <pubDate>Tue, 20 Oct 2026 11:07:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Pria Tidur di Selokan Pasar Serpong Asal Cirebon, Sudah Dijemput Keluarga — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pria-tidur-di-selokan-pasar-serpong-asal-cirebon-sudah-dijem</link>
+        <description>Kompas404 – Dinsos Tangsel menjelaskan pria yang dinarasikan diduga ODGJ itu bernama Faisal (24), berasal dari Jawa Barat (Jabar). Faisal bisa sampai ke Tangsel bersama teman-temannya pada pertengahan Oktober. "Berdasarkan capaian pemeriksaan biometr</description>
+        <pubDate>Tue, 20 Oct 2026 11:05:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Polisi Selidiki Unsur Kelalaian Terkait Ledakan Pasar Cimanggis — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/polisi-selidiki-unsur-kelalaian-terkait-ledakan-pasar-cimang</link>
+        <description>Jakarta, Kompas404 Network – Polisi masih mengusut soal ledakan Pasar Cimanggis, Ciputat, Tangerang Selatan. Kabid Humas Polda Metro Jaya Kombes Budi Hermanto seusai apel mengungkapkan, "Ini masih dilakukan penyelidikan oleh Ditreskrimum Polda Metro </description>
+        <pubDate>Tue, 20 Oct 2026 11:00:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Polisi Analisis Rekaman CCTV Penganiayaan Koordinator BEM UI — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/polisi-analisis-rekaman-cctv-penganiayaan-koordinator-bem-ui</link>
+        <description>Kompas404 – Penyidik Polda Metro Jaya menganalisis rekaman CCTV guna mengusut perkara penganiayaan koordinator BEM UI, Hafidz Hernanda, oleh orang tak dikenal (OTK). Dalam penyampaiannya, Kabid Humas Polda Metro Jaya Kombes Budi Hermanto seusai apel </description>
+        <pubDate>Tue, 20 Oct 2026 10:58:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Kronologi Tabrakan Beruntun Mobil Listrik di Tol Ancol gegara e-Toll Jatuh — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/kronologi-tabrakan-beruntun-mobil-listrik-di-tol-ancol-gegar</link>
+        <description>Jakarta, Kompas404 Network – Kecelakaan beruntun terjadi di Tol Wiyoto Wiyono Km 20, Ancol Barat, Jakarta Utara. Kasat Patroli Jalan Raya (PJR) Ditlantas Polda Metro Jaya menegaskan bahwa (Dugaan penyebab) pengemudi KR-1 (Wuling) tidak fokus dalam be</description>
+        <pubDate>Tue, 20 Oct 2026 10:49:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Bentangkan Spanduk, Greenpeace Bertahan di Patung Bundaran HI — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/bentangkan-spanduk-greenpeace-bertahan-di-patung-bundaran-hi</link>
+        <description>Kompas404 – Spanduk dan sejumlah poster berwarna kuning sempat terbentang di Patung Selamat Datang Bundaran HI, Jakarta Pusat. Dalam penyampaiannya, Reynold di lokasi aksi menjelaskan kami dari Polres Metro Jakarta Pusat dan Kodim 0501 Jakarta Pusat </description>
+        <pubDate>Tue, 20 Oct 2026 10:48:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Pramono Minta Penyampaian Aspirasi di Jakarta Hari Ini Tertib — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pramono-minta-penyampaian-aspirasi-di-jakarta-hari-ini-terti</link>
+        <description>Nasional, Kompas404 – Gubernur DKI Jakarta Pramono Anung berharap aksi penyampaian aspirasi yang digelar bertepatan melalui dua tahun pemerintahan Presiden Prabowo Subianto dan Wakil Presiden Gibran Rakabuming Raka hari ini berlangsung tertib dan ama</description>
+        <pubDate>Tue, 20 Oct 2026 10:46:00 +0700</pubDate>
+        <category>Politik</category>
+    </item>
+    <item>
+        <title>Peringati HUT Ke-62, Golkar Gelar Ziarah di TMP Kalibata — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/peringati-hut-ke-62-golkar-gelar-ziarah-di-tmp-kalibata</link>
+        <description>Nasional, Kompas404 – Partai Golkar memperingati hari ulang tahun (HUT) ke-62 hari ini. Peringatan HUT dimulai melalui ziarah ke Taman Makam Pahlawan Kalibata. Proses pengambilan keputusan yang partisipatif dan transparan dinilai mampu memperkuat kep</description>
+        <pubDate>Tue, 20 Oct 2026 10:39:00 +0700</pubDate>
+        <category>Politik</category>
+    </item>
+    <item>
+        <title>Rumah Terbakar di Ulujami Jaksel, Nenek 80 Tahun Tewas — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/rumah-terbakar-di-ulujami-jaksel-nenek-80-tahun-tewas</link>
+        <description>Kompas404 – Rumah di kawasan Ulujami Pesanggrahan, Jakarta Selatan (Jaksel), terbakar pada dini hari tadi. Dalam penyampaiannya, Kasudin Pemadam Kebakaran dan Penyelamatan (Gulkarmat) Jaksel menjelaskan objek yang terbakar rumah tinggal, Petugas pema</description>
+        <pubDate>Tue, 20 Oct 2026 10:39:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>F-PKB MPR Nilai Kebijakan Pemerintahan Prabowo Telah Jalankan Amanat UUD — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/f-pkb-mpr-nilai-kebijakan-pemerintahan-prabowo-telah-jalanka</link>
+        <description>Jakarta, Kompas404 Network – Ketua Fraksi PKB MPR RI Neng Eem Marhamah Zulfa Hiz menilai arah kebijakan pada dua tahun pemerintahan Presiden Prabowo Subianto telah menunjukkan upaya menjalankan amanat Pasal 33 Undang-Undang Dasar (UUD) 1945. Neng Eem</description>
+        <pubDate>Tue, 20 Oct 2026 10:38:00 +0700</pubDate>
+        <category>Transportasi</category>
     </item>
 </channel>
 </rss>
