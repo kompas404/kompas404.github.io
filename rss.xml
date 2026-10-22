@@ -5,8 +5,8 @@
     <link>https://kompas404.github.io</link>
     <description>KOMPAS404 menyajikan berita terbaru, analisis tajam, dan informasi faktual setiap hari. Teknologi, bisnis, olahraga, lifestyle.</description>
     <language>id-ID</language>
-    <lastBuildDate>Thu, 22 Oct 2026 18:33:51 +0700</lastBuildDate>
-    <pubDate>Thu, 22 Oct 2026 18:33:51 +0700</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 23:59:23 +0700</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 23:59:23 +0700</pubDate>
     <generator>KOMPAS404 RSS Generator</generator>
     <image>
         <url>https://kompas404.github.io/logo-kompas404.png</url>
@@ -18,109 +18,81 @@
     <atom:link href="https://kompas404.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-        <title>Canda Prabowo ke Bos BI dan Ketua OJK: Yang Atur Keuangan RI Emak-emak Semua — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/canda-prabowo-ke-bos-bi-dan-ketua-ojk-yang-atur-keuangan-ri</link>
-        <description>Jakarta, Kompas404 Network – Presiden Prabowo Subianto mengatakan yang mengatur keuangan Indonesia merupakan emak-emak. Dia menyebut emak-emak lebih berhati-hati. Kompas404 menilai, konsolidasi antarlembaga dan komunikasi politik yang sehat menjadi p</description>
-        <pubDate>Thu, 22 Oct 2026 18:20:00 +0700</pubDate>
-        <category>Politik</category>
-    </item>
-    <item>
-        <title>Legislator Gerindra Salurkan Kendaraan Roda Tiga-Traktor untuk Warga Bungo — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/legislator-gerindra-salurkan-kendaraan-roda-tiga-traktor-unt</link>
-        <description>Kompas404 Newsroom – Anggota DPR RI dari Fraksi Partai Gerindra, Rocky Candra menyalurkan dukungan kendaraan bermotor roda tiga dan alat mesin pertanian (alsintan) kepada kelompok masyarakat dan petani di Kabupaten Bungo, Jambi, Selasa (20/10). Rocky</description>
-        <pubDate>Thu, 22 Oct 2026 18:19:00 +0700</pubDate>
+        <title>Karhutla di Kapuas Kalteng Meluas, Api Nyaris Merembet ke Pemakaman Warga — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/karhutla-di-kapuas-kalteng-meluas-api-nyaris-merembet-ke-pem</link>
+        <description>Kompas404 – Kebakaran hutan dan lahan (karhutla) terjadi di Jalan Pemuda Km 6,5, Desa Teluk Palinget, Kecamatan Pulau Petak, Kabupaten Kapuas, Kalimantan Tengah. Menurut keterangan Yudi, ketika ini sudah ada pemadaman di lokasi dan masih berproses. S</description>
+        <pubDate>Thu, 22 Oct 2026 23:30:00 +0700</pubDate>
         <category>Transportasi</category>
     </item>
     <item>
-        <title>Kemenkes Catat 333 Ribu Kasus ISPA di Daerah Karhutla, Termasuk 75 Ribu Balita — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/kemenkes-catat-333-ribu-kasus-ispa-di-daerah-karhutla-termas</link>
-        <description>Kompas404 Newsroom – Kementerian Kesehatan (Kemenkes) mencatat lonjakan kasus infeksi saluran pernapasan akut (ISPA) di wilayah-wilayah terdampak kebakaran hutan dan lahan (karhutla). Direktur Kesehatan Lingkungan Kementerian Kesehatan menegaskan bah</description>
-        <pubDate>Thu, 22 Oct 2026 18:16:00 +0700</pubDate>
+        <title>10 Hari Tak Ditemukan, Pencarian Jessica Korban Tenggelam di TN Komodo Ditutup — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/10-hari-tak-ditemukan-pencarian-jessica-korban-tenggelam-di</link>
+        <description>Nasional, Kompas404 – Veronica Beatrix Jessica (23) orang yang terdampak kapal pinisi Feronia yang tenggelam di perairan Taman Nasional (TN) Komodo, Labuan Bajo, Manggarai Barat, Nusa Tenggara Timur (NTT), tak kunjung terungkap oleh tim SAR usai 10 h</description>
+        <pubDate>Thu, 22 Oct 2026 23:27:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Wacana Dinas PUPR Dipecah, Pemprov Banten Antisipasi Dampak Anggaran — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/wacana-dinas-pupr-dipecah-pemprov-banten-antisipasi-dampak-a</link>
+        <description>Kompas404 – Pemerintah Provinsi Banten berencana memecah Dinas Pekerjaan Umum dan Penataan Ruang (PUPR). Menurut keterangan Wakil Gubernur Banten Dimyati Natakusumah usai Paripurna DPRD, kalau ada pemekaran, pasti ada budget impact, ya dampak keuanga</description>
+        <pubDate>Thu, 22 Oct 2026 23:14:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Sidak Flyover Latumenten, Kenneth DPRD DKI: Progres Pembangunan Sudah Capai 83% — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/sidak-flyover-latumenten-kenneth-dprd-dki-progres-pembanguna</link>
+        <description>Kompas404 Newsroom – Anggota DPRD DKI Jakarta dari Fraksi PDI Perjuangan, Hardiyanto Kenneth, menjalankan inspeksi mendadak (sidak) ke lokasi pengerjaan Flyover Latumenten di Grogol Petamburan, Jakarta Barat, pada Kamis 22 Oktober 2026. Kenneth dalam</description>
+        <pubDate>Thu, 22 Oct 2026 22:55:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Anggota DPRD Mempawah Jadi Tersangka Kasus Bakar Lahan, Langsung Ditahan — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/anggota-dprd-mempawah-jadi-tersangka-kasus-bakar-lahan-langs</link>
+        <description>Kompas404 Newsroom – Anggota DPRD Kabupaten Mempawah Choirussaib, ditetapkan sebagai tersangka perkara dugaan pembakaran lahan. Choirussaib kini langsung ditahan di Rutan Polres Mempawah. Choirussaib kini langsung ditahan di Rutan Polres Mempawah. Ka</description>
+        <pubDate>Thu, 22 Oct 2026 22:53:00 +0700</pubDate>
         <category>Hukum</category>
     </item>
     <item>
-        <title>Bareskrim Naikkan Kasus Dugaan Penipuan Investasi Tambang ke Penyidikan — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/bareskrim-naikkan-kasus-dugaan-penipuan-investasi-tambang-ke</link>
-        <description>Nasional, Kompas404 – Bareskrim Polri menaikkan status penanggulangan perkara dugaan penipuan dan penggelapan investasi tambang emas yang dilaporkan oleh seorang warga negara (WN) Malaysia ke tahap penyidikan. Orang yang terdampak diduga menghadapi k</description>
-        <pubDate>Thu, 22 Oct 2026 18:14:00 +0700</pubDate>
-        <category>Hukum</category>
+        <title>Kabakom Tegaskan Siap Dengar Masukan dari Daerah — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/kabakom-tegaskan-siap-dengar-masukan-dari-daerah</link>
+        <description>Jakarta, Kompas404 – Kepala Badan Komunikasi Pihak pemerintah (KabaKom) RI Syahganda Nainggolan menegaskan bahwa pemerintah terbuka terhadap kritik dan masukan masyarakat. Menurut keterangan Syahganda dalam keterangan tertulisnya, bapak Presiden mint</description>
+        <pubDate>Thu, 22 Oct 2026 22:52:00 +0700</pubDate>
+        <category>Transportasi</category>
     </item>
     <item>
-        <title>Budiman Sudjatmiko Ungkap 3 Kaum yang Melawan Pendekatan Prabowo — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/budiman-sudjatmiko-ungkap-3-kaum-yang-melawan-pendekatan-pra</link>
-        <description>Nasional, Kompas404 – Kepala Badan Percepatan Pengentasan Kemiskinan (BP Taskin) Budiman Sudjatmiko meyakini apa yang dilakukan Presiden Prabowo Subianto saat ini demi kemajuan Indonesia. Menurut keterangan Budiman, ada tiga orang yang akan melawan c</description>
-        <pubDate>Thu, 22 Oct 2026 18:12:00 +0700</pubDate>
+        <title>Hujan Disertai Angin Kencang Picu Banjir Lintasan dan Pohon Tumbang di Bogor — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/hujan-disertai-angin-kencang-picu-banjir-lintasan-dan-pohon</link>
+        <description>Nasional, Kompas404 – Hujan deras disertai angin kencang melanda Kota Bogor, Jawa Barat. Akibatnya, berlangsung banjir lintasan hingga pohon tumbang. Menurut keterangan Kalak BPBD Kota Bogor Dimas Tiko Prahadisasongko, bila menyimak beberapa visual, </description>
+        <pubDate>Thu, 22 Oct 2026 22:14:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Gus Ipul Ajak SDM PKH dan Operator Data Se-Jombang Jadi Agen Perlinsos — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/gus-ipul-ajak-sdm-pkh-dan-operator-data-se-jombang-jadi-agen</link>
+        <description>Jakarta, Kompas404 – Menteri Sosial Saifullah Yusuf (Gus Ipul) mengajak para pendamping atau SDM Inisiatif Keluarga Harapan (PKH) dan operator data desa di Kabupaten Jombang menjadi Agen Perlinsos (Perlindungan Sosial). Hal ini bertujuan untuk memban</description>
+        <pubDate>Thu, 22 Oct 2026 22:03:00 +0700</pubDate>
         <category>Politik</category>
     </item>
     <item>
-        <title>Karhutla Dekati Kantor Pemko Palangka Raya, Asap Masuk Ruangan — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/karhutla-dekati-kantor-pemko-palangka-raya-asap-masuk-ruanga</link>
-        <description>Nasional, Kompas404 – Kebakaran hutan dan lahan (karhutla) mengancam lagi kawasan perkantoran Pemerintah Kota (Pemko) Palangka Raya, Kalimantan Tengah. Kepala Satpol PP Kota Palangka Raya mengungkapkan, "Kalau kita lihat arahnya, sebenarnya dari beka</description>
-        <pubDate>Thu, 22 Oct 2026 18:07:00 +0700</pubDate>
-        <category>Transportasi</category>
+        <title>Listrik Sekitar Stasiun Sudirman Sempat Padam, PLN Ungkap Penyebabnya — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/listrik-sekitar-stasiun-sudirman-sempat-padam-pln-ungkap-pen</link>
+        <description>Kompas404 – Pemadaman listrik sempat berlangsung di sekitar Stasiun Sudirman, Jakarta Pusat. Listrik padam selama beberapa saat. Warganet melaporkan pemadaman listrik ini di media sosial Threads seperti dilihat Kamis (22/10/2026). Menurut keterangan </description>
+        <pubDate>Thu, 22 Oct 2026 21:54:00 +0700</pubDate>
+        <category>Lingkungan</category>
     </item>
     <item>
-        <title>Prabowo soal Karhutla: Ada Negara Mengolok-olok, Kita Cool Aja — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/prabowo-soal-karhutla-ada-negara-mengolok-olok-kita-cool-aja</link>
-        <description>Kompas404 – Presiden Prabowo Subianto menuturkan ada perusahaan asing yang harus bertanggung jawab atas kebakaran hutan dan lahan (karhutla) di Indonesia yang memicu asap hingga ke negara tetangga. Prabowo dalam Rakornas Tim Percepatan Akses Keuangan</description>
-        <pubDate>Thu, 22 Oct 2026 18:04:00 +0700</pubDate>
-        <category>Politik</category>
-    </item>
-    <item>
-        <title>Prabowo Minta Konsesi Tak Asal Diberikan: 2 Tahun Tidak Ada Aktivitas, Cabut! — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/prabowo-minta-konsesi-tak-asal-diberikan-2-tahun-tidak-ada-a</link>
-        <description>Kompas404 – Presiden Prabowo Subianto meminta jajarannya tidak mudah memberikan konsesi kepada pengusaha tanpa memastikan kemampuan mengelola dan menjalankan kegiatan usaha. Menurut keterangan Prabowo di Rakornas TPAKD, kita tidak boleh terlalu mudah</description>
-        <pubDate>Thu, 22 Oct 2026 18:02:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Eddy Soeparno Terima Aspirasi Mahasiswa, Bahas Percepatan Transisi Energi — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/eddy-soeparno-terima-aspirasi-mahasiswa-bahas-percepatan-tra</link>
-        <description>Nasional, Kompas404 – Wakil Ketua MPR RI dari Fraksi PAN Eddy Soeparno menerima kunjungan audiensi dari mahasiswa BEM Fakultas Hukum Universitas Brawijaya di MPR RI. Dalam kesempatan dialog tersebut. Dalam penegakan hukum, transparansi proses penyidi</description>
-        <pubDate>Thu, 22 Oct 2026 17:52:00 +0700</pubDate>
+        <title>Perampok Gasak Tas Isi Valas di Toko Emas Jember, Kerugian Rp 700 Juta — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/perampok-gasak-tas-isi-valas-di-toko-emas-jember-kerugian-rp</link>
+        <description>Jakarta, Kompas404 Network – Toko Emas Murni di Jalan Sultan Agung Jember, Jawa Timur, disatroni perampok. Menurut keterangan Panit Opsnal III Polsek Kaliwates, pelaku langsung masuk, kemudian mencoba guna menutup pintu depan, Dalam penyampaiannya, p</description>
+        <pubDate>Thu, 22 Oct 2026 21:43:00 +0700</pubDate>
         <category>Hukum</category>
     </item>
     <item>
-        <title>Kodam Jaya: Motor Trail di Bekasi Milik Mitra Kemhan untuk Batalyon di Papua — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/kodam-jaya-motor-trail-di-bekasi-milik-mitra-kemhan-untuk-ba</link>
-        <description>Jakarta, Kompas404 – Komando Wilayah Militer Jayakarta (Kodam Jaya) menjelaskan duduk persoalan sehubungan dengan viral keberadaan ratusan motor trail yang berada di wilayah Bekasi. Menurut keterangan Kapendam Jaya Letkol Arf Noor Iskak dalam keteran</description>
-        <pubDate>Thu, 22 Oct 2026 17:51:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Wamensos Kawal Usulan Pembangunan Sekolah Rakyat Hulu Sungai Utara — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/wamensos-kawal-usulan-pembangunan-sekolah-rakyat-hulu-sungai</link>
-        <description>Jakarta, Kompas404 Network – Wakil Menteri Sosial (Wamensos) Agus Jabo Priyono akan mengawal usulan pembangunan Sekolah Rakyat di Kabupaten Hulu Sungai Utara (HSU), Kalimantan Selatan. Agus Jabo dalam keterangan tertulis mengungkapkan, "Prinsipnya, P</description>
-        <pubDate>Thu, 22 Oct 2026 17:47:00 +0700</pubDate>
-        <category>Politik</category>
-    </item>
-    <item>
-        <title>2 Mobil dan Puluhan Ternak di Jakbar Hangus Terbakar — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/2-mobil-dan-puluhan-ternak-di-jakbar-hangus-terbakar</link>
-        <description>Jakarta, Kompas404 – Kebakaran melanda kandang ternak di kawasan Duri Kosambi, Cengkareng, Jakarta Barat (Jakbar). Kepala Seksi Operasi (Kasiops) Suku Dinas Penanggulangan Keba mengungkapkan, "Dua unit mobil terbakar, delapan ekor kambing dan 15 ekor</description>
-        <pubDate>Thu, 22 Oct 2026 17:45:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>5.102 Korban Korban Dana Syariah Indonesia Ajukan Restitusi, Nilainya Rp 1 T — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/5-102-korban-korban-dana-syariah-indonesia-ajukan-restitusi</link>
-        <description>Kompas404 – Kejaksaan Negeri (Kejari) Depok menerima laporan perhitungan permohonan ganti rugi atau restitusi dari korban Dana Syariah Indonesia (DSI). Dalam penyampaiannya, Kepala Kejari Depok menjelaskan kami telah menerima laporan penghitungan res</description>
-        <pubDate>Thu, 22 Oct 2026 17:41:00 +0700</pubDate>
+        <title>Wantimpres Undang Menkeu, Dalami Kondisi Fiskal dan Postur APBN 2027 — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/wantimpres-undang-menkeu-dalami-kondisi-fiskal-dan-postur-ap</link>
+        <description>Kompas404 – Dewan Pertimbangan Presiden (Wantimpres) mengundang Menteri Keuangan Suahasil Nazara guna meminta penjelasan mengenai situasi fiskal nasional dan postur Alokasi dana Pendapatan dan Belanja Negara (APBN) 2026-2027. Pratikno di Gedung Utama</description>
+        <pubDate>Thu, 22 Oct 2026 21:25:00 +0700</pubDate>
         <category>Hukum</category>
-    </item>
-    <item>
-        <title>Kemlu Pastikan WNI Aman Usai Bandara Arab Saudi Diserang Lagi — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/kemlu-pastikan-wni-aman-usai-bandara-arab-saudi-diserang-lag</link>
-        <description>Jakarta, Kompas404 – Bandara Internasional King Fahd di Dammam Arab Saudi, kembali diserang. Menurut keterangan Heni Hamidah dalam jumpa pers di kantor Kemlu RI, terkait update perkembangan di Arab Saudi pasca-serangan di Bandara King Fahd Internatio</description>
-        <pubDate>Thu, 22 Oct 2026 17:32:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>bank bjb Sabet Penghargaan Trusted & Popular Brand 2026 — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/bank-bjb-sabet-penghargaan-trusted-popular-brand-2026</link>
-        <description>Kompas404 Newsroom – bank bjb kembali memperoleh pengakuan atas reputasi mereknya dengan meraih penghargaan Disway Awards 2026 - Trusted & Popular Brand 2026 guna kategori Bank Pembangunan Daerah. Corporate Secretary Irwan Riswandi dalam keterangan t</description>
-        <pubDate>Thu, 22 Oct 2026 17:30:00 +0700</pubDate>
-        <category>Bisnis</category>
     </item>
 </channel>
 </rss>
