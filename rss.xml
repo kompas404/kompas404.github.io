@@ -5,8 +5,8 @@
     <link>https://kompas404.github.io</link>
     <description>KOMPAS404 menyajikan berita terbaru, analisis tajam, dan informasi faktual setiap hari. Teknologi, bisnis, olahraga, lifestyle.</description>
     <language>id-ID</language>
-    <lastBuildDate>Tue, 27 Oct 2026 18:56:20 +0700</lastBuildDate>
-    <pubDate>Tue, 27 Oct 2026 18:56:20 +0700</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 00:53:37 +0700</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2026 00:53:37 +0700</pubDate>
     <generator>KOMPAS404 RSS Generator</generator>
     <image>
         <url>https://kompas404.github.io/logo-kompas404.png</url>
@@ -18,67 +18,102 @@
     <atom:link href="https://kompas404.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-        <title>Banjir Terjadi di Sejumlah Wilayah Aceh — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/banjir-terjadi-di-sejumlah-wilayah-aceh</link>
-        <description>Kompas404 – Badan Nasional Penanggulangan Bencana (BNPB) menuturkan banjir terjadi di sejumlah kawasan di Aceh dan Sumatera Utara. Menurut keterangan Berton, di Subulussalam di Aceh, berlangsung banjir dan di sana ada 1.368 orang terdampak. Air saat </description>
-        <pubDate>Tue, 27 Oct 2026 18:52:00 +0700</pubDate>
-        <category>Lingkungan</category>
-    </item>
-    <item>
-        <title>Wamendagri Wiyagus Dorong Pemda Optimalkan BTT untuk Kendalikan Inflasi — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/wamendagri-wiyagus-dorong-pemda-optimalkan-btt-untuk-kendali</link>
-        <description>Kompas404 Newsroom – Wakil Menteri Dalam Negeri (Wamendagri) Akhmad Wiyagus mendorong pihak pemerintah wilayah (Pemda) mengoptimalkan pemanfaatan anggaran Belanja Tidak Terduga (BTT) guna mendukung upaya pengendalian inflasi. Alokasi dana tersebut da</description>
-        <pubDate>Tue, 27 Oct 2026 18:29:00 +0700</pubDate>
-        <category>Lingkungan</category>
-    </item>
-    <item>
-        <title>BNPB: Sudah Tidak Ada Titik Api di Gunung Ciremai — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/bnpb-sudah-tidak-ada-titik-api-di-gunung-ciremai</link>
-        <description>Jakarta, Kompas404 – BNPB menyatakan sudah tidak ada lagi titik api akibat kebakaran hutan dan lahan (Karhutla) di Gunung Ciremai, Kuningan, Jawa Barat. Dalam penyampaiannya, Plt Kepala Pusat Data menjelaskan dapat kami sampaikan sudah dilaksanakan p</description>
-        <pubDate>Tue, 27 Oct 2026 18:25:00 +0700</pubDate>
-        <category>Lingkungan</category>
-    </item>
-    <item>
-        <title>Polda Metro Ajak Publik Kedepankan Dialog, Jaga Situasi Tetap Kondusif — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/polda-metro-ajak-publik-kedepankan-dialog-jaga-situasi-tetap</link>
-        <description>Kompas404 Newsroom – Kabidhumas Polda Metro Jaya Kombes Budi Hermanto mengajak publik mengedepankan komunikasi yang baik dalam menyikapi perbedaan. Dalam penyampaiannya, Kombes Budi kepada wartawan menjelaskan perbedaan pendapat hendaknya disikapi me</description>
-        <pubDate>Tue, 27 Oct 2026 18:23:00 +0700</pubDate>
-        <category>Lingkungan</category>
-    </item>
-    <item>
-        <title>Kejagung Periksa 2 Eks Pejabat ESDM Terkait Dugaan Korupsi KSO Migas Bekasi — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/kejagung-periksa-2-eks-pejabat-esdm-terkait-dugaan-korupsi-k</link>
-        <description>Jakarta, Kompas404 – Kejaksaan Agung (Kejagung) memeriksa dua mantan pejabat Kementerian Energi dan Sumber Daya Mineral (ESDM) dalam kasus dugaan korupsi pengelolaan BUMD migas Bekasi dalam Kerja Sama Operasi (KSO) periode 2009-2024. Keduanya diperik</description>
-        <pubDate>Tue, 27 Oct 2026 18:21:00 +0700</pubDate>
+        <title>Anggota Baleg DPR Dukung Revisi UU Tipikor, Dorong Perluasan Delik — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/anggota-baleg-dpr-dukung-revisi-uu-tipikor-dorong-perluasan</link>
+        <description>Kompas404 Newsroom – Pemerintah tengah berencana merevisi Undang-Undang Tindak Pidana Korupsi (UU Tipikor) untuk memperluas definisi korupsi. Irawan kepada wartawan menegaskan bahwa rencana revisi UU Tipikor yang disampaikan Menko Prof Yusril dan Pak</description>
+        <pubDate>Wed, 28 Oct 2026 00:40:00 +0700</pubDate>
         <category>Hukum</category>
     </item>
     <item>
-        <title>Tak Hanya Kompetisi, IFRC 2026 Perkuat Budaya Keselamatan di Tanah Papua — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/tak-hanya-kompetisi-ifrc-2026-perkuat-budaya-keselamatan-di</link>
-        <description>Nasional, Kompas404 – Gubernur Papua Tengah Meki Fritz Nawipa atau Mepa mengatakan Indonesian Fire and Rescue Competition (IFRC) memperkuat budaya keselamatan di Tanah Papua. Mepa mengungkapkan, "Ada 17 tim yang melakukan kompetisi maupun challenging</description>
-        <pubDate>Tue, 27 Oct 2026 18:15:00 +0700</pubDate>
-        <category>Bisnis</category>
-    </item>
-    <item>
-        <title>Polisi Asesmen Kasus Bullying Siswi SMP Ciputat: Penegakan Hukum Opsi Terakhir — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/polisi-asesmen-kasus-bullying-siswi-smp-ciputat-penegakan-hu</link>
-        <description>Kompas404 Newsroom – Belasan siswa SMPN 10 Ciputat Tangerang Selatan, diduga di-bully kakak kelas melalui dipaksa meminum kopi campur cuka. Polisi telah menjalankan asesmen sehubungan dengan perkara tersebut. Aparat kepolisian telah melakukan asesmen</description>
-        <pubDate>Tue, 27 Oct 2026 18:13:00 +0700</pubDate>
+        <title>Menlu: Asap Karhutla Bisa Melintasi Batas Negara, Begitu Pula Aliran Dana — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/menlu-asap-karhutla-bisa-melintasi-batas-negara-begitu-pula</link>
+        <description>Jakarta, Kompas404 Network – Menteri Luar Negeri (Menlu) Arrmanatha Nasir atau Tata membeberkan Indonesia sedang menjalankan penyelidikan soal pelaku di balik kebakaran hutan dan lahan (karhutla). Katanya, sudah beberapa korporasi bersalah atas karhu</description>
+        <pubDate>Wed, 28 Oct 2026 00:21:00 +0700</pubDate>
         <category>Hukum</category>
     </item>
     <item>
-        <title>Polda Metro Ajak Semua Pihak Jaga Fasilitas Umum Saat Penyampaian Aspirasi — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/polda-metro-ajak-semua-pihak-jaga-fasilitas-umum-saat-penyam</link>
-        <description>Kompas404 Newsroom – Polda Metro Jaya mengajak seluruh elemen publik menjaga fasilitas umum dan ruang publik ketika kegiatan penyampaian aspirasi pada Rabu (28/10) besok. Kabidhumas Polda Metro Jaya Kombes Budi Hermanto menegaskan bahwa ruang publik </description>
-        <pubDate>Tue, 27 Oct 2026 18:10:00 +0700</pubDate>
+        <title>BRIN Beberkan Potensi Limbah Sawit Jadi Energi Listrik Hingga 3,9 Gigawatt — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/brin-beberkan-potensi-limbah-sawit-jadi-energi-listrik-hingg</link>
+        <description>Jakarta, Kompas404 Network – Kepala Badan Riset dan Inovasi Nasional (BRIN) Arif Satria membeberkan limbah cair pabrik kelapa sawit atau Palm Oil Mill Effluent (POME) bisa dikembangkan menjadi sumber energi alternatif. Menurut keterangan Arif usai be</description>
+        <pubDate>Wed, 28 Oct 2026 00:01:00 +0700</pubDate>
+        <category>Politik</category>
+    </item>
+    <item>
+        <title>RI dan Singapura Akan Kerja Sama Berantas Praktik Under-Invoicing — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/ri-dan-singapura-akan-kerja-sama-berantas-praktik-under-invo</link>
+        <description>Jakarta, Kompas404 Network – Menteri Luar Negeri (Menlu) RI Arrmanatha Nasir atau Tata menyatakan Indonesia membuka membuka peluang kerja sama dengan Singapura untuk memberantas praktik manipulasi penurunan nilai faktur atau under-invoicing. Hal ini </description>
+        <pubDate>Tue, 27 Oct 2026 23:51:00 +0700</pubDate>
         <category>Hukum</category>
     </item>
     <item>
-        <title>Potensi Awan di Kalteng, BNPB Kebut Panen Hujan untuk Padamkan Karhutla — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/potensi-awan-di-kalteng-bnpb-kebut-panen-hujan-untuk-padamka</link>
-        <description>Kompas404 Newsroom – Badan Nasional Penanggulangan Bencana (BNPB) menyatakan akan memaksimalkan operasi modifikasi cuaca (OMC) di Kalimantan Tengah (Kalteng) guna memadamkan kebakaran hutan dan lahan (Karhutla). Plt Kepala Pusat Data menegaskan bahwa</description>
-        <pubDate>Tue, 27 Oct 2026 17:56:00 +0700</pubDate>
-        <category>Lingkungan</category>
+        <title>Dwi Bagus Pembunuh Istri Siri dan Anak di Madiun Punya IQ Superior — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/dwi-bagus-pembunuh-istri-siri-dan-anak-di-madiun-punya-iq-su</link>
+        <description>Nasional, Kompas404 – Aparat kepolisian mengungkapkan Dwi Bagus Martono (40), terduga pelaku pembunuhan istri sirinya, Dini Hardiyanti (30), dan anaknya, Arshaka Ghafa El Faezya (4), di Madiun, memiliki kecerdasan di atas rata-rata. Dalam penyampaian</description>
+        <pubDate>Tue, 27 Oct 2026 23:25:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Viral Truk Towing Bawa Mobil Diminta Bayar 2 Kali, Tol Cipali Buka Suara — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/viral-truk-towing-bawa-mobil-diminta-bayar-2-kali-tol-cipali</link>
+        <description>Kompas404 – Viral di media sosial menampilkan satu unit truk towing diminta membayar dua kali atau menggunakan dua kartu ketika melintasi gerbang Tol Cipali. Pihak Tol Cipali pun buka suara atas peristiwa itu. Pihak Tol Cipali pun buka suara atas per</description>
+        <pubDate>Tue, 27 Oct 2026 23:25:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>265 Sekolah Rakyat Berdiri hingga Oktober 2026, 45 Ribu Anak Kembali Sekolah — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/265-sekolah-rakyat-berdiri-hingga-oktober-2026-45-ribu-anak</link>
+        <description>Nasional, Kompas404 – Sekretaris Kabinet (Seskab) Teddy Indra Wijaya mengungkap pengerjaan Sekolah Rakyat menunjukkan perkembangan signifikan. Dalam penyampaiannya, Teddy dalam keterangan tertulisnya menjelaskan hingga Oktober 2026, sebanyak 265 Seko</description>
+        <pubDate>Tue, 27 Oct 2026 23:22:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Kapolri Dorong Personel Pengamanan Aksi Dilengkapi Body Cam — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/kapolri-dorong-personel-pengamanan-aksi-dilengkapi-body-cam</link>
+        <description>Jakarta, Kompas404 – Kapolri Jenderal Suyudi Ario Seto mendorong penggunaan kamera yang dikenakan di tubuh personel (body worn camera) dalam pelaksanaan tugas pengamanan aksi penyampaian pendapat di ruang publik. Suyudi melalui keterangannya mengungk</description>
+        <pubDate>Tue, 27 Oct 2026 23:21:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>KSPI Imbau Penyampaian Aspirasi Berjalan Damai Tanpa Kekerasan — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/kspi-imbau-penyampaian-aspirasi-berjalan-damai-tanpa-kekeras</link>
+        <description>Nasional, Kompas404 – Konfederasi Serikat Pekerja Indonesia (KSPI) memberikan imbauan ke mahasiswa dan buruh yang akan menjalankan aksi penyampaian aspirasi besok di Jakarta. Presiden KSPI Said Iqbal kepada wartawan menegaskan bahwa kSPI menghimbau p</description>
+        <pubDate>Tue, 27 Oct 2026 23:05:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Pramono Terima Kunjungan Menkeu di Balai Kota, Bahas LPDP hingga Obligasi — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pramono-terima-kunjungan-menkeu-di-balai-kota-bahas-lpdp-hin</link>
+        <description>Kompas404 – Gubernur DKI Jakarta Pramono Anung membeberkan pembahasan dalam pertemuannya melalui Menteri Keuangan (Menkeu) Suhasil Nazara di Balai Kota Jakarta. Dalam penyampaiannya, Pramono di Tanah Harapan menjelaskan memang betul tadi pagi saya me</description>
+        <pubDate>Tue, 27 Oct 2026 22:56:00 +0700</pubDate>
+        <category>Politik</category>
+    </item>
+    <item>
+        <title>Pramono Harap Aksi Demo Besok Tak Ganggu Ketertiban Umum — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pramono-harap-aksi-demo-besok-tak-ganggu-ketertiban-umum</link>
+        <description>Kompas404 – Gubernur DKI Jakarta Pramono Anung merespons aksi demonstrasi mahasiswa yang direncanakan berlangsung di Jakarta besok. Dia berharap aksi unjuk rasa berjalan tertib. Pramono di Tanah Harapan menegaskan bahwa yang pertama, yang berkaitan d</description>
+        <pubDate>Tue, 27 Oct 2026 22:35:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>BRIN Kembangkan Riset Prediksi Perambatan Api untuk Antisipasi Karhutla — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/brin-kembangkan-riset-prediksi-perambatan-api-untuk-antisipa</link>
+        <description>Nasional, Kompas404 – Kepala Badan Riset dan Inovasi Nasional (BRIN) Arif Satria menyampaikan pihaknya tengah mengembangkan riset model perambatan api untuk memprediksi potensi kebakaran hutan dan lahan (karhutla). Dalam penyampaiannya, Arif kepada w</description>
+        <pubDate>Tue, 27 Oct 2026 22:19:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Singapura Ancam Langkah Hukum-Ekonomi ke Korporasi Pemicu Karhutla — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/singapura-ancam-langkah-hukum-ekonomi-ke-korporasi-pemicu-ka</link>
+        <description>Kompas404 – Menteri Luar Negeri (Menlu) Singapura Vivian Balakrishnan menjumpai Menlu RI Arrmanatha Nasir alias Tata dalam pertemuan bilateral hari ini. Vivian dalam joint press statement seusai pertemuan di Kantor menegaskan bahwa saya dapat memberi</description>
+        <pubDate>Tue, 27 Oct 2026 22:15:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Sindikat Lab Narkoba di Aceh Samarkan Sabu Cair dalam Ember Cat Akrilik Palsu — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/sindikat-lab-narkoba-di-aceh-samarkan-sabu-cair-dalam-ember</link>
+        <description>Jakarta, Kompas404 – Tim gabungan Polri Badan Narkotika Nasional (BNN), dan Direktorat Jenderal Bea Cukai menguak laboratorium rahasia (clandestine lab) narkotika terbesar di Indonesia yang berlokasi di Pidie, Aceh. Menurut keterangan Zulkarnain, pad</description>
+        <pubDate>Tue, 27 Oct 2026 22:05:00 +0700</pubDate>
+        <category>Hukum</category>
     </item>
 </channel>
 </rss>
