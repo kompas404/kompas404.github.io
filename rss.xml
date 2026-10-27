@@ -5,8 +5,8 @@
     <link>https://kompas404.github.io</link>
     <description>KOMPAS404 menyajikan berita terbaru, analisis tajam, dan informasi faktual setiap hari. Teknologi, bisnis, olahraga, lifestyle.</description>
     <language>id-ID</language>
-    <lastBuildDate>Tue, 27 Oct 2026 11:36:25 +0700</lastBuildDate>
-    <pubDate>Tue, 27 Oct 2026 11:36:25 +0700</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2026 18:56:20 +0700</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2026 18:56:20 +0700</pubDate>
     <generator>KOMPAS404 RSS Generator</generator>
     <image>
         <url>https://kompas404.github.io/logo-kompas404.png</url>
@@ -18,94 +18,66 @@
     <atom:link href="https://kompas404.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-        <title>Karimun di Rumah Dwi Bagus Pembunuh Istri Siri dan Anak Diamankan Polisi — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/karimun-di-rumah-dwi-bagus-pembunuh-istri-siri-dan-anak-diam</link>
-        <description>Kompas404 – Polisi mengangkut sebuah mobil yang diduga berkaitan melalui perkara pembunuhan Dini Hardiyanti (30) dan anaknya yang berusia 4 tahun. Eko menegaskan bahwa sudah dibawa tadi malam (mobil) Seperti diketahui, Dwi membunuh anak tersebut di d</description>
-        <pubDate>Tue, 27 Oct 2026 11:23:00 +0700</pubDate>
+        <title>Banjir Terjadi di Sejumlah Wilayah Aceh — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/banjir-terjadi-di-sejumlah-wilayah-aceh</link>
+        <description>Kompas404 – Badan Nasional Penanggulangan Bencana (BNPB) menuturkan banjir terjadi di sejumlah kawasan di Aceh dan Sumatera Utara. Menurut keterangan Berton, di Subulussalam di Aceh, berlangsung banjir dan di sana ada 1.368 orang terdampak. Air saat </description>
+        <pubDate>Tue, 27 Oct 2026 18:52:00 +0700</pubDate>
+        <category>Lingkungan</category>
+    </item>
+    <item>
+        <title>Wamendagri Wiyagus Dorong Pemda Optimalkan BTT untuk Kendalikan Inflasi — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/wamendagri-wiyagus-dorong-pemda-optimalkan-btt-untuk-kendali</link>
+        <description>Kompas404 Newsroom – Wakil Menteri Dalam Negeri (Wamendagri) Akhmad Wiyagus mendorong pihak pemerintah wilayah (Pemda) mengoptimalkan pemanfaatan anggaran Belanja Tidak Terduga (BTT) guna mendukung upaya pengendalian inflasi. Alokasi dana tersebut da</description>
+        <pubDate>Tue, 27 Oct 2026 18:29:00 +0700</pubDate>
+        <category>Lingkungan</category>
+    </item>
+    <item>
+        <title>BNPB: Sudah Tidak Ada Titik Api di Gunung Ciremai — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/bnpb-sudah-tidak-ada-titik-api-di-gunung-ciremai</link>
+        <description>Jakarta, Kompas404 – BNPB menyatakan sudah tidak ada lagi titik api akibat kebakaran hutan dan lahan (Karhutla) di Gunung Ciremai, Kuningan, Jawa Barat. Dalam penyampaiannya, Plt Kepala Pusat Data menjelaskan dapat kami sampaikan sudah dilaksanakan p</description>
+        <pubDate>Tue, 27 Oct 2026 18:25:00 +0700</pubDate>
+        <category>Lingkungan</category>
+    </item>
+    <item>
+        <title>Polda Metro Ajak Publik Kedepankan Dialog, Jaga Situasi Tetap Kondusif — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/polda-metro-ajak-publik-kedepankan-dialog-jaga-situasi-tetap</link>
+        <description>Kompas404 Newsroom – Kabidhumas Polda Metro Jaya Kombes Budi Hermanto mengajak publik mengedepankan komunikasi yang baik dalam menyikapi perbedaan. Dalam penyampaiannya, Kombes Budi kepada wartawan menjelaskan perbedaan pendapat hendaknya disikapi me</description>
+        <pubDate>Tue, 27 Oct 2026 18:23:00 +0700</pubDate>
+        <category>Lingkungan</category>
+    </item>
+    <item>
+        <title>Kejagung Periksa 2 Eks Pejabat ESDM Terkait Dugaan Korupsi KSO Migas Bekasi — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/kejagung-periksa-2-eks-pejabat-esdm-terkait-dugaan-korupsi-k</link>
+        <description>Jakarta, Kompas404 – Kejaksaan Agung (Kejagung) memeriksa dua mantan pejabat Kementerian Energi dan Sumber Daya Mineral (ESDM) dalam kasus dugaan korupsi pengelolaan BUMD migas Bekasi dalam Kerja Sama Operasi (KSO) periode 2009-2024. Keduanya diperik</description>
+        <pubDate>Tue, 27 Oct 2026 18:21:00 +0700</pubDate>
         <category>Hukum</category>
     </item>
     <item>
-        <title>Pilu Dini Warga Asal Bogor Dibakar dan Digiling Suami Siri, Anak Juga Dibunuh — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/pilu-dini-warga-asal-bogor-dibakar-dan-digiling-suami-siri-a</link>
-        <description>Jakarta, Kompas404 – Ibu dan anak asal Bogor Dini Hardiyanti (30) dan Arshaka Ghafa El Faezya alias Gafa (4), tewas dibunuh Dwi Bagus, suami siri Dini sekaligus ayah tiri Gafa. Kesadisan Dwi Bagus itu kini tinggal menyisakan kepiluan. Karena itu, koo</description>
-        <pubDate>Tue, 27 Oct 2026 11:21:00 +0700</pubDate>
+        <title>Tak Hanya Kompetisi, IFRC 2026 Perkuat Budaya Keselamatan di Tanah Papua — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/tak-hanya-kompetisi-ifrc-2026-perkuat-budaya-keselamatan-di</link>
+        <description>Nasional, Kompas404 – Gubernur Papua Tengah Meki Fritz Nawipa atau Mepa mengatakan Indonesian Fire and Rescue Competition (IFRC) memperkuat budaya keselamatan di Tanah Papua. Mepa mengungkapkan, "Ada 17 tim yang melakukan kompetisi maupun challenging</description>
+        <pubDate>Tue, 27 Oct 2026 18:15:00 +0700</pubDate>
+        <category>Bisnis</category>
+    </item>
+    <item>
+        <title>Polisi Asesmen Kasus Bullying Siswi SMP Ciputat: Penegakan Hukum Opsi Terakhir — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/polisi-asesmen-kasus-bullying-siswi-smp-ciputat-penegakan-hu</link>
+        <description>Kompas404 Newsroom – Belasan siswa SMPN 10 Ciputat Tangerang Selatan, diduga di-bully kakak kelas melalui dipaksa meminum kopi campur cuka. Polisi telah menjalankan asesmen sehubungan dengan perkara tersebut. Aparat kepolisian telah melakukan asesmen</description>
+        <pubDate>Tue, 27 Oct 2026 18:13:00 +0700</pubDate>
         <category>Hukum</category>
     </item>
     <item>
-        <title>17 WN Malaysia dan Singapura Ditangkap karena Jalankan Bisnis Pinjol di Bali — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/17-wn-malaysia-dan-singapura-ditangkap-karena-jalankan-bisni</link>
-        <description>Jakarta, Kompas404 – Kantor Imigrasi Kelas I Khusus TPI Ngurah Rai mengamankan 17 warga negara asing (WNA) di Desa Dalung, Kecamatan Kuta Utara, Badung, Bali. Para pelaku mayoritas masyarakat Malaysia. Mereka menjalankan aktivitas yang tidak sesuai m</description>
-        <pubDate>Tue, 27 Oct 2026 11:21:00 +0700</pubDate>
+        <title>Polda Metro Ajak Semua Pihak Jaga Fasilitas Umum Saat Penyampaian Aspirasi — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/polda-metro-ajak-semua-pihak-jaga-fasilitas-umum-saat-penyam</link>
+        <description>Kompas404 Newsroom – Polda Metro Jaya mengajak seluruh elemen publik menjaga fasilitas umum dan ruang publik ketika kegiatan penyampaian aspirasi pada Rabu (28/10) besok. Kabidhumas Polda Metro Jaya Kombes Budi Hermanto menegaskan bahwa ruang publik </description>
+        <pubDate>Tue, 27 Oct 2026 18:10:00 +0700</pubDate>
         <category>Hukum</category>
     </item>
     <item>
-        <title>2 Tahun Prabowo, Cek Kesehatan Gratis Sudah Diikuti 105 Juta Orang — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/2-tahun-prabowo-cek-kesehatan-gratis-sudah-diikuti-105-juta</link>
-        <description>Nasional, Kompas404 – Presiden RI Prabowo Subianto telah melakukan berbagai upaya guna meningkatkan kualitas kesehatan publik selama dua tahun kepemimpinannya. Salah satunya melalui inisiatif Cek Kesehatan Gratis (CKG) yang diluncurkan pada Februari </description>
-        <pubDate>Tue, 27 Oct 2026 11:19:00 +0700</pubDate>
-        <category>Politik</category>
-    </item>
-    <item>
-        <title>Menkomdigi Apresiasi Kapolri Bongkar Sindikat Judol Lintas Negara — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/menkomdigi-apresiasi-kapolri-bongkar-sindikat-judol-lintas-n</link>
-        <description>Jakarta, Kompas404 – Menteri Komunikasi dan Digital (Menkomdigi) Meutya Hafid mengapresiasi Polri di bawah kepemimpinan Kapolri Jenderal Suyudi Ario Seto dalam menindak praktik judi online (judol) yang beroperasi lintas negara. Meutya kepada wartawan</description>
-        <pubDate>Tue, 27 Oct 2026 11:16:00 +0700</pubDate>
-        <category>Hukum</category>
-    </item>
-    <item>
-        <title>KPK Periksa Sestama BNPB Jadi Saksi Kasus Korupsi Dana Bencana — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/kpk-periksa-sestama-bnpb-jadi-saksi-kasus-korupsi-dana-benca</link>
-        <description>Kompas404 – KPK memeriksa Sekretaris Utama (Sestama) BNPB Rustian hari ini. Rustian diperiksa dalam perkara dugaan korupsi dana siap pakai (DSP) pada BNPB. Kasus semacam ini kerap menarik perhatian luas karena menyangkut rasa keadilan masyarakat. Rus</description>
-        <pubDate>Tue, 27 Oct 2026 11:09:00 +0700</pubDate>
-        <category>Hukum</category>
-    </item>
-    <item>
-        <title>Kabar BPJS Kesehatan Mau Dihapus Dibantah, Ini Penjelasannya — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/kabar-bpjs-kesehatan-mau-dihapus-dibantah-ini-penjelasannya</link>
-        <description>Kompas404 – BPJS Kesehatan membantah kabar BPJS Kesehatan dihapus dan dialihkan ke klinik Koperasi Desa Merah Putih (KDMP) yang beredar di media sosial. Menurut keterangan Rizzky di laman resmi BPJS Kesehatan, inisiatif JKN merupakan program negara y</description>
-        <pubDate>Tue, 27 Oct 2026 11:02:00 +0700</pubDate>
-        <category>Hukum</category>
-    </item>
-    <item>
-        <title>Kapolri-Menkomdigi Siap Kolaborasi Jaga Ruang Digital dari Hoaks hingga Judol — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/kapolri-menkomdigi-siap-kolaborasi-jaga-ruang-digital-dari-h</link>
-        <description>Kompas404 Newsroom – Kapolri Jenderal Suyudi Ario Seto menerima audiensi Menteri Komunikasi dan Digital (Menkomdigi) Meutya Hafid. Menurut keterangan Suyudi kepada wartawan usai audiensi, pagi hari ini kami mengapresiasi dan terima kasih kepada Ibu M</description>
-        <pubDate>Tue, 27 Oct 2026 11:01:00 +0700</pubDate>
-        <category>Hukum</category>
-    </item>
-    <item>
-        <title>Sebelum Dibunuh Suami Siri, Dini Disebut Sempat Takut ke Madiun — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/sebelum-dibunuh-suami-siri-dini-disebut-sempat-takut-ke-madi</link>
-        <description>Kompas404 – Dini Hardiyanti (30) diduga dibunuh oleh suami sirinya, Dwi Bagus (40), di Madiun, Jawa Timur. pejabat terkait mengungkapkan, "Jadi ketakutan itu ada mungkin bahasa-bahasa yang mungkin menjadi ketakutan bagi korban itu sendiri, mungkin ya</description>
-        <pubDate>Tue, 27 Oct 2026 10:59:00 +0700</pubDate>
-        <category>Hukum</category>
-    </item>
-    <item>
-        <title>Donny Oskaria dan Andre Rosiade Kawal Pembangunan Stadion Agus Salim Padang — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/donny-oskaria-dan-andre-rosiade-kawal-pembangunan-stadion-ag</link>
-        <description>Kompas404 Newsroom – Kepala Badan Pengaturan Badan Usaha Milik Negara (BP BUMN) Donny Oskaria memastikan pembangunan kembali Stadion Haji Agus Salim (GHAS) Padang harus mengutamakan kualitas, ketepatan eksekusi, dan ketahanan struktur bangunan. Donny</description>
-        <pubDate>Tue, 27 Oct 2026 10:46:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Kapolri Pastikan Polri Jamin Seluruh Pengobatan Ojol yang Dilindas BYD di Blok M — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/kapolri-pastikan-polri-jamin-seluruh-pengobatan-ojol-yang-di</link>
-        <description>Jakarta, Kompas404 – Kapolri Jenderal Suyudi Ario Seto memberikan perhatian khusus terhadap insiden kecelakaan yang menimpa pengemudi ojek online (ojol) di kawasan Blok M Jakarta Selatan. Menurut keterangan Suyudi, sebagai bentuk kepedulian, Polri me</description>
-        <pubDate>Tue, 27 Oct 2026 10:44:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Polisi Tangkap Curamnor di Serang, Sita 2 Unit Motor dalam Kontrakan — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/polisi-tangkap-curamnor-di-serang-sita-2-unit-motor-dalam-ko</link>
-        <description>Nasional, Kompas404 – Tim Reserse Mobile (Resmob) Satreskrim Polres Serang meringkus dua pelaku pencurian kendaraan bermotor (curanmor) yang beraksi di Kecamatan Kragilan, Kabupaten Serang, Banten. Menurut keterangan Bobby, setelah melakukan penyelid</description>
-        <pubDate>Tue, 27 Oct 2026 10:42:00 +0700</pubDate>
-        <category>Hukum</category>
-    </item>
-    <item>
-        <title>Salurkan Bantuan, Paragon Kahf Dukung Pemerintah Tangani Dampak Karhutla — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/salurkan-bantuan-paragon-kahf-dukung-pemerintah-tangani-damp</link>
-        <description>Kompas404 Newsroom – Paragon Kahf turut mendukung upaya pihak pemerintah dalam menangani dampak kebakaran hutan dan lahan (karhutla) dengan menyerahkan dukungan kesehatan kepada Kementerian Kesehatan Republik Indonesia. Bantuan tersebut meliputi 50 t</description>
-        <pubDate>Tue, 27 Oct 2026 10:41:00 +0700</pubDate>
+        <title>Potensi Awan di Kalteng, BNPB Kebut Panen Hujan untuk Padamkan Karhutla — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/potensi-awan-di-kalteng-bnpb-kebut-panen-hujan-untuk-padamka</link>
+        <description>Kompas404 Newsroom – Badan Nasional Penanggulangan Bencana (BNPB) menyatakan akan memaksimalkan operasi modifikasi cuaca (OMC) di Kalimantan Tengah (Kalteng) guna memadamkan kebakaran hutan dan lahan (Karhutla). Plt Kepala Pusat Data menegaskan bahwa</description>
+        <pubDate>Tue, 27 Oct 2026 17:56:00 +0700</pubDate>
         <category>Lingkungan</category>
     </item>
 </channel>
