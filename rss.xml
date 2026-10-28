@@ -5,8 +5,8 @@
     <link>https://kompas404.github.io</link>
     <description>KOMPAS404 menyajikan berita terbaru, analisis tajam, dan informasi faktual setiap hari. Teknologi, bisnis, olahraga, lifestyle.</description>
     <language>id-ID</language>
-    <lastBuildDate>Wed, 28 Oct 2026 05:01:56 +0700</lastBuildDate>
-    <pubDate>Wed, 28 Oct 2026 05:01:56 +0700</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:09:42 +0700</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2026 12:09:42 +0700</pubDate>
     <generator>KOMPAS404 RSS Generator</generator>
     <image>
         <url>https://kompas404.github.io/logo-kompas404.png</url>
@@ -18,88 +18,109 @@
     <atom:link href="https://kompas404.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-        <title>Pemprov DKI Respons Keluhan Persija soal Kondisi Rumput di JIS — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/pemprov-dki-respons-keluhan-persija-soal-kondisi-rumput-di-j</link>
-        <description>Jakarta, Kompas404 – Pelatih dan pemain Persija mengeluhkan situasi rumput di Jakarta International Stadium (JIS). Chico di Jakarta menegaskan bahwa masukan dari kedua tim ini akan kami sampaikan dan diskusikan dengan pihak pengelola agar dapat dieva</description>
-        <pubDate>Wed, 28 Oct 2026 04:05:00 +0700</pubDate>
+        <title>Disentil karena KRL Bolak-balik Gangguan, Ini Jawaban INKA — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/disentil-karena-krl-bolak-balik-gangguan-ini-jawaban-inka</link>
+        <description>Jakarta, Kompas404 – Kereta rel listrik (KRL) produksi PT Industri Kereta Api (Persero) atau INKA berkali-kali menghadapi gangguan. Menurut keterangan Nanang dilansir Antara, selaras melalui statement dari Direktur Jenderal Perkeretaapian Kementerian</description>
+        <pubDate>Wed, 28 Oct 2026 12:04:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Semangat Hari Sumpah Pemuda, Polda Metro Ajak Massa Aksi Jaga Persatuan — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/semangat-hari-sumpah-pemuda-polda-metro-ajak-massa-aksi-jaga</link>
+        <description>Jakarta, Kompas404 Network – Pelaksanaan aksi unjuk rasa di Jakarta hari ini bertepatan melalui peringatan Hari Sumpah Pemuda yang ke-98. Dalam penyampaiannya, Budi dalam keterangannya menjelaskan mari suarakan aspirasi dengan tertib, taat hukum, dan</description>
+        <pubDate>Wed, 28 Oct 2026 12:04:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Dwi Bagus Bersimpuh ke Istri Usai Rekonstruksi Pembunuhan Istri Siri dan Anak — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/dwi-bagus-bersimpuh-ke-istri-usai-rekonstruksi-pembunuhan-is</link>
+        <description>Jakarta, Kompas404 Network – Dwi Bagus Martono (40) menjalani rekonstruksi perkara pembunuhan berencana terhadap istri sirinya, Dini Hardiyanti (30) dan anak Dini yang berusia 4 tahun. Usai rekonstruksi, Dwi Bagus tampak bersimpuh di hadapan istri sa</description>
+        <pubDate>Wed, 28 Oct 2026 12:02:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Masinis Diperiksa Usai KRL Bablas Tak Berhenti di Stasiun Sudirman — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/masinis-diperiksa-usai-krl-bablas-tak-berhenti-di-stasiun-su</link>
+        <description>Nasional, Kompas404 – KRL Kampung Bandan-Manggarai sempat bablas tidak berhenti di Stasiun Sudirman guna menaikturunkan penumpang. Manajer Public Relations KAI Commuter menegaskan bahwa atas kejadian tersebut, KAI Commuter langsung mengambil langkah </description>
+        <pubDate>Wed, 28 Oct 2026 11:54:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>KPK Panggil ASN BPK Tersangka Kasus Kasus Suap Proyek Jalur KA Jabar — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/kpk-panggil-asn-bpk-tersangka-kasus-kasus-suap-proyek-jalur</link>
+        <description>Jakarta, Kompas404 Network – KPK memanggil ASN BPK RI Medi Yanto Sipahutar, guna diperiksa dalam perkara program pembangunan pengerjaan dan pemeliharaan jalur kereta api di lingkungan DJKA Kementerian Perhubungan di kawasan Jawa Barat (Jabar) hari in</description>
+        <pubDate>Wed, 28 Oct 2026 11:44:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>2 Eks Napi Teroris Jadi Tersangka Pembakar Warung Mi Babi Sukoharjo, 1 Buron — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/2-eks-napi-teroris-jadi-tersangka-pembakar-warung-mi-babi-su</link>
+        <description>Jakarta, Kompas404 Network – Aparat kepolisian telah menetapkan dua terduga pelaku dalam kasus perusakan dan pembakaran Warung Mi Babi Tepi Sawah, di Desa Parangjoro, Kecamatan Grogol, Kabupaten Sukoharjo, Jawa Tengah. Kapolres Sukoharjo AKBP Andika </description>
+        <pubDate>Wed, 28 Oct 2026 11:44:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Polri Kedepankan Pendekatan Humanis dan Kolaboratif Layani Aksi Massa — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/polri-kedepankan-pendekatan-humanis-dan-kolaboratif-layani-a</link>
+        <description>Kompas404 – Polri mengedepankan pendekatan humanis preventif, dan kolaboratif dalam menjaga kamtibmas selama pelaksanaan aksi penyampaian pendapat di rangkaian aksi 28 Oktober 2026. Polri memastikan tetap menghormati hak publik untuk menyampaikan asp</description>
+        <pubDate>Wed, 28 Oct 2026 11:41:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Pabrik Sepatu di Lebak Tutup Picu PHK Massal, Pemprov Duga Ini Penyebabnya — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pabrik-sepatu-di-lebak-tutup-picu-phk-massal-pemprov-duga-in</link>
+        <description>Jakarta, Kompas404 – PT Parkland World Indonesia (PWI) 6 menutup pabriknya di Lebak, Banten hingga memicu pemutusan hubungan kerja (PHK) terhadap 1.100 karyawan. Dalam penyampaiannya, Septo di Kota Serang menjelaskan ada kemarin tuh pengaduan dari te</description>
+        <pubDate>Wed, 28 Oct 2026 11:41:00 +0700</pubDate>
         <category>Politik</category>
     </item>
     <item>
-        <title>BNPB: Malaysia Tawarkan Pesawat Amfibi-Helikopter Atasi Karhutla — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/bnpb-malaysia-tawarkan-pesawat-amfibi-helikopter-atasi-karhu</link>
-        <description>Kompas404 – Badan Nasional Penanggulangan Bencana (BNPB) membahas tawaran dukungan dari Malaysia guna penanggulangan kebakaran hutan dan lahan (karhutla). Berton dalam keterangannya mengungkapkan, "Tawaran ini menjadi bagian dari upaya kedua negara u</description>
-        <pubDate>Wed, 28 Oct 2026 03:04:00 +0700</pubDate>
+        <title>KPK Panggil Direktur BNPB Jadi Saksi Kasus Korupsi Dana Bencana — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/kpk-panggil-direktur-bnpb-jadi-saksi-kasus-korupsi-dana-benc</link>
+        <description>Kompas404 Newsroom – KPK memanggil sejumlah saksi terkait perkara dugaan korupsi dana siap pakai (DSP) pada BNPB. Jubir KPK Budi Prasetyo kepada wartawan mengungkapkan, "Saksi dalam dugaan tindak pidana korupsi terkait penggunaan dana siap pakai (DSP</description>
+        <pubDate>Wed, 28 Oct 2026 11:35:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Polri: Penyampaian Aspirasi Dilindungi UU, Mari Jaga Keamanan Bersama — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/polri-penyampaian-aspirasi-dilindungi-uu-mari-jaga-keamanan</link>
+        <description>Nasional, Kompas404 – Polri memastikan bahwa penyampaian aspirasi merupakan hak setiap masyarakat negara yang dijamin undang-undang. Isir menegaskan bahwa kemerdekaan menyampaikan pendapat di muka umum merupakan hak setiap warga negara yang dijamin o</description>
+        <pubDate>Wed, 28 Oct 2026 11:34:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Kapolda Metro Tekankan Anggota Humanis Kawal Aksi di Jakarta Hari Ini — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/kapolda-metro-tekankan-anggota-humanis-kawal-aksi-di-jakarta</link>
+        <description>Jakarta, Kompas404 Network – Kapolda Metro Jaya Komjen Dadang Hartanto memerintahkan personel guna bersikap humanis saat mengawal aksi unjuk rasa 28 Oktober 2026 hari ini. Komjen Dadang dalam keterangannya mengungkapkan, "Oleh lantaran itu, pelaksana</description>
+        <pubDate>Wed, 28 Oct 2026 11:34:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Ada 53 Aksi di Jakarta Hari Ini, Polda Metro Ajak Semua Pihak Tertib — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/ada-53-aksi-di-jakarta-hari-ini-polda-metro-ajak-semua-pihak</link>
+        <description>Jakarta, Kompas404 – Polda Metro Jaya membeberkan ada total 77 kegiatan publik di Jakarta hari ini, termasuk 53 di antaranya aksi penyampaian aspirasi. Menurut keterangan Kabid Humas Polda Metro Jaya Kombes Budi Hermanto kepada wart, ada beberapa akt</description>
+        <pubDate>Wed, 28 Oct 2026 11:33:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Kapolri Pastikan Polri Kedepankan Pendekatan Humanis Kawal Aksi Unjuk Rasa — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/kapolri-pastikan-polri-kedepankan-pendekatan-humanis-kawal-a</link>
+        <description>Kompas404 – Kapolri Jenderal Suyudi Ario Seto mengatakan Polri menghargai kebebasan publik dalam aksi penyampaian pendapat di muka umum hari ini. Menurut keterangan Suyudi kepada wartawan di Gedung Utama Mabes Polri, hari ini ya kita akan tetap melak</description>
+        <pubDate>Wed, 28 Oct 2026 11:30:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Prabowo Ucapkan Selamat Lula Menang Pilpres Brasil untuk Keempat Kalinya — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/prabowo-ucapkan-selamat-lula-menang-pilpres-brasil-untuk-kee</link>
+        <description>Nasional, Kompas404 – Presiden Prabowo Subianto mengucapkan selamat ke Presiden Brasil, Luiz Inácio Lula da Silva, yang kembali terpilih dalam Pilpres Brasil. Hasil pemilihan ini mengungkapkan, "Hasil pemilihan ini menegaskan kembali pengakuan masyar</description>
+        <pubDate>Wed, 28 Oct 2026 11:27:00 +0700</pubDate>
+        <category>Politik</category>
+    </item>
+    <item>
+        <title>Mudik ke NTT untuk Pinangan, Selviana Tewas Dimangsa Buaya Depan Calon Suami — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/mudik-ke-ntt-untuk-pinangan-selviana-tewas-dimangsa-buaya-de</link>
+        <description>Kompas404 Newsroom – Selviana Ambu Kaka (24) tewas diterkam buaya di Sungai Bondo Kodi, Kecamatan Kodi, Kabupaten Sumba Barat Daya (SBD), Nusa Tenggara Timur (NTT). Kepala Desa Bondo Kodi menegaskan bahwa dia baru pulang dari tanah rantau, dari Jakar</description>
+        <pubDate>Wed, 28 Oct 2026 11:16:00 +0700</pubDate>
         <category>Lingkungan</category>
-    </item>
-    <item>
-        <title>Polisi Sita Sajam hingga Busur Panah Terkait Pembakaran Warung Mi Babi — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/polisi-sita-sajam-hingga-busur-panah-terkait-pembakaran-waru</link>
-        <description>Nasional, Kompas404 – Aparat kepolisian menggerebek salah satu pondok pesantren yang berada di Desa Trengguli, Kecamatan Jenawi, Kabupaten Karanganyar terkait pembakaran Warung Mi dan Babi Tepi Sawah di Sukoharjo. Sebanyak 12 orang diamankan. Sebanya</description>
-        <pubDate>Wed, 28 Oct 2026 02:02:00 +0700</pubDate>
-        <category>Hukum</category>
-    </item>
-    <item>
-        <title>Anggota Baleg DPR Dukung Revisi UU Tipikor, Dorong Perluasan Delik — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/anggota-baleg-dpr-dukung-revisi-uu-tipikor-dorong-perluasan</link>
-        <description>Kompas404 – Pihak pemerintah tengah berencana merevisi Undang-Undang Tindak Pidana Korupsi (UU Tipikor) untuk memperluas definisi korupsi. Menurut keterangan Irawan kepada wartawan, rencana revisi UU Tipikor yang disampaikan Menko Prof Yusril dan Pak</description>
-        <pubDate>Wed, 28 Oct 2026 00:40:00 +0700</pubDate>
-        <category>Hukum</category>
-    </item>
-    <item>
-        <title>Menlu: Asap Karhutla Bisa Melintasi Batas Negara, Begitu Pula Aliran Dana — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/menlu-asap-karhutla-bisa-melintasi-batas-negara-begitu-pula</link>
-        <description>Jakarta, Kompas404 Network – Menteri Luar Negeri (Menlu) Arrmanatha Nasir atau Tata mengungkap Indonesia sedang menjalankan penyelidikan soal pelaku di balik kebakaran hutan dan lahan (karhutla). Katanya, sudah beberapa korporasi bersalah atas karhut</description>
-        <pubDate>Wed, 28 Oct 2026 00:21:00 +0700</pubDate>
-        <category>Hukum</category>
-    </item>
-    <item>
-        <title>BRIN Beberkan Potensi Limbah Sawit Jadi Energi Listrik Hingga 3,9 Gigawatt — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/brin-beberkan-potensi-limbah-sawit-jadi-energi-listrik-hingg</link>
-        <description>Nasional, Kompas404 – Kepala Badan Riset dan Inovasi Nasional (BRIN) Arif Satria membeberkan limbah cair pabrik kelapa sawit atau Palm Oil Mill Effluent (POME) bisa dikembangkan menjadi sumber energi alternatif. Arif usai bertemu Presiden Prabowo Sub</description>
-        <pubDate>Wed, 28 Oct 2026 00:01:00 +0700</pubDate>
-        <category>Politik</category>
-    </item>
-    <item>
-        <title>RI dan Singapura Akan Kerja Sama Berantas Praktik Under-Invoicing — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/ri-dan-singapura-akan-kerja-sama-berantas-praktik-under-invo</link>
-        <description>Jakarta, Kompas404 Network – Menteri Luar Negeri (Menlu) RI Arrmanatha Nasir atau Tata menyatakan Indonesia membuka membuka peluang kerja sama dengan Singapura guna memberantas praktik manipulasi penurunan nilai faktur atau under-invoicing. Hal ini d</description>
-        <pubDate>Tue, 27 Oct 2026 23:51:00 +0700</pubDate>
-        <category>Hukum</category>
-    </item>
-    <item>
-        <title>Dwi Bagus Pembunuh Istri Siri dan Anak di Madiun Punya IQ Superior — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/dwi-bagus-pembunuh-istri-siri-dan-anak-di-madiun-punya-iq-su</link>
-        <description>Jakarta, Kompas404 – Polisi mengungkapkan Dwi Bagus Martono (40), tersangka pembunuhan istri sirinya, Dini Hardiyanti (30), dan anaknya, Arshaka Ghafa El Faezya (4), di Madiun, memiliki kecerdasan di atas rata-rata. Direktur Reserse Kriminal Umum (Di</description>
-        <pubDate>Tue, 27 Oct 2026 23:25:00 +0700</pubDate>
-        <category>Hukum</category>
-    </item>
-    <item>
-        <title>Viral Truk Towing Bawa Mobil Diminta Bayar 2 Kali, Tol Cipali Buka Suara — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/viral-truk-towing-bawa-mobil-diminta-bayar-2-kali-tol-cipali</link>
-        <description>Kompas404 Newsroom – Viral di media sosial menampilkan satu unit truk towing diminta membayar dua kali atau menggunakan dua kartu saat melintasi gerbang Tol Cipali. Pihak Tol Cipali pun buka suara atas peristiwa itu. Dalam penyampaiannya, Novianto da</description>
-        <pubDate>Tue, 27 Oct 2026 23:25:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>265 Sekolah Rakyat Berdiri hingga Oktober 2026, 45 Ribu Anak Kembali Sekolah — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/265-sekolah-rakyat-berdiri-hingga-oktober-2026-45-ribu-anak</link>
-        <description>Nasional, Kompas404 – Sekretaris Kabinet (Seskab) Teddy Indra Wijaya membeberkan pengerjaan Sekolah Rakyat menunjukkan perkembangan signifikan. Teddy dalam keterangan tertulisnya mengungkapkan, "Hingga Oktober 2026, sebanyak 265 Sekolah Rakyat telah </description>
-        <pubDate>Tue, 27 Oct 2026 23:22:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Kapolri Dorong Personel Pengamanan Aksi Dilengkapi Body Cam — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/kapolri-dorong-personel-pengamanan-aksi-dilengkapi-body-cam</link>
-        <description>Nasional, Kompas404 – Kapolri Jenderal Suyudi Ario Seto mendorong penggunaan kamera yang dikenakan di tubuh personel (body worn camera) dalam pelaksanaan tugas pengamanan aksi penyampaian pendapat di ruang publik. Suyudi melalui keterangannya mengung</description>
-        <pubDate>Tue, 27 Oct 2026 23:21:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>KSPI Imbau Penyampaian Aspirasi Berjalan Damai Tanpa Kekerasan — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/kspi-imbau-penyampaian-aspirasi-berjalan-damai-tanpa-kekeras</link>
-        <description>Nasional, Kompas404 – Konfederasi Serikat Pekerja Indonesia (KSPI) memberikan imbauan ke mahasiswa dan buruh yang akan menjalankan aksi penyampaian aspirasi besok di Jakarta. Menurut keterangan Presiden KSPI Said Iqbal kepada wartawan, kSPI menghimba</description>
-        <pubDate>Tue, 27 Oct 2026 23:05:00 +0700</pubDate>
-        <category>Transportasi</category>
     </item>
 </channel>
 </rss>
