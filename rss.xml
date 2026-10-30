@@ -5,8 +5,8 @@
     <link>https://kompas404.github.io</link>
     <description>KOMPAS404 menyajikan berita terbaru, analisis tajam, dan informasi faktual setiap hari. Teknologi, bisnis, olahraga, lifestyle.</description>
     <language>id-ID</language>
-    <lastBuildDate>Fri, 30 Oct 2026 05:39:27 +0700</lastBuildDate>
-    <pubDate>Fri, 30 Oct 2026 05:39:27 +0700</pubDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:22:17 +0700</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2026 12:22:17 +0700</pubDate>
     <generator>KOMPAS404 RSS Generator</generator>
     <image>
         <url>https://kompas404.github.io/logo-kompas404.png</url>
@@ -18,38 +18,59 @@
     <atom:link href="https://kompas404.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-        <title>Gempa M 4,3 Guncang Gayo Lues Aceh — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/gempa-m-4-3-guncang-gayo-lues-aceh</link>
-        <description>Kompas404 – Gempa berkekuatan magnitudo 4 3 berlangsung di wilayah Kabupaten Gayo Lues, Provinsi Aceh. Gempa itu terdeteksi di kedalaman lima kilometer. Setiap insiden di jalur transportasi menjadi pengingat pentingnya pengawasan operasional serta pr</description>
-        <pubDate>Fri, 30 Oct 2026 03:14:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Korsleting Listrik, Minibus di Tol Jagorawi Arah Bogor Kebakaran — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/korsleting-listrik-minibus-di-tol-jagorawi-arah-bogor-kebaka</link>
-        <description>Nasional, Kompas404 – Kebakaran melanda sebuah minibus di ruas Tol Jagorawi Km 33, Bogor, Jawa Barat. Kanit Gakkum Satlantas Polres Bogor Ipda Ares Rahman mengungkapkan, "Dapat kami sampaikan bahwa diduga terbakarnya mobil minibus tersebut diakibatka</description>
-        <pubDate>Fri, 30 Oct 2026 01:15:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Seskab: 2 Tahun Pemerintahan Prabowo Bukan Sekadar Rencana, tapi Kerja Nyata — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/seskab-2-tahun-pemerintahan-prabowo-bukan-sekadar-rencana-ta</link>
-        <description>Jakarta, Kompas404 – Sekretaris Kabinet (Seskab) Teddy Indra Wijaya menyampaikan dua tahun pertama pemerintahan Presiden Prabowo Subianto bukan sekadar diisi rencana, melainkan kerja nyata. Menurut keterangan Teddy dalam keterangan tertulisnya, dua t</description>
-        <pubDate>Thu, 29 Oct 2026 23:52:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Wantimpres Matangkan Penyusunan Pertimbangan Perdana kepada Presiden — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/wantimpres-matangkan-penyusunan-pertimbangan-perdana-kepada</link>
-        <description>Kompas404 Newsroom – Dewan Pertimbangan Presiden Republik Indonesia (Wantimpres RI) mulai menyusun pertimbangan perdana kepada Presiden Prabowo Subianto. Pratikno dalam keterangan tertulisnya mengungkapkan, "Dalam waktu kurang dari satu bulan, kita s</description>
-        <pubDate>Thu, 29 Oct 2026 23:36:00 +0700</pubDate>
+        <title>209 Ribu Ton Batu Bara Kasus Samin Tan Dilelang Lagi, Laku Rp 264 Miliar — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/209-ribu-ton-batu-bara-kasus-samin-tan-dilelang-lagi-laku-rp</link>
+        <description>Jakarta, Kompas404 – Badan Pemulihan Aset (BPA) Kejaksaan kembali melelang benda sitaan komoditas batu bara milik terduga pelaku Samin Tan (ST). Anang melalui keterangannya menegaskan bahwa badan Pemulihan Aset (BPA) Kejaksaan RI bekerja sama melalui</description>
+        <pubDate>Fri, 30 Oct 2026 12:11:00 +0700</pubDate>
         <category>Hukum</category>
     </item>
     <item>
-        <title>Selain PT Djarum, KPK Geledah Sejumlah Lokasi di Kudus Terkait Kasus Bea Cukai — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/selain-pt-djarum-kpk-geledah-sejumlah-lokasi-di-kudus-terkai</link>
-        <description>Jakarta, Kompas404 – KPK masih menjalankan penggeledahan di kawasan Kudus, Jawa Tengah (Jateng). Menurut keterangan Jubir KPK Budi Prasetyo kepada wartawan di Gedung Merah Putih, guna kegiatan penggeledahan di kawasan Kudus sampai melalui hari ini ma</description>
-        <pubDate>Thu, 29 Oct 2026 22:54:00 +0700</pubDate>
+        <title>Rizal Terdakwa Kasus Bea Cukai Bantah Terima Rp 14 M dari Bos Kargo — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/rizal-terdakwa-kasus-bea-cukai-bantah-terima-rp-14-m-dari-bo</link>
+        <description>Jakarta, Kompas404 Network – Mantan Direktur Penindakan dan Penyidikan pada Direktorat Jenderal Bea Cukai Rizal membantah menerima uang Rp 14 miliar rupiah dari Blueray Cargo. Dalam penyampaiannya, Rizal saat membacakan pleidoi pribadinya di Pengadil</description>
+        <pubDate>Fri, 30 Oct 2026 11:57:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>PDIP Pastikan Buka Komunikasi Lintas Partai Sikapi Polemik Ijazah Gibran — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pdip-pastikan-buka-komunikasi-lintas-partai-sikapi-polemik-i</link>
+        <description>Kompas404 Newsroom – Sekjen PKS M Kholid mengaku sudah berkomunikasi dengan Sekjen PDIP Hasto Kristiyanto perihal polemik ijazah Wapres Gibran Rakabuming Raka. juru bicara PDIP Guntur Romli saat dihubungi menegaskan bahwa betul, Sekjen PDI Perjuangan</description>
+        <pubDate>Fri, 30 Oct 2026 11:30:00 +0700</pubDate>
+        <category>Politik</category>
+    </item>
+    <item>
+        <title>Amiruddin Dorong Komnas HAM Lakukan Reposisi Demi Hadapi Tantangan Baru — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/amiruddin-dorong-komnas-ham-lakukan-reposisi-demi-hadapi-tan</link>
+        <description>Kompas404 – Anggota Komnas HAM Amiruddin menyampaikan bahwa Komnas HAM perlu pandai dalam mereposisi diri. Amiruddin saat menjadi pembicara diskusi publik 'Menggagas Ko menegaskan bahwa saat itu, HAM menjadi harapan besar publik guna membenahi kehidu</description>
+        <pubDate>Fri, 30 Oct 2026 11:23:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>WNI Direkrut Jadi Tentara Rusia, Tewas Bertempur Usai Cuma Latihan 1,5 Minggu — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/wni-direkrut-jadi-tentara-rusia-tewas-bertempur-usai-cuma-la</link>
+        <description>Kompas404 Newsroom – Seorang masyarakat negara Indonesia (WNI) bernama Muhammad Taufiq (48), yang direkrut menjadi tentara Rusia tewas, dalam pertempuran di Ukraina. Ia tewas pasca menerima pelatihan militer selama kurang lebih 1,5 minggu saja. Dilan</description>
+        <pubDate>Fri, 30 Oct 2026 11:17:00 +0700</pubDate>
+        <category>Bisnis</category>
+    </item>
+    <item>
+        <title>PN Solo Tolak Gugatan Alumnus UGM yang Minta Jokowi Tunjukkan Ijazah — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pn-solo-tolak-gugatan-alumnus-ugm-yang-minta-jokowi-tunjukka</link>
+        <description>Kompas404 Newsroom – Pengadilan Negeri (PN) Solo kembali menolak gugatan terkait ijazah Presiden ke-7 RI Joko Widodo (Jokowi). Humas PN Solo Aris Gunawan saat dihubungi mengungkapkan, "Sudah diputuskan hari ini, amar putusannya sebagai berikut. Humas</description>
+        <pubDate>Fri, 30 Oct 2026 11:14:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Nenek yang Tega Bakar Cucu di Depok Jalani Tes Kejiwaan — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/nenek-yang-tega-bakar-cucu-di-depok-jalani-tes-kejiwaan</link>
+        <description>Jakarta, Kompas404 Network – Seorang nenek berinisial M (64) diamankan aparat aparat kepolisian pasca diduga membakar cucu perempuan berinisial LA (17) di Bojongsari, Depok. Pelaku dilakukan tes kejiwaan. Kasus semacam ini kerap menarik perhatian lua</description>
+        <pubDate>Fri, 30 Oct 2026 11:13:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Pria Sidoarjo Ditangkap Usai Jual Ribuan Akun WA-Telegram untuk Promosi Judol — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pria-sidoarjo-ditangkap-usai-jual-ribuan-akun-wa-telegram-un</link>
+        <description>Kompas404 Newsroom – Direktorat Reserse Siber Polda Jawa Timur membeberkan praktik jual beli ribuan kartu SIM dan akun WhatsApp serta Telegram yang diduga digunakan guna promosi judi online. Daniel saat konferensi pers di Mapolda Jatim menegaskan bah</description>
+        <pubDate>Fri, 30 Oct 2026 11:07:00 +0700</pubDate>
         <category>Hukum</category>
     </item>
 </channel>
