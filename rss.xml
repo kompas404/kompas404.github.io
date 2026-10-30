@@ -5,8 +5,8 @@
     <link>https://kompas404.github.io</link>
     <description>KOMPAS404 menyajikan berita terbaru, analisis tajam, dan informasi faktual setiap hari. Teknologi, bisnis, olahraga, lifestyle.</description>
     <language>id-ID</language>
-    <lastBuildDate>Fri, 30 Oct 2026 19:35:10 +0700</lastBuildDate>
-    <pubDate>Fri, 30 Oct 2026 19:35:10 +0700</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2026 05:11:33 +0700</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2026 05:11:33 +0700</pubDate>
     <generator>KOMPAS404 RSS Generator</generator>
     <image>
         <url>https://kompas404.github.io/logo-kompas404.png</url>
@@ -17,6 +17,40 @@
     </image>
     <atom:link href="https://kompas404.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 
-
+    <item>
+        <title>AirNav Indonesia Pamerkan Navigasi Penerbangan di AS, Siapkan Inovasi Pakai AI — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/airnav-indonesia-pamerkan-navigasi-penerbangan-di-as-siapkan</link>
+        <description>Kompas404 Newsroom – AirNav Indonesia ikut unjuk gigi dalam rangkaian Aviation Safety and Security Reverse Trade Mission (RTM) yang diselenggarakan United States Trade and Development Agency (USTDA) di Arlington, Virginia, Amerika Serikat (AS). Zaina</description>
+        <pubDate>Sat, 31 Oct 2026 01:53:00 +0700</pubDate>
+        <category>Bisnis</category>
+    </item>
+    <item>
+        <title>Hiu Paus Terdampar di Pantai Sikka, Dipotong Warga lalu Dagingnya Dibagikan — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/hiu-paus-terdampar-di-pantai-sikka-dipotong-warga-lalu-dagin</link>
+        <description>Jakarta, Kompas404 – Seekor hiu paus (Rhincodon typus) ditemukan terdampar di Pantai Lowolabo, Desa Lowolabo, Kecamatan Paga, Kabupaten Sikka, Nusa Tenggara Timur (NTT). Menurut keterangan pria yang akrab disapa Gonis dilansir detikBali, ya kejadian </description>
+        <pubDate>Sat, 31 Oct 2026 01:31:00 +0700</pubDate>
+        <category>Lingkungan</category>
+    </item>
+    <item>
+        <title>Prabowo: SMA Taruna Nusantara Dipandang Elitis, Sebetulnya Cari Bibit Unggul — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/prabowo-sma-taruna-nusantara-dipandang-elitis-sebetulnya-car</link>
+        <description>Jakarta, Kompas404 Network – Presiden Prabowo Subianto bicara soal anggapan SMA Taruna Nusantara (TN) terkesan elitis. Prabowo saat meresmikan SMA Taruna Nusantara Kampus Cimahi mengungkapkan, "Saudara-saudara, sekolah semacam SMA Taruna Nusantara me</description>
+        <pubDate>Fri, 30 Oct 2026 23:47:00 +0700</pubDate>
+        <category>Politik</category>
+    </item>
+    <item>
+        <title>Prabowo Pulang dari Bandung Naik Whoosh, Sapa dan Foto Bareng Warga di Halim — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/prabowo-pulang-dari-bandung-naik-whoosh-sapa-dan-foto-bareng</link>
+        <description>Kompas404 – Presiden Prabowo Subianto kembali ke Jakarta usai melaksanakan kunjungan kerja di Provinsi Jawa Barat. Prabowo memilih menggunakan moda transportasi Kereta Cepat Jakarta-Bandung atau Whoosh. Dikutip keterangan tertulis Biro Sekretariat Pr</description>
+        <pubDate>Fri, 30 Oct 2026 23:42:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>KBRI Paris dan Berlin Imbau WNI Waspada Demo 31 Oktober, Hindari Titik Massa — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/kbri-paris-dan-berlin-imbau-wni-waspada-demo-31-oktober-hind</link>
+        <description>Kompas404 – Aksi demonstrasi di Prancis rencananya akan berlanjut pada Sabtu 31 Oktober 2026. Warga negara Indonesia (WNI) yang berada di Prancis diminta guna meningkatkan kewaspadaan. "Mematuhi seluruh ketentuan keamanan dan pembatasan aktivitas yan</description>
+        <pubDate>Fri, 30 Oct 2026 23:05:00 +0700</pubDate>
+        <category>Berita</category>
+    </item>
 </channel>
 </rss>
