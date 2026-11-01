@@ -5,8 +5,8 @@
     <link>https://kompas404.github.io</link>
     <description>KOMPAS404 menyajikan berita terbaru, analisis tajam, dan informasi faktual setiap hari. Teknologi, bisnis, olahraga, lifestyle.</description>
     <language>id-ID</language>
-    <lastBuildDate>Sun, 01 Nov 2026 20:03:42 +0700</lastBuildDate>
-    <pubDate>Sun, 01 Nov 2026 20:03:42 +0700</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2026 04:54:59 +0700</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2026 04:54:59 +0700</pubDate>
     <generator>KOMPAS404 RSS Generator</generator>
     <image>
         <url>https://kompas404.github.io/logo-kompas404.png</url>
@@ -17,40 +17,6 @@
     </image>
     <atom:link href="https://kompas404.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 
-    <item>
-        <title>Underpass Tomang Ditutup Sementara Imbas Perbaikan, Bisa Dilintasi Malam Ini — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/underpass-tomang-ditutup-sementara-imbas-perbaikan-bisa-dili</link>
-        <description>Kompas404 Newsroom – Bina Marga DKI Jakarta menyampaikan Underpass Tomang, Jakarta Barat ditutup sementara lantaran adanya perbaikan. Underpass akan kembali dibuka malam ini. Menurut keterangan Kapusdatin Dinas Bina Marga Provinsi DKI Jakarta Siti Di</description>
-        <pubDate>Sun, 01 Nov 2026 19:05:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Buka Peringatan Hari Pahlawan 2026, Wamensos Ajak Teruskan Perjuangan — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/buka-peringatan-hari-pahlawan-2026-wamensos-ajak-teruskan-pe</link>
-        <description>Kompas404 Newsroom – Wakil Menteri Sosial (Wamensos) Agus Jabo Priyono mengajak seluruh elemen bangsa melanjutkan perjuangan para pahlawan melalui mewujudkan cita-cita kemerdekaan. Dalam penyampaiannya, Agus Jabo dalam keterangan tertulis menjelaskan</description>
-        <pubDate>Sun, 01 Nov 2026 18:00:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Pemancing Tenggelam di Danau Kuari Bogor, Tim SAR Diterjunkan — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/pemancing-tenggelam-di-danau-kuari-bogor-tim-sar-diterjunkan</link>
-        <description>Jakarta, Kompas404 – Pria bernama Muhayar (43) diduga tenggelam di Danau Kuari bekas galian pasir di Desa Tamansari, Rumpin, Kabupaten Bogor, Jawa Barat (Jabar). Kapolsek Rumpin AKP Heri Iwan Suryana ketika dikonfirmasi mengungkapkan, "Betul, diduga </description>
-        <pubDate>Sun, 01 Nov 2026 17:00:00 +0700</pubDate>
-        <category>Lingkungan</category>
-    </item>
-    <item>
-        <title>Kasus 'Nenek Bakar Cucu', Pelaku Rupanya Bukan Nenek Korban — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/kasus-nenek-bakar-cucu-pelaku-rupanya-bukan-nenek-korban</link>
-        <description>Jakarta, Kompas404 – Remaja perempuan berinisial LA (17) dibakar seorang nenek, M (64), lantaran tak mau menjemput di Depok. Pelaku ternyata bukan nenek kandung korban. Menurut keterangan, tante korban. Dalam penyampaiannya, AKP Tamar saat dihubungi </description>
-        <pubDate>Sun, 01 Nov 2026 16:26:00 +0700</pubDate>
-        <category>Hukum</category>
-    </item>
-    <item>
-        <title>Tambahan TKD Gerakkan Pemulihan Padangsidimpuan, Sasar Irigasi hingga Jalan — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/tambahan-tkd-gerakkan-pemulihan-padangsidimpuan-sasar-irigas</link>
-        <description>Kompas404 Newsroom – Pihak pemerintah Kota Padangsidimpuan Sumatera Utara, mempercepat pemulihan pascabencana melalui memanfaatkan tambahan Transfer ke Daerah (TKD) Tahun Anggaran 2026. Dalam penyampaiannya, Letnan dalam keterangannya menjelaskan mel</description>
-        <pubDate>Sun, 01 Nov 2026 16:13:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
+
 </channel>
 </rss>
