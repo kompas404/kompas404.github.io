@@ -5,8 +5,8 @@
     <link>https://kompas404.github.io</link>
     <description>KOMPAS404 menyajikan berita terbaru, analisis tajam, dan informasi faktual setiap hari. Teknologi, bisnis, olahraga, lifestyle.</description>
     <language>id-ID</language>
-    <lastBuildDate>Tue, 03 Nov 2026 20:57:25 +0700</lastBuildDate>
-    <pubDate>Tue, 03 Nov 2026 20:57:25 +0700</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2026 06:06:33 +0700</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2026 06:06:33 +0700</pubDate>
     <generator>KOMPAS404 RSS Generator</generator>
     <image>
         <url>https://kompas404.github.io/logo-kompas404.png</url>
@@ -17,6 +17,40 @@
     </image>
     <atom:link href="https://kompas404.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 
-
+    <item>
+        <title>Pengajian Tak Biasa di Sultra, Pendakwah Ceramah 90 Menit dari Dalam Kubur — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pengajian-tak-biasa-di-sultra-pendakwah-ceramah-90-menit-dar</link>
+        <description>Kompas404 – Ada momen tidak biasa dari Pengajian Rutin Ahad Pahing PCNU Konawe Selatan, Sulawesi Utara (Sultra). Dalam penyampaiannya, salah satu Pengurus Ikatan Pelajar Nahdlatul Ulama (IPNU) Kon menjelaskan iya benar beliau melakukan ceramah di dal</description>
+        <pubDate>Wed, 04 Nov 2026 05:35:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Kantor Bupati Polman Digeledah Terkait Korupsi Honor Rohaniawan Rp 4,2 Miliar — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/kantor-bupati-polman-digeledah-terkait-korupsi-honor-rohania</link>
+        <description>Kompas404 Newsroom – Kantor Bupati Polewali Mandar (Polman) Sulawesi Barat (Sulbar), digeledah aparat kepolisian sehubungan dengan dugaan korupsi alokasi dana honorarium rohaniawan tahun 2023-2024 senilai Rp 4,2 miliar. Menurut keterangan Dirkrimsus </description>
+        <pubDate>Wed, 04 Nov 2026 03:57:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>3 Pelaku Pembunuhan Pria Terborgol di Gedung SPPG Kendal Ditangkap, 2 Buron — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/3-pelaku-pembunuhan-pria-terborgol-di-gedung-sppg-kendal-dit</link>
+        <description>Kompas404 Newsroom – Satreskrim Polres Kendal berhasil membeberkan kasus pembunuhan pria terborgol di gedung SPPG di jalan Pantura Kendal, Kendal, Jawa Tengah. Tiga pelaku telah ditangkap. Ketiga terduga pelaku yakni AS, A, dan S ditangkap petugas di</description>
+        <pubDate>Wed, 04 Nov 2026 03:03:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Pakar Setuju RUU Perampasan Aset Atur Ganti Rugi Korban Investasi Bodong — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pakar-setuju-ruu-perampasan-aset-atur-ganti-rugi-korban-inve</link>
+        <description>Jakarta, Kompas404 Network – Pengamat hukum dan pengerjaan Hardjuno Wiwoho mendukung pernyataan Ketua Komisi III DPR RI Habiburokhman yang mendorong agar RUU Perampasan Aset menjadi instrumen pemulihan kerugian orang yang terdampak kejahatan keuangan</description>
+        <pubDate>Wed, 04 Nov 2026 01:14:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>PDIP Puji Keberanian Internal Polri Bongkar Penyadapan Prabowo — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pdip-puji-keberanian-internal-polri-bongkar-penyadapan-prabo</link>
+        <description>Kompas404 – PDI Perjuangan mengapresi keberanian dan integritas jajaran internal Polri dalam membeberkan dugaan tindak pidana penyadapan ilegal terhadap Presiden Prabowo Subianto. Menurut keterangan Sekjen PDIP, penyadapan secara ilegal yang disertai</description>
+        <pubDate>Tue, 03 Nov 2026 23:36:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
 </channel>
 </rss>
