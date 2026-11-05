@@ -5,8 +5,8 @@
     <link>https://kompas404.github.io</link>
     <description>KOMPAS404 menyajikan berita terbaru, analisis tajam, dan informasi faktual setiap hari. Teknologi, bisnis, olahraga, lifestyle.</description>
     <language>id-ID</language>
-    <lastBuildDate>Thu, 05 Nov 2026 06:30:19 +0700</lastBuildDate>
-    <pubDate>Thu, 05 Nov 2026 06:30:19 +0700</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2026 13:10:19 +0700</lastBuildDate>
+    <pubDate>Thu, 05 Nov 2026 13:10:19 +0700</pubDate>
     <generator>KOMPAS404 RSS Generator</generator>
     <image>
         <url>https://kompas404.github.io/logo-kompas404.png</url>
@@ -18,45 +18,73 @@
     <atom:link href="https://kompas404.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-        <title>Eks Jubir Kemenag Jelaskan Soal Dana Haji dan Alasan Pembagian Kuota Tambahan — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/eks-jubir-kemenag-jelaskan-soal-dana-haji-dan-alasan-pembagi</link>
-        <description>Kompas404 – Tenaga ahli sekaligus juru bicara Kementerian Agama (Jubir Kemenag) tahun 2022-2024, Mariana Aristyawati alias Anna Hasbie menuturkan penyelenggaraan ibadah haji tahun 2024 jauh lebih matang dibanding tahun 2023. Menurut keterangan Anna u</description>
-        <pubDate>Thu, 05 Nov 2026 04:56:00 +0700</pubDate>
+        <title>Roy Suryo Ungkap Alasan Tertawa Saat Jokowi Tunjukkan Ijazah di Sidang — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/roy-suryo-ungkap-alasan-tertawa-saat-jokowi-tunjukkan-ijazah</link>
+        <description>Nasional, Kompas404 – Roy Suryo mengungkap alasan dirinya tertawa ketika Presiden ke-7 RI Joko Widodo (Jokowi) menunjukkan ijazah di persidangan kasus fitnah ijazah palsu. Dalam penyampaiannya, palsu menjelaskan ya pertama-tama, saya tadi tertawa dan</description>
+        <pubDate>Thu, 05 Nov 2026 13:08:00 +0700</pubDate>
         <category>Hukum</category>
     </item>
     <item>
-        <title>Jenazah Istri Siri Dwi Bagus Tiba di Bogor, Disambut Isak Tangis Keluarga — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/jenazah-istri-siri-dwi-bagus-tiba-di-bogor-disambut-isak-tan</link>
-        <description>Kompas404 – Jenazah orang yang terdampak pembunuhan oleh Dwi Bagus Martono (40), yakni Dini Hardiyanti (30) dan anaknya, AGEF (4), tiba di kediamannya di Megamendung, Bogor, Jawa Barat (Jabar). Keluarga dan kerabat menyambut kedatangan kedua jenazah </description>
-        <pubDate>Thu, 05 Nov 2026 04:18:00 +0700</pubDate>
+        <title>Modus Polisi Gadungan Culik-Peras Pria di Bekasi: Tuduh Korban Pembalap Liar — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/modus-polisi-gadungan-culik-peras-pria-di-bekasi-tuduh-korba</link>
+        <description>Kompas404 – Seorang pria berinisial ASM di Cikarang Kabupaten Bekasi, Jawa Barat (Jabar), menjadi orang yang terdampak penculikan dan pemerasan melalui modus aparat kepolisian gadungan. Para pelaku menuduh orang yang terdampak sebagai pelaku balap li</description>
+        <pubDate>Thu, 05 Nov 2026 13:03:00 +0700</pubDate>
         <category>Hukum</category>
     </item>
     <item>
-        <title>Polisi Gerebek Lapak Narkoba di Tanah Abang, 18 Orang Ditangkap — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/polisi-gerebek-lapak-narkoba-di-tanah-abang-18-orang-ditangk</link>
-        <description>Jakarta, Kompas404 – Polres Metro Jakarta Pusat menggerebek lapak penyalahgunaan narkotika di Jalan Jatibunder Dalam, Kebon Melati, Tanah Abang, Jakarta Pusat (Jakpus). Aparat kepolisian menangkap 18 orang dalam operasi tersebut. Reynold dalam ketera</description>
-        <pubDate>Thu, 05 Nov 2026 03:21:00 +0700</pubDate>
+        <title>Antisipasi Hujan Ekstrem Februari, Pramono Kebut Normalisasi Sungai — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/antisipasi-hujan-ekstrem-februari-pramono-kebut-normalisasi</link>
+        <description>Kompas404 – Gubernur DKI Jakarta Pramono Anung mulai menyiapkan upaya antisipasi menghadapi potensi banjir di Ibu Kota. Pramono menegaskan bahwa hal yang berkaitan melalui antisipasi banjir, dari laporan BMKG diperkirakan curah hujan tertinggi pada b</description>
+        <pubDate>Thu, 05 Nov 2026 12:37:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Roy Suryo Tertawa Saat Jokowi Tunjukkan Ijazah di Sidang Kasus Fitnah — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/roy-suryo-tertawa-saat-jokowi-tunjukkan-ijazah-di-sidang-kas</link>
+        <description>Kompas404 – Presiden ke-7 RI Joko Widodo (Jokowi) menunjukkan ijazah S1 miliknya dari Universitas Gadjah Mada (UGM) saat menjadi saksi perkara fitnah ijazah palsu dengan terdakwa Roy Suryo. Roy tertawa ketika Jokowi menunjukkan ijazah tersebut. Awaln</description>
+        <pubDate>Thu, 05 Nov 2026 12:32:00 +0700</pubDate>
         <category>Hukum</category>
     </item>
     <item>
-        <title>Bertemu Prabowo, Gubernur Mualem Bahas Bendera dan Otsus Aceh — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/bertemu-prabowo-gubernur-mualem-bahas-bendera-dan-otsus-aceh</link>
-        <description>Nasional, Kompas404 – Gubernur Aceh Muzakir Manaf (Mualem) bertemu dengan Presiden Prabowo Subianto di Istana Merdeka, Jakarta. Dalam penyampaiannya, Mualem dilansir detikSumut menjelaskan kita ingin semua persoalan dan aspirasi Aceh dapat dibicaraka</description>
-        <pubDate>Thu, 05 Nov 2026 02:33:00 +0700</pubDate>
-        <category>Politik</category>
+        <title>PB PII Dorong RUU Perampasan Aset Atur Perlindungan Khusus bagi Saksi — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pb-pii-dorong-ruu-perampasan-aset-atur-perlindungan-khusus-b</link>
+        <description>Nasional, Kompas404 – Ketua Pengurus Besar Pelajar Islam Indonesia PB PII, Amsal Alfian, mendorong adanya perlindungan khusus bagi saksi dalam RUU Perampasan Aset. Dalam penyampaiannya, Amsal dalam RDPU dengan Komisi III DPR menjelaskan terkadang ora</description>
+        <pubDate>Thu, 05 Nov 2026 12:25:00 +0700</pubDate>
+        <category>Transportasi</category>
     </item>
     <item>
-        <title>DPRD Serang Harap Perbaikan Bisa Bikin Alun-alun Cikande Layak Dikunjungi — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/dprd-serang-harap-perbaikan-bisa-bikin-alun-alun-cikande-lay</link>
-        <description>Nasional, Kompas404 – DPRD Kabupaten Serang menyoroti kondisi Alun-alun Cikande yang dinilai belum layak dan kini sedang dalam proses perbaikan. pejabat terkait menegaskan bahwa pemasangan paving block ini menjadi bagian dari upaya meningkatkan kuali</description>
-        <pubDate>Thu, 05 Nov 2026 02:02:00 +0700</pubDate>
-        <category>Politik</category>
+        <title>5 Korban Heli Karhutla Jatuh Dirawat di RS, Begini Kondisinya — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/5-korban-heli-karhutla-jatuh-dirawat-di-rs-begini-kondisinya</link>
+        <description>Nasional, Kompas404 – Badan Nasional Penanggulangan Bencana (BNPB) membeberkan orang yang terdampak helikopter Mi-17 yang bertugas dalam operasi penanggulangan kebakaran hutan dan lahan (karhutla) di Kalimantan telah dievakuasi. Menurut keterangan Kr</description>
+        <pubDate>Thu, 05 Nov 2026 12:23:00 +0700</pubDate>
+        <category>Transportasi</category>
     </item>
     <item>
-        <title>Tertibkan Penguasaan Hutan Ilegal, Satgas PKH Dalami Kaitan Oknum Aparat — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/tertibkan-penguasaan-hutan-ilegal-satgas-pkh-dalami-kaitan-o</link>
-        <description>Jakarta, Kompas404 – Satuan Tugas Penertiban Kawasan Hutan (Satgas PKH) menertibkan dan mengambil alih kembali kawasan hutan yang dikuasai secara ilegal oleh perusahaan-perusahaan yang terafiliasi melalui Arif Kurniawan (AK). Dalam penyampaiannya, Ba</description>
-        <pubDate>Thu, 05 Nov 2026 01:17:00 +0700</pubDate>
+        <title>Mitigasi Bencana Aceh Barat: Tebing Sungai Diperkuat, Sekolah Direlokasi — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/mitigasi-bencana-aceh-barat-tebing-sungai-diperkuat-sekolah</link>
+        <description>Jakarta, Kompas404 – Pihak pemerintah melanjutkan pemulihan pascabencana di Kabupaten Aceh Barat, Aceh. Dalam penyampaiannya, Kepala Posko Nasional Satuan Tugas Percepatan Rehabilitasi da menjelaskan di sepanjang alur Sungai Meureubo yang masuk wilay</description>
+        <pubDate>Thu, 05 Nov 2026 12:22:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Jaksa Penasaran Penampilan Saat Lulus UGM, Jokowi: Berkumis dan Berkacamata — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/jaksa-penasaran-penampilan-saat-lulus-ugm-jokowi-berkumis-da</link>
+        <description>Jakarta, Kompas404 – Presiden ke-7 RI Joko Widodo (Jokowi) menunjukkan ijazah S-1 miliknya dari Universitas Gadjah Mada (UGM) ketika menjadi saksi kasus fitnah ijazah palsu melalui terdakwa Roy Suryo. Jaksa bertanya apakah Jokowi berkumis dan memakai</description>
+        <pubDate>Thu, 05 Nov 2026 12:05:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Hilangkan Jejak, Dwi Bagus Bakar Ponsel Dini — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/hilangkan-jejak-dwi-bagus-bakar-ponsel-dini</link>
+        <description>Kompas404 – Dwi Bagus Martono tersangka pembunuhan Dini Hardiyanti (30) dan anaknya AGEF (4) di Madiun, juga membakar ponsel milik Dini. Ponsel tersebut diduga dibakar guna menghilangkan jejak. Menurut keterangan Kasubdit III Jatanras Ditreskrimum Po</description>
+        <pubDate>Thu, 05 Nov 2026 12:05:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Akademisi: Perampasan Aset Tanpa Pidana Secara Gegabah Negatif bagi Investor — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/akademisi-perampasan-aset-tanpa-pidana-secara-gegabah-negati</link>
+        <description>Kompas404 – Akademisi Fithra Faisal Hastiadi menilai penerapan mekanisme non-conviction based (NCB) atau perampasan aset tanpa putusan pidana secara umum tidak begitu baik. Menurut keterangan Fithra dalam RDPU dengan Komisi III DPR RI, nCB luas gitu </description>
+        <pubDate>Thu, 05 Nov 2026 12:03:00 +0700</pubDate>
         <category>Hukum</category>
     </item>
 </channel>
