@@ -5,8 +5,8 @@
     <link>https://kompas404.github.io</link>
     <description>KOMPAS404 menyajikan berita terbaru, analisis tajam, dan informasi faktual setiap hari. Teknologi, bisnis, olahraga, lifestyle.</description>
     <language>id-ID</language>
-    <lastBuildDate>Sun, 15 Nov 2026 05:14:39 +0700</lastBuildDate>
-    <pubDate>Sun, 15 Nov 2026 05:14:39 +0700</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2026 12:54:54 +0700</lastBuildDate>
+    <pubDate>Sun, 15 Nov 2026 12:54:54 +0700</pubDate>
     <generator>KOMPAS404 RSS Generator</generator>
     <image>
         <url>https://kompas404.github.io/logo-kompas404.png</url>
@@ -17,47 +17,6 @@
     </image>
     <atom:link href="https://kompas404.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 
-    <item>
-        <title>Wisatawan Tewas di Kolam Renang Padusan Mojokerto, Botol Arak Sempat Disita — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/wisatawan-tewas-di-kolam-renang-padusan-mojokerto-botol-arak</link>
-        <description>Jakarta, Kompas404 – Seorang wisatawan bernama Firgi Anggri Andana (22) terungkap tewas di dasar kolam renang pemandian air panas Padusan, Pacet, Mojokerto, Jawa Timur (Jatim). Dalam penyampaiannya, pejabat terkait menjelaskan dari depan itu kedapata</description>
-        <pubDate>Sun, 15 Nov 2026 03:36:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Rumah 3 Lantai Terbakar di Penjaringan Jakut, Diduga karena Masalah Listrik — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/rumah-3-lantai-terbakar-di-penjaringan-jakut-diduga-karena-m</link>
-        <description>Nasional, Kompas404 – Kebakaran terjadi di salah satu rumah tiga lantai di Jalan Sukarela, Penjaringan, Jakarta Utara (Jakut). Dalam penyampaiannya, Kepala Seksi Operasi Suku Dinas Gulkarmat Jakarta Utara dan K menjelaskan objek yang terbakar merupak</description>
-        <pubDate>Sun, 15 Nov 2026 01:05:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Gempa M 4,6 Terjadi di Pulau Karatung Sulut — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/gempa-m-4-6-terjadi-di-pulau-karatung-sulut</link>
-        <description>Kompas404 – Gempa magnitudo (M) 4 6 berlangsung di Pulau Karatung, Sulawesi Utara (Sulut). Pusat gempa berada di 378 Km utara Pulau Karatung. Pendekatan berbasis data dan teknologi dinilai mampu memperkuat upaya mitigasi dan adaptasi. Kompas404 menyo</description>
-        <pubDate>Sat, 14 Nov 2026 23:35:00 +0700</pubDate>
-        <category>Lingkungan</category>
-    </item>
-    <item>
-        <title>AMM Filipina, Menlu Tata Tegaskan Komitmen RI Perkuat Persatuan ASEAN — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/amm-filipina-menlu-tata-tegaskan-komitmen-ri-perkuat-persatu</link>
-        <description>Kompas404 Newsroom – Menteri Luar Negeri (Menlu) RI Arrmanatha Nasir menghadiri ASEAN Foreign Ministers' Meeting (AMM) atau Pertemuan Menlu se-ASEAN di Manila, Filipina. Dalam penyampaiannya, Tata dalam AMM yang digelar di Conrad Manila menjelaskan m</description>
-        <pubDate>Sat, 14 Nov 2026 23:14:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>BULOG & Bapanas Perkuat Sinergi Salurkan Bantuan Pangan di Sulsel — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/bulog-bapanas-perkuat-sinergi-salurkan-bantuan-pangan-di-sul</link>
-        <description>Jakarta, Kompas404 – Badan Pangan Nasional (Bapanas) bersama Perum BULOG terus memastikan kebutuhan pangan masyarakat terpenuhi. Salah satu upaya yang dilakukan, yakni mempercepat penyaluran Dukungan Pangan Beras ke berbagai wilayah di Indonesia. Hal</description>
-        <pubDate>Sat, 14 Nov 2026 22:13:00 +0700</pubDate>
-        <category>Politik</category>
-    </item>
-    <item>
-        <title>Cuaca Buruk Saat Melaut, Nelayan di Pandeglang Tewas Tersambar Petir — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/cuaca-buruk-saat-melaut-nelayan-di-pandeglang-tewas-tersamba</link>
-        <description>Kompas404 – Seorang nelayan bernama Awid (50) warga Kampung Badongan, Desa Teluk, Kecamatan Labuan, Kabupaten Pandeglang, Banten, dilaporkan tewas ketika melaut. Orang yang terdampak tewas lantaran tersambar petir. Dalam penyampaiannya, rekan korban </description>
-        <pubDate>Sat, 14 Nov 2026 21:45:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
+
 </channel>
 </rss>
