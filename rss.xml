@@ -5,8 +5,8 @@
     <link>https://kompas404.github.io</link>
     <description>KOMPAS404 menyajikan berita terbaru, analisis tajam, dan informasi faktual setiap hari. Teknologi, bisnis, olahraga, lifestyle.</description>
     <language>id-ID</language>
-    <lastBuildDate>Fri, 20 Nov 2026 07:31:16 +0700</lastBuildDate>
-    <pubDate>Fri, 20 Nov 2026 07:31:16 +0700</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2026 22:14:46 +0700</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2026 22:14:46 +0700</pubDate>
     <generator>KOMPAS404 RSS Generator</generator>
     <image>
         <url>https://kompas404.github.io/logo-kompas404.png</url>
@@ -18,45 +18,73 @@
     <atom:link href="https://kompas404.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-        <title>TNUK Buka Suara soal Kandang Angkut Badak: untuk Translokasi Internal — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/tnuk-buka-suara-soal-kandang-angkut-badak-untuk-translokasi</link>
-        <description>Kompas404 Newsroom – Balai Taman Nasional Ujung Kulon (TNUK) menjelaskan soal kandang angkut badak Jawa. TNUK dalam unggahan Instagram-nya mengungkapkan, "Perlu kami tegaskan bahwa informasi tersebut tidak benar. Kandang angkut tersebut merupakan sar</description>
-        <pubDate>Fri, 20 Nov 2026 07:26:00 +0700</pubDate>
+        <title>Polres Tangsel Ungkap 11 Kasus Curanmor, 13 Orang Dijerat dan 15 Motor Disita — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/polres-tangsel-ungkap-11-kasus-curanmor-13-orang-dijerat-dan</link>
+        <description>Jakarta, Kompas404 – Jajaran Polres Tangerang Selatan (Tangsel) membeberkan 11 perkara pencurian kendaraan bermotor (curanmor) selama periode Oktober hingga November 2026. Belasan orang ditangkap. Kapolres Tangerang Selatan AKBP Boy Jumalolo mengungk</description>
+        <pubDate>Fri, 20 Nov 2026 22:03:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Terungkap di Bogor soal WNI Nyaris Direkrut Jadi Tentara Bayaran Rusia — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/terungkap-di-bogor-soal-wni-nyaris-direkrut-jadi-tentara-bay</link>
+        <description>Nasional, Kompas404 – Polres Bogor menguak kasus penyaluran masyarakat negara Indonesia (WNI) menjadi tentara bayaran Rusia dengan terduga pelaku berjumlah dua orang. Kapolres Bogor AKBP Arfan Zulkan Sipayung mengungkapkan, "Korbannya orang yang terd</description>
+        <pubDate>Fri, 20 Nov 2026 22:03:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Kisah Udin, Ahli Gizi yang Jadi Wali Asuh di Sekolah Rakyat Kediri — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/kisah-udin-ahli-gizi-yang-jadi-wali-asuh-di-sekolah-rakyat-k</link>
+        <description>Jakarta, Kompas404 – Memiliki keahlian di bidang kesehatan khususnya mengenai gizi dan makanan merupakan keahlian Ahmad Fadkhurriza Ivakhudin (Udin). Ia merupakan ahli gizi yang kini bekerja sebagai wali asuh di Sekolah Rakyat Menengah Atas (SRMA) 24</description>
+        <pubDate>Fri, 20 Nov 2026 21:58:00 +0700</pubDate>
+        <category>Pendidikan</category>
+    </item>
+    <item>
+        <title>Paviliun Indonesia di COP31 Ditutup, Dihadiri 3.651 Audiens dari 166 Negara — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/paviliun-indonesia-di-cop31-ditutup-dihadiri-3-651-audiens-d</link>
+        <description>Kompas404 – Paviliun Indonesia dalam Konferensi Transformasi Iklim PBB ke-31 (COP31) resmi menutup rangkaian kegiatannya hari ini. Menurut keterangan Ary dalam sambutannya di paviliun, sejak tanggal 9 November hingga 20 November, Paviliun Indonesia t</description>
+        <pubDate>Fri, 20 Nov 2026 21:31:00 +0700</pubDate>
+        <category>Bisnis</category>
+    </item>
+    <item>
+        <title>Nestapa Kampung Adat Baduy Dilalap Api — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/nestapa-kampung-adat-baduy-dilalap-api</link>
+        <description>Nasional, Kompas404 – Kebakaran cukup besar berlangsung di Desa adat Baduy Luar di Kampung Cipaler Pasir, Desa Kanekes, Kabupaten Lebak, Banten. Puluhan rumah dan bangunan lain terbakar. Dalam penyampaiannya, Sekretaris Desa Kanekes menjelaskan sekit</description>
+        <pubDate>Fri, 20 Nov 2026 21:09:00 +0700</pubDate>
+        <category>Lingkungan</category>
+    </item>
+    <item>
+        <title>Pria di Jaktim Sempat Minta Maaf ke Ibu Sebelum Tewas Bersimbah Darah — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pria-di-jaktim-sempat-minta-maaf-ke-ibu-sebelum-tewas-bersim</link>
+        <description>Jakarta, Kompas404 Network – Seorang pria berinisial RS (46) ditemukan tewas bersimbah darah di rumahnya, Kramat Jati, Jakarta Timur (Jaktim), melalui luka sayatan di kepala korban. Korban sempat meminta maaf sebelum terungkap tewas. Korban sempat me</description>
+        <pubDate>Fri, 20 Nov 2026 21:08:00 +0700</pubDate>
+        <category>Lingkungan</category>
+    </item>
+    <item>
+        <title>Sudaryono: MBG Sangat Berarti, Banyak Anak ke Sekolah dalam Keadaan Lapar — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/sudaryono-mbg-sangat-berarti-banyak-anak-ke-sekolah-dalam-ke</link>
+        <description>Jakarta, Kompas404 Network – Tidak semua anak Indonesia dapat menikmati sarapan sebelum berangkat ke sekolah. Sudaryono dalam keterangan tertulis menegaskan bahwa kita harus mengakui bahwa banyak sekolah di belahan Indonesia, di daerah-daerah memang </description>
+        <pubDate>Fri, 20 Nov 2026 21:00:00 +0700</pubDate>
         <category>Transportasi</category>
     </item>
     <item>
-        <title>Komisi VIII DPR Panggil Kepala BNPB Pekan Depan, Bahas Banjir Aceh-Sumatera — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/komisi-viii-dpr-panggil-kepala-bnpb-pekan-depan-bahas-banjir</link>
-        <description>Jakarta, Kompas404 – Ketua Komisi VIII DPR RI Marwan Dasopang menyampaikan pihaknya akan memanggil Kepala Badan Nasional Penanggulangan Bencana (BNPB) Letjen TNI Kristomei Sianturi, pekan depan. Menurut keterangan Marwan kepada wartawan, kita sudah m</description>
-        <pubDate>Fri, 20 Nov 2026 07:18:00 +0700</pubDate>
-        <category>Politik</category>
+        <title>Full Support Jakarta Kota Global, Warga Senang Parkir Liar Ditertibkan — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/full-support-jakarta-kota-global-warga-senang-parkir-liar-di</link>
+        <description>Kompas404 Newsroom – Sejumlah warga mendukung upaya Pemprov DKI Jakarta penertiban parkir liar di Blok M, Jakarta Selatan. Terlebih, Jakarta punya cita-cita jadi Kota Global. Langkah preventif serta penegakan standar keselamatan dinilai mampu menekan</description>
+        <pubDate>Fri, 20 Nov 2026 20:53:00 +0700</pubDate>
+        <category>Transportasi</category>
     </item>
     <item>
-        <title>4 Fakta Pasar Obor Jaktim Digerebek Terkait Narkoba — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/4-fakta-pasar-obor-jaktim-digerebek-terkait-narkoba</link>
-        <description>Nasional, Kompas404 – Tim gabungan menggerebek Pasar Obor Jakarta Timur. Dalam penyampaiannya, Kapolres Metro Jakarta Timur Hendri Umar dilansir Antara menjelaskan dari hasil penggeledahan tadi kita juga menemukan senjata api rakitan. Ada satu senjat</description>
-        <pubDate>Fri, 20 Nov 2026 06:46:00 +0700</pubDate>
+        <title>Polisi Tindak Balap Liar Resahkan Warga Sidoarjo, Ratusan Motor Diamankan — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/polisi-tindak-balap-liar-resahkan-warga-sidoarjo-ratusan-mot</link>
+        <description>Jakarta, Kompas404 – Aparat kepolisian menindak tegas aksi balap liar yang meresahkan masyarakat di kawasan Pondok Candra, Sidoarjo. Satlantas Polresta Sidoarjo mengamankan ratusan kendaraan yang diduga terlibat dalam aktivitas tersebut. Menindaklanj</description>
+        <pubDate>Fri, 20 Nov 2026 20:50:00 +0700</pubDate>
         <category>Hukum</category>
     </item>
     <item>
-        <title>Duduk Perkara Pengamen Ondel-ondel di Tangerang Dibunuh Rekannya — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/duduk-perkara-pengamen-ondel-ondel-di-tangerang-dibunuh-reka</link>
-        <description>Jakarta, Kompas404 Network – Masyarakat Kota Tangerang Banten dihebohkan penemuan mayat pria di pinggir Jalan Tol Tangerang-Jakarta. Kasi Humas Polres Metro Tangerang Kota mengungkapkan, "Orang yang terdampak diketahui berinisial D, seorang laki-laki</description>
-        <pubDate>Fri, 20 Nov 2026 06:11:00 +0700</pubDate>
-        <category>Hukum</category>
-    </item>
-    <item>
-        <title>UU Perampasan Aset Disebut Bikin Koruptor Tak Bisa Nikmati Hasil Korupsi — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/uu-perampasan-aset-disebut-bikin-koruptor-tak-bisa-nikmati-h</link>
-        <description>Kompas404 Newsroom – Pengamat Hukum dan Pengerjaan Hardjuno Wiwoho, menyambut pengesahan Undang-Undang (UU) Perampasan Aset oleh DPR RI. Dalam penyampaiannya, Hardjuno menjelaskan selama ini kita terlalu fokus pada berapa tahun koruptor dihukum penja</description>
-        <pubDate>Fri, 20 Nov 2026 03:43:00 +0700</pubDate>
-        <category>Hukum</category>
-    </item>
-    <item>
-        <title>KPK Cecar Sestama BNPB Soal Plotting Anggaran Dana Bencana ke Swasta — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/kpk-cecar-sestama-bnpb-soal-plotting-anggaran-dana-bencana-k</link>
-        <description>Kompas404 – KPK kembali memeriksa Sekretaris Utama (Sestama) BNPB, Rustian, sehubungan dengan perkara korupsi dana siap pakai (DSP) kebencanaan pada BNPB. Budi kepada wartawan mengungkapkan, "Seperti apa penunjukan langsung ini dilakukan di lingkunga</description>
-        <pubDate>Fri, 20 Nov 2026 01:28:00 +0700</pubDate>
+        <title>Duta Palma Group Respons Tuntutan Rp 81,8 T di Kasus Kebun Sawit Ilegal — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/duta-palma-group-respons-tuntutan-rp-81-8-t-di-kasus-kebun-s</link>
+        <description>Nasional, Kompas404 – Tim kuasa hukum korporasi Duta Palma Group milik Surya Darmadi, Rinto Maha menilai tuntutan jaksa penuntut umum (JPU) sebesar Rp 81,8 triliun dalam perkara dugaan korupsi dan tindak pidana pencucian uang dalam kegiatan usaha per</description>
+        <pubDate>Fri, 20 Nov 2026 20:42:00 +0700</pubDate>
         <category>Hukum</category>
     </item>
 </channel>
