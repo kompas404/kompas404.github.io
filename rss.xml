@@ -5,8 +5,8 @@
     <link>https://kompas404.github.io</link>
     <description>KOMPAS404 menyajikan berita terbaru, analisis tajam, dan informasi faktual setiap hari. Teknologi, bisnis, olahraga, lifestyle.</description>
     <language>id-ID</language>
-    <lastBuildDate>Tue, 24 Nov 2026 06:42:17 +0700</lastBuildDate>
-    <pubDate>Tue, 24 Nov 2026 06:42:17 +0700</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:28:21 +0700</lastBuildDate>
+    <pubDate>Tue, 24 Nov 2026 16:28:21 +0700</pubDate>
     <generator>KOMPAS404 RSS Generator</generator>
     <image>
         <url>https://kompas404.github.io/logo-kompas404.png</url>
@@ -17,47 +17,6 @@
     </image>
     <atom:link href="https://kompas404.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 
-    <item>
-        <title>ASEAN-China Week 2026 Resmi Dibuka, Perkuat Kerja Sama Ekonomi hingga AI — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/asean-china-week-2026-resmi-dibuka-perkuat-kerja-sama-ekonom</link>
-        <description>Kompas404 – ASEAN-China Week 2026 resmi dibuka di Chongqing, China. ketetanggaan yang baik dan kerja sama saling menguntungkan mengungkapkan, "ASEAN dan Tiongkok telah menapaki jalan terang ketetanggaan yang baik dan kerja sama saling menguntungkan, </description>
-        <pubDate>Tue, 24 Nov 2026 06:20:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Babak Baru Erin Eks Istri Andre Taulany Ditetapkan Tersangka Aniaya ART — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/babak-baru-erin-eks-istri-andre-taulany-ditetapkan-tersangka</link>
-        <description>Nasional, Kompas404 – Perkara dugaan penganiayaan asisten rumah tangga (ART) yang menyeret mantan istri Andre Taulany, Rien Wartia Trigina (RWT) atau Erin memasuki babak baru. Menurut keterangan Kepala Seksi Humas Polres Metro Jakarta Selatan AKP Jok</description>
-        <pubDate>Tue, 24 Nov 2026 06:01:00 +0700</pubDate>
-        <category>Hukum</category>
-    </item>
-    <item>
-        <title>2 WNI Hendak Jadi Tentara Rusia, Imigrasi Ngurah Rai Gagalkan Keberangkatan — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/2-wni-hendak-jadi-tentara-rusia-imigrasi-ngurah-rai-gagalkan</link>
-        <description>Jakarta, Kompas404 – Dua warga negara Indonesia (WNI) diduga akan bergabung melalui militer Rusia. Menurut keterangan Novyandri, dalam pemeriksaan, yang bersangkutan mengakui bahwa dirinya datang ke Bali lantaran mendapatkan tawaran guna menjadi tent</description>
-        <pubDate>Tue, 24 Nov 2026 04:11:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
-    <item>
-        <title>Ibu dan Anak di Lampung Tercebur Sumur Sedalam 13 Meter, Ibu Meninggal — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/ibu-dan-anak-di-lampung-tercebur-sumur-sedalam-13-meter-ibu</link>
-        <description>Jakarta, Kompas404 – Seorang ibu rumah tangga tewas tercebur ke dalam sumur sedalam 13 meter bersama anaknya yang berusia 7 tahun di Pekon Margakaya, Kecamatan Pringsewu, Lampung. Sang anak terungkap selamat. Ramon mengungkapkan, "Benar, berlangsung </description>
-        <pubDate>Tue, 24 Nov 2026 02:27:00 +0700</pubDate>
-        <category>Lingkungan</category>
-    </item>
-    <item>
-        <title>Kebakaran di Rusunawa Tambora Jakbar, Asap Membubung — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/kebakaran-di-rusunawa-tambora-jakbar-asap-membubung</link>
-        <description>Nasional, Kompas404 – Kebakaran terjadi di wilayah Tambora Jakarta Barat. Menurut keterangan petugas call center Jakarta Siaga 112 saat dimintai konfirmas, kami mendapatkan informasi kebakaran di Tambora, kebakaran rumah tinggal, di rusun Tambora, An</description>
-        <pubDate>Tue, 24 Nov 2026 00:07:00 +0700</pubDate>
-        <category>Lingkungan</category>
-    </item>
-    <item>
-        <title>7 Orang Tewas dalam Kecelakaan Beruntun di Sumedang, Ini Identitasnya — KOMPAS404</title>
-        <link>https://kompas404.github.io/berita/7-orang-tewas-dalam-kecelakaan-beruntun-di-sumedang-ini-iden</link>
-        <description>Jakarta, Kompas404 Network – Tujuh orang dilaporkan tewas dalam kecelakaan beruntun di Jalan Raya Bandung-Cirebon, tepatnya di Lingkungan Samoja, Kelurahan Pasanggrahan Baru, Kecamatan Sumedang Selatan, Kabupaten Sumedang, Jawa Barat. Selain itu, ena</description>
-        <pubDate>Mon, 23 Nov 2026 23:30:00 +0700</pubDate>
-        <category>Transportasi</category>
-    </item>
+
 </channel>
 </rss>
