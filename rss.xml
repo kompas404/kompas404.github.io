@@ -5,8 +5,8 @@
     <link>https://kompas404.github.io</link>
     <description>KOMPAS404 menyajikan berita terbaru, analisis tajam, dan informasi faktual setiap hari. Teknologi, bisnis, olahraga, lifestyle.</description>
     <language>id-ID</language>
-    <lastBuildDate>Tue, 24 Nov 2026 16:28:21 +0700</lastBuildDate>
-    <pubDate>Tue, 24 Nov 2026 16:28:21 +0700</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:13:50 +0700</lastBuildDate>
+    <pubDate>Wed, 25 Nov 2026 05:13:50 +0700</pubDate>
     <generator>KOMPAS404 RSS Generator</generator>
     <image>
         <url>https://kompas404.github.io/logo-kompas404.png</url>
@@ -17,6 +17,47 @@
     </image>
     <atom:link href="https://kompas404.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 
-
+    <item>
+        <title>Pria di Pekalongan Tewas Kesetrum Saat Bantu Evakuasi Pohon Tumbang — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pria-di-pekalongan-tewas-kesetrum-saat-bantu-evakuasi-pohon</link>
+        <description>Nasional, Kompas404 – Seorang pria tewas tersengat listrik ketika membantu membersihkan pohon tumbang yang menimpa kabel listrik di Dukuh Rokom, Desa Sidoharjo, Kecamatan Doro, Kabupaten Pekalongan, Jawa Tengah (Jateng). Dalam penyampaiannya, Kapolse</description>
+        <pubDate>Wed, 25 Nov 2026 04:05:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Pemotor Tewas Tertimpa Pohon Tumbang Saat Melintas di Musi Rawas Sumsel — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pemotor-tewas-tertimpa-pohon-tumbang-saat-melintas-di-musi-r</link>
+        <description>Jakarta, Kompas404 Network – Seorang pengendara sepeda motor asal Sarolangun, Jambi, bernama Hery Sugianto (44) tewas setelah tertimpa pohon tumbang di Musi Rawas, Sumatera Selatan (Sumsel). Menurut keterangan Gada dilansir detikSumbangsel, ketika di</description>
+        <pubDate>Wed, 25 Nov 2026 02:06:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Ayah dan Anak di Sumsel Bunuh Calo Loker Usai Kena Tipu Rp 25 Juta — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/ayah-dan-anak-di-sumsel-bunuh-calo-loker-usai-kena-tipu-rp-2</link>
+        <description>Nasional, Kompas404 – Dua pelaku pembunuhan pria lanjut usia berinisial J (50) di Prabumulih, Sumatera Selatan, ternyata merupakan ayah dan anak, yakni RSR (25) dan A (43). Kasat Reskrim Polres Prabumulih AKP Rendi Ramadhona dilansir mengungkapkan, "</description>
+        <pubDate>Tue, 24 Nov 2026 23:57:00 +0700</pubDate>
+        <category>Hukum</category>
+    </item>
+    <item>
+        <title>Tolak Penumpang Difabel Duduk di Kursi Prioritas, Sopir Mikrotrans Dipecat — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/tolak-penumpang-difabel-duduk-di-kursi-prioritas-sopir-mikro</link>
+        <description>Kompas404 Newsroom – Viral di media sosial seorang penumpang penyandang disabilitas dimarahi sopir Mikrotrans JakLingko lantaran hendak duduk di kursi depan. Peristiwa itu berlangsung di Halte RSCM, Jakarta Pusat. Ketika itu, seorang perempuan hendak</description>
+        <pubDate>Tue, 24 Nov 2026 23:53:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Irjen Dekananto Raih Penghargaan Perajut Persatuan di detikJatim Awards 2026 — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/irjen-dekananto-raih-penghargaan-perajut-persatuan-di-detikj</link>
+        <description>Jakarta, Kompas404 Network – Kapolda Jawa Timur (Jatim) Irjen Dekananto Eko Purwono menerima Anugerah Figur Akselerator Kemajuan dalam ajang Forum Ekologi Jawa Timur dan detikJatim Awards 2026. Penghargaan kategori Perajut Persatuan dan Harmoni Jawa </description>
+        <pubDate>Tue, 24 Nov 2026 23:24:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
+    <item>
+        <title>Pohon Tumbang di Jalan Utama Jonggol Bogor, Sempat Tutup Lalin 30 Menit — KOMPAS404</title>
+        <link>https://kompas404.github.io/berita/pohon-tumbang-di-jalan-utama-jonggol-bogor-sempat-tutup-lali</link>
+        <description>Nasional, Kompas404 – Hujan deras disertai angin kencang mengakibatkan pohon tumbang di Jalan Raya Jonggol-Cileungsi, Kecamatan Jonggol, Bogor, Jawa Barat (Jabar). Kapolsek Jonggol Kompol Hida ketika dimintai konfirmasi mengungkapkan, "Betul, pohon t</description>
+        <pubDate>Tue, 24 Nov 2026 23:15:00 +0700</pubDate>
+        <category>Transportasi</category>
+    </item>
 </channel>
 </rss>
